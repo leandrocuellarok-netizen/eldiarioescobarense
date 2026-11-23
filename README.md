@@ -18,13 +18,12 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma 
 - [Prototipo HTML de portada v0.1 — no desplegar](ARQUITECTURA/prototipo-portada-v0.1.html)
 - [Especificación del directorio local v1](ARQUITECTURA/especificacion-directorio-local-v1.md)
 - [Modelo de datos del directorio v2](ARQUITECTURA/modelo-datos-directorio-v2.md)
-- [Brief de actualidad y oportunidades — ejecución 5](ACTUALIDAD/brief-actualidad-y-oportunidades-2026-11-23-ejecucion-5.md)
-- [Seguimiento productivo y comercial — ejecución 6](ACTUALIDAD/seguimiento-productivo-comercial-2026-11-23-ejecucion-6.md)
-- [Prospectos por localidad — lote 5](PROSPECTOS/lote-5-prospectos-por-localidad-2026-11-23.md)
-- [Prospectos locales — lote 6](PROSPECTOS/lote-6-relevamiento-local-2026-11-23.md)
-- [Calificación comercial y productos editoriales](COMERCIAL/calificacion-prospectos-y-productos-editoriales-v1.md)
-- [Registro de fuentes — ejecución 5](FUENTES/registro-2026-11-23-ejecucion-5.md)
-- [Registro de fuentes — ejecución 6](FUENTES/registro-2026-11-23-ejecucion-6.md)
+- [Dataset inicial de comercios (32 registros, interno)](DATA/comercios-iniciales-v1.json)
+- [Nota de servicio: Red Sostenible](ACTUALIDAD/nota-servicio-red-sostenible-2026-11-23.md)
+- [Brief de balance del Finde Gastronómico](ACTUALIDAD/brief-impacto-finde-gastronomico-2026-11-23.md)
+- [Prospectos por localidad — lote 7](PROSPECTOS/lote-7-directorio-municipal-curado-2026-11-23.md)
+- [Segmentación comercial v3](COMERCIAL/segmentacion-anunciantes-locales-v3-2026-11-23.md)
+- [Registro de fuentes — ejecución 7](FUENTES/registro-2026-11-23-ejecucion-7.md)
 
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
@@ -35,10 +34,10 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma 
 - No contactar comercios, publicar ni enviar mensajes sin autorización expresa.
 
 ## Estado
-Proyecto en fase de diseño y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes.
+Proyecto en fase de diseño y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes. El dataset inicial proviene del catálogo municipal, pero cada registro requiere reconfirmación de actividad y domicilio antes de su publicación.
 
 ## Última ejecución
-23/11/2026 — se agregaron seguimiento productivo y comercial, lote 6 de prospectos, modelo de datos del directorio v2 y registro de fuentes. Se corrigió la exclusión territorial de Sanitarios Lamas, cuya web oficial identifica showroom en Olivos y no acredita sede en Escobar.
+23/11/2026 — se incorporaron dos líneas editoriales (Red Sostenible y balance del Finde Gastronómico), lote 7 de prospectos basado en el directorio municipal, segmentación comercial v3, registro de fuentes y dataset JSON inicial para alimentar el futuro directorio web.
 
 ## Historial de trabajo
 Los lotes anteriores, borradores periodísticos, identidad y modelo comercial permanecen versionados en el repositorio. Consultar el historial de commits para el detalle de cada ejecución.

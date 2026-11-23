@@ -1,44 +1,41 @@
-# Borrador de servicio: Red Sostenible para el Desarrollo
+# Red Sostenible: empresas y comercios de Escobar pueden inscribirse hasta el 30 de diciembre
 
-**Fecha de investigación:** 23/11/2026  
-**Sección:** Empresas, comercio y ambiente  
-**Cobertura:** Todo el partido de Escobar  
-**Estado:** convocatoria y fecha límite informadas en fuente municipal; condiciones económicas y requisitos operativos incompletos.
+**Fecha de relevamiento:** 23/11/2026  
+**Estado editorial:** borrador de servicio; fuente municipal consultada; verificar vigencia del formulario antes de publicar.  
+**Localidades:** todo el partido de Escobar.
 
-## Borrador periodístico
+## Borrador
 
-### Empresas y comercios de Escobar pueden postularse a la Red Sostenible hasta el 30 de diciembre
+La Municipalidad de Escobar mantiene abierta hasta el 30 de diciembre de 2026 la convocatoria a la Red Sostenible para el Desarrollo, un programa destinado a empresas, industrias, comercios, hoteles, emprendimientos y otras organizaciones del distrito.
 
-La Municipalidad de Escobar abrió la convocatoria a la Red Sostenible para el Desarrollo, una iniciativa dirigida a empresas, industrias, comercios, hoteles, emprendimientos e instituciones del partido. Según la información oficial publicada el 10 de noviembre, las solicitudes podrán presentarse hasta el 30 de diciembre de 2026 y la incorporación al programa está prevista para el primer trimestre de 2027.
+La iniciativa propone acompañar a las organizaciones en la medición, reducción y compensación de su huella de carbono. Según la información municipal, el proceso comienza con una medición realizada con participación de universidades y metodología ISO. Luego se determinan los Créditos Equivalentes Sostenibles (CES) que cada organización debe compensar mediante proyectos de triple impacto en el partido.
 
-El proceso informado comienza con una capacitación virtual y la medición de la huella de carbono mediante universidades y metodología ISO. A partir de ese diagnóstico, el programa contempla la determinación de Créditos Equivalentes Sostenibles y acciones de compensación vinculadas a proyectos de impacto en el distrito. Las organizaciones que completen el proceso podrán acceder al Sello S++.
+La incorporación al programa está prevista para el primer trimestre de 2027. Para participar, las organizaciones deben pertenecer al distrito, completar la capacitación virtual y trabajar activamente en sostenibilidad. La Municipalidad informa que quienes completen el proceso podrán acceder al sello S++.
 
-La convocatoria abre una agenda de interés para pymes que buscan ordenar sus indicadores ambientales y conocer herramientas de gestión. Antes de tomar una decisión, las organizaciones deberían consultar los requisitos completos, eventuales costos, documentación exigida, instituciones participantes y alcance concreto del reconocimiento.
+La convocatoria abre una oportunidad para que pymes y comercios conozcan herramientas de gestión ambiental y evalúen su impacto. Antes de iniciar el trámite, se recomienda revisar las condiciones y requisitos vigentes en el portal oficial.
 
-## Datos confirmados
-- Convocatoria abierta, según publicación municipal del 10/11/2026.
-- Fecha límite informada: 30/12/2026.
-- Incorporación prevista: primer trimestre de 2027.
-- Destinatarios: empresas, industrias, comercios, hoteles, emprendimientos y otras organizaciones radicadas en Escobar.
-- Se menciona capacitación virtual y medición de huella de carbono con metodología ISO y participación de universidades.
-- Se menciona el Sello S++ para organizaciones que completen el proceso.
+**Inscripción e información:** https://www.escobar360.gob.ar  
+**Fuente institucional:** https://www.escobar.gob.ar/noticias/escobar-abrio-la-convocatoria-para-que-empresas-y-comercios-midan-redu/
 
-## Preguntas pendientes
-1. ¿Qué universidades y equipos técnicos realizan las mediciones?
-2. ¿La participación tiene costo para microempresas y pymes?
-3. ¿Qué documentación y datos deben presentar las organizaciones?
-4. ¿Cuánto dura el proceso de medición y acompañamiento?
-5. ¿Qué criterios se utilizan para asignar los Créditos Equivalentes Sostenibles?
-6. ¿Qué proyectos locales podrán recibir compensaciones?
-7. ¿Qué alcance y vigencia tiene el Sello S++?
-8. ¿Hay cupos por rubro o tamaño de empresa?
+## Verificación antes de publicar
 
-## Oportunidad comercial editorial
-Preparar una guía independiente para pymes de Escobar: “Cómo medir la huella ambiental de una empresa”. Puede incluir entrevistas a especialistas y casos locales. Cualquier patrocinio de consultoras, certificadoras o proveedores debe identificarse como contenido comercial y mantenerse separado de la evaluación periodística.
+- [x] Fecha límite y objetivo general: informados por el Municipio el 10/11/2026.
+- [x] Público destinatario: empresas, industrias, comercios, hoteles, emprendimientos y organizaciones.
+- [x] Incorporación prevista: primer trimestre de 2027.
+- [ ] Comprobar que el formulario siga abierto y operativo el día de publicación.
+- [ ] Confirmar requisitos, documentación y eventuales costos directamente en Escobar 360.
+- [ ] Solicitar testimonio de una pyme participante o del área municipal responsable.
+- [ ] No afirmar que la certificación o el sello son automáticos.
 
-## Fuentes
-- Municipalidad de Escobar, publicación del 10/11/2026: https://www.escobar.gob.ar/escobar-abrio-la-convocatoria-para-que-empresas-y-comercios-midan-reduzcan-y-compensen-su-huella-de-carbono/
-- Red Sostenible para el Desarrollo: https://www.escobar.gob.ar/municipio/sostenible/redsostenible/
-- UIDE: https://uide.com.ar/ — registra participación institucional en la presentación de la Red; no se presume que sea organizadora ni autoridad certificadora.
+## Preguntas para ampliar la cobertura
 
-**Condición:** borrador no publicado. La fecha límite se atribuye a la comunicación municipal consultada; reconfirmar en la plataforma Escobar 360 antes de republicar.
+1. ¿Cuántas organizaciones se inscribieron hasta el momento?
+2. ¿Qué sectores y localidades tienen mayor participación?
+3. ¿La medición tiene algún costo para la empresa?
+4. ¿Qué universidades intervienen y qué alcance tiene la metodología?
+5. ¿Qué proyectos locales podrán recibir compensaciones?
+6. ¿Qué beneficios concretos obtiene una pyme además del sello?
+
+## Criterio editorial
+
+Nota de servicio independiente. La mención del programa municipal no constituye publicidad ni aval editorial. No se recibieron respuestas directas ni se realizó contacto en esta etapa.
