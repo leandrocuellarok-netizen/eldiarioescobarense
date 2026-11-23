@@ -85,6 +85,7 @@ Es una fotografía electoral del 7 de septiembre de 2025, no una medición de ap
 - Municipio de Escobar, Seguridad: https://www.escobar.gob.ar/municipio/seguridad/
 - Portal de Datos Abiertos, catálogo: https://datos.escobar.gob.ar/
 - Dataset Instalaciones de Seguridad: https://datos.escobar.gob.ar/dataset/instalaciones-de-seguridad-del-partido-de-escobar
+- Sistema de Información Normativa PBA, Ley 6068 (fechas de sanción, promulgación y publicación; texto original): https://normas.gba.gob.ar/ar-b/ley/1959/6068/9190
 - Junta Electoral PBA, escrutinio definitivo Escobar 2025: https://www.juntaelectoral.gba.gov.ar/escrutinio-definitivo-2025/distrito_035.html
 - Argentina.gob.ar, SNIC: https://www.argentina.gob.ar/seguridad/estadisticascriminales
 - El Día de Escobar, “Nosotros”: https://eldiadeescobar.com.ar/nosotros/
