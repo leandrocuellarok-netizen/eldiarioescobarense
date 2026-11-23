@@ -47,3 +47,13 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma 
 
 ## Estado
 Proyecto en fase de diseño y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes.
+
+
+## Nuevos materiales — ejecución 4 (23/11/2026)
+- [Previa de la Ronda de Negocios — ejecución 4](ACTUALIDAD/previa-ronda-negocios-escobar-2026-11-24-ejecucion-4.md)
+- [Brief de inversiones industriales](ACTUALIDAD/brief-inversiones-industriales-escobar-2026-11-23.md)
+- [Prospectos por localidad — lote 4](PROSPECTOS/lote-4-directorio-municipal-y-corredores-2026-11-23.md)
+- [Plan comercial y pipeline — v2](COMERCIAL/plan-prospeccion-y-paquetes-anunciantes-v2-2026-11-23.md)
+- [Prototipo HTML de portada v0.1 — no desplegar](ARQUITECTURA/prototipo-portada-v0.1.html)
+- [Registro de fuentes — ejecución 4](FUENTES/registro-2026-11-23-ejecucion-4.md)
+
