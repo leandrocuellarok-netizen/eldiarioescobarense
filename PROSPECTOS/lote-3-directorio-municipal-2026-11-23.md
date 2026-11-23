@@ -4,7 +4,7 @@
 **Fuente principal:** Directorio de Comercios Locales de la Municipalidad de Escobar.  
 **Estado:** Fichas visibles en el directorio oficial a la fecha de consulta; actividad, dirección y canales deben reconfirmarse antes de cualquier gestión comercial.
 
-El Municipio informa 219 comercios y emprendimientos agrupados en 13 rubros y permite filtrar por las seis localidades. La presencia en el directorio acredita que existe una ficha pública, pero no prueba que el negocio esté actualmente operativo ni que tenga interés en contratar publicidad.
+El Municipio informa 219 comercios y emprendimientos agrupados en 13 rubros y permite filtrar por las seis localidades. Este lote agrega 42 prospectos que no estaban en la base territorial previa; cuatro registros repetidos se excluyeron para evitar duplicaciones. La presencia en el directorio acredita que existe una ficha pública, pero no prueba que el negocio esté actualmente operativo ni que tenga interés en contratar publicidad.
 
 ## Belén de Escobar
 
@@ -18,7 +18,6 @@ El Municipio informa 219 comercios y emprendimientos agrupados en 13 rubros y pe
 | Despensa Faby | Despensa y ferretería | Gelves 1627 | Directorio de cercanía |
 | Los Tres Indios | Gastronomía | Av. General San Martín | Ficha gastronómica |
 | Perfumería Nahuel | Perfumería y regalería | Av. San Martín 286 | Directorio y campañas comerciales |
-| Aconcagua Grupo | Iluminación, muebles y pisos | Spadaccini 1095 | Perfil empresarial y publicidad de hogar/construcción |
 | Depi4Ever | Belleza y cuidado personal | Colón 510 | Directorio y promociones |
 
 ## Garín
@@ -32,7 +31,6 @@ El Municipio informa 219 comercios y emprendimientos agrupados en 13 rubros y pe
 | Frutilla Negra Cerámica | Cerámica artesanal | Luis Ressio 2956 | Perfil de emprendimiento |
 | Dicapa Artesanías | Decoración artesanal | Pablo Lamberti 1758 | Directorio y especiales de regalos |
 | Colores Infinitos | Sublimados | General Paz 694 | Perfil de servicios para comercios |
-| Lima Limón Diseños | Decoración de fiestas | Juan Ramón Fernández 1424 | Directorio y campañas estacionales |
 | Malú | Indumentaria | Av. Belgrano 422 | Directorio comercial |
 | Tahina | Indumentaria | Eva Perón 2852 | Directorio comercial |
 
@@ -57,9 +55,7 @@ El Municipio informa 219 comercios y emprendimientos agrupados en 13 rubros y pe
 | Sabores Dulces de Belén de Escobar | Desayunos y bandejas | Chaco 933 | Campañas de fechas especiales |
 | Dulce Aity | Pastelería | Callao 1709, barrio Los Pinos | Perfil de emprendimiento |
 | Vidriería y Cerramientos DKN | Aberturas y vidrios | Juan XXIII 1053 | Perfil de servicios para obra |
-| Casa Raúl S.H. | Muebles, jardín y computación | Honorio Beliera 164 | Directorio comercial |
 | La Esquina Muebles | Mueblería | Ruta 26 102 esq. 9 de Julio | Ficha y contenido de hogar |
-| Disquería Charlie | Música, electrónica y audio | Ruta 26 2645 | Directorio comercial |
 | La Virgencita de Luján | Alquiler de volquetes | Beliera 525 | Directorio B2B y construcción |
 | Óptica Nahuel 3 | Óptica y contactología | Carlos Del García 1151 | Directorio de servicios |
 
