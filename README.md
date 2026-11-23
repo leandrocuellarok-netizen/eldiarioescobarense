@@ -27,6 +27,10 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma 
 - [Relevamiento histórico, institucional y cultural de Escobar](INVESTIGACION/relevamiento-historico-institucional-escobar-2026-11-23.md)
 - [Matriz regional Gaceta Norte: Pilar y Vicente López](INVESTIGACION/matriz-regional-gaceta-norte-pilar-vicente-lopez-2026-11-23.md)
 - [Registro de fuentes — ejecución 9](FUENTES/registro-2026-11-23-ejecucion-9.md)
+- [Actualización territorial de Escobar: barrios, memoria, medios y seguridad](INVESTIGACION/actualizacion-escobar-barrios-memoria-medios-seguridad-2026-11-23.md)
+- [Matriz regional Gaceta Norte: autoridades y elecciones 2025-2026](INVESTIGACION/matriz-regional-electoral-autoridades-gaceta-norte-2026-11-23.md)
+- [Observatorio de gastronomía, cultura y urbanizaciones — lote 10](PROSPECTOS/observatorio-gastronomia-cultura-urbanizaciones-lote-10-2026-11-23.md)
+- [Registro de fuentes — actualización territorial y regional](FUENTES/registro-2026-11-23-ejecucion-10.md)
 
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
@@ -48,7 +52,7 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma 
 Proyecto en fase de diseño, investigación y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes. Los datos comerciales requieren reconfirmación antes de su publicación.
 
 ## Última ejecución
-23/11/2026 — se incorporó un primer dossier histórico, institucional, cultural, sanitario, mediático, electoral y de seguridad para Escobar; una matriz regional inicial para Pilar y Vicente López; y un registro de fuentes con estados de verificación y limitaciones.
+23/11/2026 — se amplió el dossier de Escobar con la ordenanza de reconocimiento de 246 barrios, historia de Garín y Maschwitz, medios, personalidades, datos abiertos y fuentes SNIC; se incorporó una matriz regional con autoridades y resultados agregados de 2025 para siete municipios; y se creó un primer observatorio comercial de gastronomía, cultura y urbanizaciones. Se corrigió la cronología legal de la Ley 6068.
 
 ## Historial de trabajo
 Los lotes anteriores, borradores periodísticos, identidad, modelo comercial y documentación de investigación permanecen versionados en el repositorio. Consultar el historial de commits para el detalle de cada ejecución.
