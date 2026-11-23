@@ -24,6 +24,12 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma 
 - [Cartera de muestra por localidad](PROSPECTOS/cartera-muestra-por-localidad-2026-11-23.md)
 - [Registro de fuentes](FUENTES/registro-2026-11-23.md)
 - [Registro ampliado de fuentes](FUENTES/registro-2026-11-23-ampliacion.md)
+- [Agenda de Ronda de Negocios 24/11 — horario pendiente de confirmar](ACTUALIDAD/agenda-ronda-negocios-escobar-2026-11-24-v2.md)
+- [Borrador de servicio: Red Sostenible](ACTUALIDAD/nota-servicio-red-sostenible-2026-11-23.md)
+- [Prospectos comerciales — lote 2](COMERCIAL/prospectos-verificados-lote-2-2026-11-23.md)
+- [Canales institucionales y productos B2B](COMERCIAL/canales-institucionales-y-productos-b2b-2026-11-23.md)
+- [Wireframe editorial de portada](ARQUITECTURA/portada-wireframe-editorial-v1.md)
+- [Registro de fuentes — ejecución 2](FUENTES/registro-2026-11-23-ejecucion-2.md)
 
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
