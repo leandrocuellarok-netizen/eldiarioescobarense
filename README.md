@@ -31,6 +31,12 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma 
 - [Wireframe editorial de portada](ARQUITECTURA/portada-wireframe-editorial-v1.md)
 - [Registro de fuentes — ejecución 2](FUENTES/registro-2026-11-23-ejecucion-2.md)
 
+- [Brief: cinco desarrollos comerciales](ACTUALIDAD/brief-cinco-desarrollos-comerciales-escobar-2026-11-23.md)
+- [Seguimiento Fiscal y Tributario 2027](ACTUALIDAD/seguimiento-fiscal-tributario-2027-escobar-2026-11-23.md)
+- [Prospectos — lote 3 del directorio municipal](PROSPECTOS/lote-3-directorio-municipal-2026-11-23.md)
+- [Oportunidades industriales y corredores comerciales](COMERCIAL/oportunidades-industriales-y-corredores-comerciales-2026-11-23.md)
+- [Registro de fuentes — ejecución 3](FUENTES/registro-2026-11-23-ejecucion-3.md)
+
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
 - Separar información periodística, opinión y contenido patrocinado.
