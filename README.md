@@ -8,22 +8,23 @@ Medio digital comercial y empresarial con cobertura de todo el partido de Escoba
 ## Alcance territorial
 Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma Verde.
 
-## Principios
-- Periodismo verificable, con fuentes y fechas visibles.
-- Separación entre información, opinión y contenido patrocinado.
-- Publicidad identificada; no se venden coberturas editoriales.
-- Correcciones públicas y derecho a réplica.
-- Representación equilibrada de las seis localidades.
-- Ningún contacto comercial, publicación o envío se realiza sin autorización expresa.
+## Documentación principal
+- [Proyecto editorial](BORRADORES/01-proyecto-editorial.md)
+- [Modelo comercial](BORRADORES/02-modelo-comercial.md)
+- [Arquitectura web v1](ARQUITECTURA/web-v1.md)
+- [Guía de identidad v1](IDENTIDAD/guia-identidad-v1.md)
+- [Borradores periodísticos del 23/11/2026](ACTUALIDAD/borradores-2026-11-23.md)
+- [Kit comercial v1](COMERCIAL/kit-comercial-v1.md)
+- [Base comercial por localidad](PROSPECTOS/base-comercial-por-localidad-2026-11-23.md)
+- [Registro de fuentes](FUENTES/registro-2026-11-23.md)
 
-## Documentación
-- `BORRADORES/`: proyecto editorial y modelo comercial.
-- `ARQUITECTURA/`: estructura y especificación del sitio.
-- `IDENTIDAD/`: guía visual.
-- `ACTUALIDAD/`: borradores periodísticos.
-- `PROSPECTOS/`: cartera comercial investigada.
-- `COMERCIAL/`: propuestas, paquetes y mensajes para revisión.
-- `FUENTES/`: registro de fuentes, fechas y estado de verificación.
+## Principios editoriales
+- Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
+- Separar información periodística, opinión y contenido patrocinado.
+- Identificar claramente publicidad y acuerdos comerciales.
+- Ofrecer derecho a réplica y corregir errores de manera visible.
+- Cubrir las seis localidades con criterio territorial equilibrado.
+- No contactar comercios, publicar ni enviar mensajes sin autorización expresa.
 
 ## Estado
 Proyecto en fase de diseño y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes.
