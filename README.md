@@ -23,7 +23,10 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma 
 - [Brief de balance del Finde Gastronómico](ACTUALIDAD/brief-impacto-finde-gastronomico-2026-11-23.md)
 - [Prospectos por localidad — lote 7](PROSPECTOS/lote-7-directorio-municipal-curado-2026-11-23.md)
 - [Segmentación comercial v3](COMERCIAL/segmentacion-anunciantes-locales-v3-2026-11-23.md)
-- [Registro de fuentes — ejecución 7](FUENTES/registro-2026-11-23-ejecucion-7.md)
+- [Plan maestro de investigación territorial](INVESTIGACION/plan-maestro-escobar-gaceta-norte-2026-11-23.md)
+- [Relevamiento histórico, institucional y cultural de Escobar](INVESTIGACION/relevamiento-historico-institucional-escobar-2026-11-23.md)
+- [Matriz regional Gaceta Norte: Pilar y Vicente López](INVESTIGACION/matriz-regional-gaceta-norte-pilar-vicente-lopez-2026-11-23.md)
+- [Registro de fuentes — ejecución 9](FUENTES/registro-2026-11-23-ejecucion-9.md)
 
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
@@ -33,11 +36,19 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma 
 - Cubrir las seis localidades con criterio territorial equilibrado.
 - No contactar comercios, publicar ni enviar mensajes sin autorización expresa.
 
+## Principios de investigación territorial
+- Separar La Gaceta de Escobar del dossier regional preparatorio Gaceta Norte.
+- Distinguir hechos documentados, datos oficiales, testimonios, autodescripciones de medios y leyendas no verificadas.
+- Usar padrones electorales solo como cifras agregadas; no recopilar datos nominativos.
+- No etiquetar barrios enteros como seguros o inseguros; usar estadísticas comparables y explicitar límites.
+- No inferir domicilios privados de personas conocidas.
+- No contactar fuentes ni publicar datos o contenidos sin autorización expresa.
+
 ## Estado
-Proyecto en fase de diseño y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes. El dataset inicial proviene del catálogo municipal, pero cada registro requiere reconfirmación de actividad y domicilio antes de su publicación.
+Proyecto en fase de diseño, investigación y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes. Los datos comerciales requieren reconfirmación antes de su publicación.
 
 ## Última ejecución
-23/11/2026 — se incorporaron dos líneas editoriales (Red Sostenible y balance del Finde Gastronómico), lote 7 de prospectos basado en el directorio municipal, segmentación comercial v3, registro de fuentes y dataset JSON inicial para alimentar el futuro directorio web.
+23/11/2026 — se incorporó un primer dossier histórico, institucional, cultural, sanitario, mediático, electoral y de seguridad para Escobar; una matriz regional inicial para Pilar y Vicente López; y un registro de fuentes con estados de verificación y limitaciones.
 
 ## Historial de trabajo
-Los lotes anteriores, borradores periodísticos, identidad y modelo comercial permanecen versionados en el repositorio. Consultar el historial de commits para el detalle de cada ejecución.
+Los lotes anteriores, borradores periodísticos, identidad, modelo comercial y documentación de investigación permanecen versionados en el repositorio. Consultar el historial de commits para el detalle de cada ejecución.
