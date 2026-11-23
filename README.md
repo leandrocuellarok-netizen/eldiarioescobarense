@@ -12,11 +12,18 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu y Loma 
 - [Proyecto editorial](BORRADORES/01-proyecto-editorial.md)
 - [Modelo comercial](BORRADORES/02-modelo-comercial.md)
 - [Arquitectura web v1](ARQUITECTURA/web-v1.md)
+- [Backlog y flujo editorial](ARQUITECTURA/backlog-y-flujo-editorial-v1.md)
 - [Guía de identidad v1](IDENTIDAD/guia-identidad-v1.md)
+- [Manual de verificación y publicidad](EDITORIAL/manual-verificacion-y-publicidad-v1.md)
 - [Borradores periodísticos del 23/11/2026](ACTUALIDAD/borradores-2026-11-23.md)
+- [Previa de la Ronda de Negocios del 24/11/2026](ACTUALIDAD/previa-ronda-negocios-escobar-2026-11-24.md)
+- [Brief de base productiva](ACTUALIDAD/brief-base-productiva-escobar-2026-11-23.md)
 - [Kit comercial v1](COMERCIAL/kit-comercial-v1.md)
+- [Segmentos y prospección comercial](COMERCIAL/segmentos-y-prospeccion-v1.md)
 - [Base comercial por localidad](PROSPECTOS/base-comercial-por-localidad-2026-11-23.md)
+- [Cartera de muestra por localidad](PROSPECTOS/cartera-muestra-por-localidad-2026-11-23.md)
 - [Registro de fuentes](FUENTES/registro-2026-11-23.md)
+- [Registro ampliado de fuentes](FUENTES/registro-2026-11-23-ampliacion.md)
 
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
