@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Gaceta Norte — indicadores de rondas multisectoriales",
+  "scope": [
+    "Pilar",
+    "Escobar"
+  ],
+  "consulted_at": "2026-11-24T02:56:00-03:00",
+  "editorial_status": "internal_research_not_for_publication",
+  "records": [
+    {
+      "municipality": "Pilar",
+      "event_date": "2026-10-22",
+      "event": "Ronda Multisectorial de Pilar",
+      "registered_companies": 325,
+      "business_interviews": ">1500",
+      "source_primary": "https://www.gba.gob.ar/node/55168",
+      "source_secondary": null,
+      "verification_status": "confirmed_official_report",
+      "notes": "Cifras publicadas por el Ministerio de Producción PBA. No equivalen a contratos o ventas concretadas."
+    },
+    {
+      "municipality": "Escobar",
+      "locality": "Ingeniero Maschwitz",
+      "event_date": "2026-11-24",
+      "event": "Ronda de Negocios Escobar 2026",
+      "registered_companies": null,
+      "business_interviews": null,
+      "source_primary": [
+        "https://gba.gob.ar/produccion/ronda_de_negocios",
+        "https://rondadenegocios.mp.gba.gob.ar/"
+      ],
+      "source_secondary": [
+        "https://escobaradiario.com.ar/gestion-publica/ultimos-cupos-para-la-inscripcion-a-la-ronda-de-negocios-multisectorial-de-escobar/",
+        "https://norteonline.com.ar/escobar-ronda-negocios-multisectorial-inscripcion/"
+      ],
+      "verification_status": "confirmed_event_schedule_conflict",
+      "notes": "Los resultados de participación y entrevistas quedan pendientes de publicación oficial. Las páginas oficiales muestran horarios 8:30 y 11:30."
+    }
+  ],
+  "comparison_rule": "Comparar únicamente indicadores equivalentes: inscriptos con inscriptos, asistentes con asistentes, entrevistas con entrevistas y acuerdos con acuerdos."
+}
