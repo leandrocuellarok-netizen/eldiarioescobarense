@@ -1,0 +1,114 @@
+[
+  {
+    "id": "escobar-ronda-negocios-2026-11-24",
+    "municipio": "Escobar",
+    "localidad": "Ingeniero Maschwitz",
+    "tema": "desarrollo_productivo",
+    "titulo": "Ronda de Negocios Multisectorial Escobar 2026",
+    "fecha_evento": "2026-11-24",
+    "lugar": "Espacio Mendoza, Mendoza esquina avenida Independencia",
+    "costo": "sin costo de inscripción, según Ministerio de Producción PBA",
+    "horario_publicado_ministerio": "08:30",
+    "horario_publicado_plataforma": "11:30",
+    "fuentes_primarias": [
+      "https://gba.gob.ar/produccion/ronda_de_negocios",
+      "https://rondadenegocios.mp.gba.gob.ar/"
+    ],
+    "fuentes_secundarias": [
+      "https://www.infoban.com.ar/20/11/2026/ultimos-cupos-para-la-inscripcion-a-la-ronda-de-negocios-multisectorial-de-escobar/",
+      "https://norteonline.com.ar/escobar-ronda-negocios-multisectorial-inscripcion/"
+    ],
+    "fecha_consulta": "2026-11-24",
+    "periodo_referido": "2026-11-24",
+    "estado_verificacion": "confirmado_con_discrepancia",
+    "observaciones": "Fecha y sede coinciden. Dos páginas oficiales publican horarios distintos. No atribuir resultados ni asistencia antes de verificar el evento.",
+    "proximo_paso": "Verificar hora efectiva y resultados documentados después del evento."
+  },
+  {
+    "id": "escobar-red-sostenible-2026-11",
+    "municipio": "Escobar",
+    "localidad": "Todo el partido",
+    "tema": "sostenibilidad_empresarial",
+    "titulo": "Red Sostenible para el Desarrollo",
+    "fecha_limite_convocatoria": "2026-12-30",
+    "incorporacion_prevista": "2027-Q1",
+    "fuente_primaria": "https://www.escobar.gob.ar/escobar-abrio-la-convocatoria-para-que-empresas-y-comercios-midan-reduzcan-y-compensen-su-huella-de-carbono/",
+    "fuentes_secundarias": [],
+    "fecha_consulta": "2026-11-24",
+    "periodo_referido": "2026-11-10 a 2027-Q1",
+    "estado_verificacion": "confirmado",
+    "observaciones": "Convocatoria institucional; no se conoce cantidad de inscriptos ni resultados."
+  },
+  {
+    "id": "escobar-addnice-garin-2027",
+    "municipio": "Escobar",
+    "localidad": "Garín",
+    "tema": "industria_empleo",
+    "titulo": "Proyecto de traslado de planta de Grupo Addnice a Garín",
+    "fecha_objetivo": "2027",
+    "fuente_primaria": "https://www.escobar.gob.ar/noticias/garin-sumara-una-nueva-planta-industrial-y-fortalecera-su-perfil-produ/",
+    "fuentes_secundarias": [],
+    "fecha_consulta": "2026-11-24",
+    "periodo_referido": "2027",
+    "estado_verificacion": "pendiente_de_ejecucion",
+    "observaciones": "Anuncio municipal de proyecto futuro; no hay cifra verificada de inversión, empleos ni cronograma detallado."
+  },
+  {
+    "id": "escobar-presupuesto-2027-proyecto",
+    "municipio": "Escobar",
+    "localidad": "Todo el partido",
+    "tema": "finanzas_publicas",
+    "titulo": "Proyecto de Presupuesto 2027",
+    "monto_total_proyectado_ars": 410000000000,
+    "fuente_primaria": "https://www.escobar.gob.ar/noticias/presupuesto-2027-con-la-supresion-de-otros-52-tributos-ariel-sujarchuk/",
+    "fuentes_secundarias": [
+      "https://eldiariodeescobar.com.ar/article/el-concejo-deliberante-de-escobar-aprobo-la-fiscal-y-tributaria-2027-y-creo-un-fondo-para-entidades-de-bien-publico"
+    ],
+    "fecha_consulta": "2026-11-24",
+    "periodo_referido": "ejercicio 2027",
+    "estado_verificacion": "confirmado_como_proyecto",
+    "observaciones": "Cifras difundidas por el Ejecutivo. No equivalen a presupuesto definitivamente aprobado ni a ejecución. El estado legislativo requiere actas y ordenanzas finales."
+  },
+  {
+    "id": "pilar-publicaciones-financieras-2026-q3",
+    "municipio": "Pilar",
+    "localidad": "Todo el partido",
+    "tema": "transparencia_presupuestaria",
+    "titulo": "Documentación financiera municipal del tercer trimestre de 2026",
+    "documentos_listados": [
+      "CAIF 3er trimestre 2026 - Base Devengado",
+      "CAIF 3er trimestre 2026 - Base Caja",
+      "Balance de Sumas y Saldos - 3er Trimestre",
+      "Balance de Tesorería - 3er Trimestre"
+    ],
+    "fuente_primaria": "https://pilar.gov.ar/publicaciones/",
+    "fuentes_secundarias": [],
+    "fecha_consulta": "2026-11-24",
+    "periodo_referido": "2026-Q3",
+    "estado_verificacion": "confirmado_documentos_listados",
+    "observaciones": "Se confirmó su listado en el portal; los importes y consistencia contable no se analizaron en esta ejecución.",
+    "proximo_paso": "Descargar, preservar y comparar documentos por base contable y periodo."
+  },
+  {
+    "id": "vicente-lopez-tecnicatura-programacion-2027",
+    "municipio": "Vicente López",
+    "localidad": "Munro",
+    "tema": "educacion_trabajo_tecnologia",
+    "titulo": "Tecnicatura Universitaria en Programación",
+    "duracion": "2 años",
+    "horario": "lunes a viernes de 18:00 a 23:00",
+    "contenidos_destacados": [
+      "Programación",
+      "Probabilidad y estadística",
+      "Bases de datos",
+      "Organización empresarial",
+      "Introducción al análisis de datos"
+    ],
+    "fuente_primaria": "https://www.vicentelopez.gov.ar/centrouniversitariovl/oferta-academica/tecnicatura-universitaria-en-programacion",
+    "fuentes_secundarias": [],
+    "fecha_consulta": "2026-11-24",
+    "periodo_referido": "ciclo lectivo 2027",
+    "estado_verificacion": "confirmado_oferta_publicada",
+    "observaciones": "La charla informativa publicada para 18/11/2026 ya pasó; no se confirmó si hay nueva fecha ni si la preinscripción sigue abierta."
+  }
+]
