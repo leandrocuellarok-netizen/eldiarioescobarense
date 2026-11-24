@@ -194,3 +194,14 @@ Escobar: se documentó la cartilla municipal que informa 8 hospitales, 4 UDP y 1
 Gaceta Norte: Pilar, se documentaron las LP 55, 49, 50 y 51/2026 del Boletín Oficial del 18/11, además de las LP 34 y 37 del 02/11; se constató que el portal municipal publica CAIF del tercer trimestre 2026, aún sin análisis de anexos. Vicente López, se incorporaron las LP 53 (segundo llamado), 67, 68 y 69/2026 del Boletín Oficial del 20/11. Los importes son presupuestos oficiales de llamados, no adjudicaciones ni pagos.
 
 Se agregó un lote de segmentos comerciales por rubro, sin contactos ni prospección directa. No se recopilaron datos personales de electores; no hubo mensajes, publicaciones, contrataciones ni modificaciones de sitios públicos. La investigación de Escobar y el dossier regional permanecen separados; no se creó ni desplegó otra web.
+
+
+## Actualización 24/11/2026 — ejecución 27
+- [Investigación 27: industria, sostenibilidad, presupuesto y transparencia de Escobar](INVESTIGACION/ejecucion-27-industria-red-sostenible-presupuesto-y-transparencia-escobar-2026-11-24.md)
+- [Gaceta Norte 27: compras sanitarias y obras en Pilar, Vicente López y San Fernando](GACETA_NORTE/ejecucion-27-compras-sanitarias-y-obras-pilar-vicente-lopez-san-fernando-2026-11-24.md)
+- [Lote 27: sectores industriales, sostenibilidad y compras públicas](PROSPECTOS/lote-27-industria-sostenibilidad-compras-publicas-escobar-norte-2026-11-24.md)
+- [Dataset Escobar: industria, presupuesto y Red Sostenible](DATA/ESCOBAR/industria-presupuesto-red-sostenible-2026-11-24.json)
+- [Dataset Gaceta Norte: compras sanitarias y obras](DATA/GACETA_NORTE/compras-sanitarias-obras-2026-11-24.json)
+- [Registro de fuentes — ejecución 27](FUENTES/registro-2026-11-24-ejecucion-27.md)
+
+Escobar: se documentó el proyecto de Presupuesto 2027 por $410.000 millones y su distribución propuesta; el estado legislativo se dejó sujeto a verificación de la Asamblea de Mayores Contribuyentes y promulgación. Se agregó la convocatoria Red Sostenible (inscripción hasta 30/12/2026), el traslado industrial proyectado de Grupo Addnice a Garín para 2027, la situación de permisos del BESS Maschwitz según la nota municipal del 03/11 y una cartera de anuncios industriales de septiembre. Se observó que el índice municipal de noticias mostraba como entradas más recientes las del 16/11 al momento de consulta. Gaceta Norte: se incorporaron ocho licitaciones sanitarias de Pilar, cuatro llamados de Vicente López y tres obras escolares de San Fernando como watchlist de expansión. Todos los importes son presupuestos oficiales de convocatoria, no adjudicaciones ni pagos. No se contactó a fuentes ni empresas; no hubo mensajes, publicaciones de noticias ni modificaciones de sitios públicos.
