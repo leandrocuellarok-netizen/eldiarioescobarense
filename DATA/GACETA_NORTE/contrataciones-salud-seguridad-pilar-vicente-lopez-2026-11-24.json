@@ -1,0 +1,199 @@
+{
+  "project": "Gaceta Norte",
+  "execution": 24,
+  "consulted_at": "2026-11-24T08:05:00-03:00",
+  "scope": "Pilar y Vicente López, Provincia de Buenos Aires",
+  "records": [
+    {
+      "id": "pilar-licitaciones-2027-salud-2026-11",
+      "municipality": "Pilar",
+      "localities": [
+        "Pilar",
+        "Del Viso",
+        "Presidente Derqui",
+        "otras localidades según efectores"
+      ],
+      "topic": "Contrataciones del sistema de salud para 2027",
+      "primary_sources": [
+        "https://boletinoficial.gba.gob.ar/secciones/14514/descargar"
+      ],
+      "secondary_sources": [],
+      "consulted_at": "2026-11-24",
+      "period": "Boletín Oficial provincial 2026-11-17; servicios y bienes para ejercicio 2027",
+      "observed_values": {
+        "procedures": [
+          {
+            "number": "LP 50/2026",
+            "object": "Oxígeno hospitalario para hospitales y centros de salud, enero-diciembre 2027",
+            "official_budget_ars": 786858013.2,
+            "opening_date": "2026-12-14",
+            "opening_time": "10:00"
+          },
+          {
+            "number": "LP 51/2026",
+            "object": "Alquiler integral de equipos médicos para Hospital Presidente Derqui y Hospital Sanguinetti, enero-diciembre 2027",
+            "official_budget_ars": 846547656,
+            "opening_date": "2026-12-14",
+            "opening_time": "11:00"
+          },
+          {
+            "number": "LP 55/2026",
+            "object": "Viandas listas para consumo para efectores del sistema de salud durante 2027",
+            "official_budget_ars": 21418705800,
+            "opening_date": "2026-12-21",
+            "opening_time": "10:00"
+          }
+        ],
+        "health_selected_tenders_total_ars": 23052111469.2
+      },
+      "verification_status": "confirmed",
+      "observations": "Presupuestos oficiales de convocatoria; no equivalen a adjudicaciones, contratos ni pagos. Seguir actas de apertura, adjudicación y ejecución."
+    },
+    {
+      "id": "pilar-licitacion-49-digitalizacion-2027",
+      "municipality": "Pilar",
+      "topic": "Equipamiento tecnológico administrativo",
+      "primary_sources": [
+        "https://boletinoficial.gba.gob.ar/secciones/14514/descargar"
+      ],
+      "secondary_sources": [],
+      "consulted_at": "2026-11-24",
+      "period": "Boletín Oficial provincial 2026-11-17; ejercicio enero-diciembre 2027",
+      "observed_values": {
+        "procedure": "LP 49/2026",
+        "object": "Equipamiento para digitalización, escaneo, copiado, impresión y ploteo de documentos",
+        "official_budget_ars": 5892291581.4,
+        "opening_date": "2026-12-18",
+        "opening_time": "10:00"
+      },
+      "verification_status": "confirmed",
+      "observations": "Presupuesto oficial de convocatoria. No mezclar con gasto sanitario ni adjudicación."
+    },
+    {
+      "id": "pilar-hospital-falcon-ampliacion-2026-11",
+      "municipality": "Pilar",
+      "locality": "Del Viso",
+      "topic": "Infraestructura sanitaria pediátrica",
+      "primary_sources": [
+        "https://pilar.gov.ar/hospitales/hospital-pediatrico-federico-falcon/"
+      ],
+      "secondary_sources": [
+        "https://www.pilaradiario.com/municipio-a23252"
+      ],
+      "consulted_at": "2026-11-24",
+      "period": "Directorio oficial vigente consultado 2026-11-24; ampliación reportada 2026-11-13",
+      "observed_values": {
+        "facility": "Hospital Pediátrico Federico Falcón",
+        "address_reference": "Arata y Polonia, Del Viso",
+        "official_service_hours": "24 horas todos los días",
+        "reported_works": [
+          "nuevo acceso de emergencias",
+          "entrada de ambulancias",
+          "shockroom",
+          "sala de internación",
+          "camas y espacios para profesionales"
+        ],
+        "reported_october_equipment": "tomógrafo"
+      },
+      "verification_status": "corroborated",
+      "observations": "Portal municipal confirma hospital, ubicación, atención y especialidades. Ampliación y tomógrafo reportados por prensa; falta parte oficial, acta de recepción y datos de actividad."
+    },
+    {
+      "id": "pilar-sibom-boletin-231",
+      "municipality": "Pilar",
+      "topic": "Transparencia normativa municipal",
+      "primary_sources": [
+        "https://sibom.slyt.gba.gob.ar/cities/35"
+      ],
+      "secondary_sources": [],
+      "consulted_at": "2026-11-24",
+      "period": "Último boletín visible: 231º, publicado 2026-10-26",
+      "observed_values": {
+        "latest_visible_bulletin": "231º",
+        "publication_date": "2026-10-26",
+        "previous_bulletin": "230º",
+        "previous_publication_date": "2026-09-29"
+      },
+      "verification_status": "confirmed",
+      "observations": "Estado de la plataforma al momento de consulta; no implica que sea el único canal oficial de publicación."
+    },
+    {
+      "id": "vicente-lopez-licitaciones-2026-11-17",
+      "municipality": "Vicente López",
+      "topic": "Contrataciones públicas de infraestructura y salud",
+      "primary_sources": [
+        "https://boletinoficial.gba.gob.ar/secciones/14514/descargar"
+      ],
+      "secondary_sources": [],
+      "consulted_at": "2026-11-24",
+      "period": "Boletín Oficial provincial 2026-11-17; aperturas 2026-12-01 a 2026-12-09",
+      "observed_values": {
+        "procedures": [
+          {
+            "number": "LP 58/2026",
+            "object": "Repavimentación en distintos sectores, etapa 3",
+            "official_budget_ars": 1237500000,
+            "opening_date": "2026-12-01",
+            "opening_time": "10:00"
+          },
+          {
+            "number": "LP 59/2026",
+            "object": "Bacheo en adoquines de calle Rawson",
+            "official_budget_ars": 340000000,
+            "opening_date": "2026-12-02",
+            "opening_time": "10:00"
+          },
+          {
+            "number": "LP 60/2026",
+            "object": "Bolsas de nutrición parenteral para Maternidad Santa Rosa, ejercicio 2027",
+            "official_budget_ars": 347816544,
+            "opening_date": "2026-12-04",
+            "opening_time": "10:00"
+          },
+          {
+            "number": "LP 61/2026",
+            "object": "Renovación de veredas de Av. Maipú entre Bermúdez y San Lorenzo",
+            "official_budget_ars": 860000000,
+            "opening_date": "2026-12-04",
+            "opening_time": "12:00"
+          },
+          {
+            "number": "LP 62/2026",
+            "object": "Nutriterápicos para efectores municipales, ejercicio 2027",
+            "official_budget_ars": 407078231.82,
+            "opening_date": "2026-12-09",
+            "opening_time": "10:00"
+          }
+        ],
+        "infrastructure_selected_total_ars": 2437500000,
+        "health_supplies_selected_total_ars": 754894775.82,
+        "selected_procedures_total_ars": 3192394775.82
+      },
+      "verification_status": "confirmed",
+      "observations": "Presupuestos oficiales publicados; no son adjudicaciones ni pagos. Seguir ofertas, contratos, plazos y recepción."
+    },
+    {
+      "id": "vicente-lopez-security-cameras-patrols-2026",
+      "municipality": "Vicente López",
+      "topic": "Videovigilancia y tecnología en patrullas",
+      "primary_sources": [
+        "https://www.vicentelopez.gov.ar/gestion/mas-camaras-de-seguridad-360",
+        "https://www.vicentelopez.gov.ar/gestion/nuevo-centro-monitoreo"
+      ],
+      "secondary_sources": [
+        "https://www.minutouno.com/sociedad/vicente-lopez-sumo-camaras-inteligentes-todas-sus-patrullas-monitorear-operativos-tiempo-real-n6346842"
+      ],
+      "consulted_at": "2026-11-24",
+      "period": "Páginas municipales consultadas en noviembre 2026; nota secundaria 2026-11-18",
+      "observed_values": {
+        "municipal_cameras_reported": 2100,
+        "municipal_safe_points_reported": 170,
+        "360_cameras_reported": 25,
+        "patrol_cameras_reported_by_secondary": 80,
+        "monitoring_center": "ESCUDO"
+      },
+      "verification_status": "corroborated",
+      "observations": "Métricas corresponden a categorías y cortes distintos; no sumar como unidades homogéneas. Las 80 cámaras en patrullas requieren corroboración primaria. No representan incidencia criminal ni seguridad relativa de barrios."
+    }
+  ]
+}
