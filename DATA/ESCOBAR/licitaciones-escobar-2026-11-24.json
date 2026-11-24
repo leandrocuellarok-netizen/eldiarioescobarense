@@ -2,13 +2,13 @@
   "schema_version": "1.0",
   "dataset": "La Gaceta de Escobar — licitaciones municipales 2026",
   "municipality": "Escobar",
-  "consulted_at": "2026-11-24T01:56:00-03:00",
+  "consulted_at": "2026-11-24T02:56:00-03:00",
   "currency": "ARS",
   "editorial_status": "internal_research_not_for_publication",
   "aggregation": {
-    "count": 7,
-    "official_budgets_total": 5916652460.6,
-    "note": "Suma de presupuestos oficiales de llamados distintos; no equivale a adjudicación, gasto devengado ni pago."
+    "count": 10,
+    "official_budgets_total": 7285205420.6,
+    "note": "Suma de diez llamados identificados en la muestra documental consultada; no representa necesariamente la totalidad de licitaciones municipales 2026 y no equivale a adjudicación, gasto devengado ni pago."
   },
   "records": [
     {
@@ -136,6 +136,50 @@
       "source_url": "https://boletinoficial.gba.gob.ar/secciones/14523/descargar",
       "verification_status": "confirmed_call_opening_pending",
       "notes": "Valor del pliego $30.000.000. Presupuesto oficial, no monto adjudicado."
+    },
+    {
+      "id": "escobar-lp-67-2026",
+      "procedure": "Licitación Pública 67/2026",
+      "object": "Servicio de desagote en distintas dependencias municipales",
+      "official_budget": 288950000,
+      "publication_date": "2026-11-05",
+      "opening_datetime_local": "2026-11-20T10:00:00-03:00",
+      "expediente": "282409/26",
+      "source_url": "https://boletinoficial.gba.gob.ar/secciones/14496/ver",
+      "verification_status": "confirmed_call_opening_passed_result_not_located",
+      "notes": "Presupuesto oficial con IVA incluido. La apertura ya transcurrió; no se localizó acta, adjudicación ni pago en esta revisión."
+    },
+    {
+      "id": "escobar-lp-68-2026",
+      "procedure": "Licitación Pública 68/2026",
+      "object": "Alquiler de servicio de riego",
+      "official_budget": 286602960,
+      "publication_date": "2026-11-05",
+      "opening_datetime_local": "2026-11-20T09:00:00-03:00",
+      "expediente": "287874/26",
+      "source_url": "https://boletinoficial.gba.gob.ar/secciones/14493/descargar",
+      "verification_status": "confirmed_call_opening_passed_result_not_located",
+      "notes": "Presupuesto oficial con IVA incluido. La apertura ya transcurrió; no se localizó acta, adjudicación ni pago en esta revisión."
+    },
+    {
+      "id": "escobar-lp-74-2026",
+      "procedure": "Licitación Pública 74/2026",
+      "object": "Construcción de cancha de fútbol y pista de atletismo en el Polideportivo de Ingeniero Maschwitz",
+      "official_budget": 793000000,
+      "publication_date": "2026-11-18",
+      "opening_datetime_local": "2026-12-04T10:00:00-03:00",
+      "expediente": "288725/26",
+      "pliego_sale_dates": [
+        "2026-11-30",
+        "2026-12-01"
+      ],
+      "consultation_dates": [
+        "2026-11-26",
+        "2026-11-27"
+      ],
+      "source_url": "https://boletinoficial.gba.gob.ar/secciones/14517/ver",
+      "verification_status": "confirmed_call_opening_pending",
+      "notes": "Presupuesto oficial con IVA incluido. Consultas previstas para 26 y 27/11; venta de pliegos 30/11 y 1/12."
     }
   ]
 }
