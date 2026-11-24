@@ -1,0 +1,31 @@
+# Registro de fuentes — Ejecución 14
+
+**Fecha de consulta:** 23/11/2026  
+**Ámbito:** Escobar y dossier preparatorio Gaceta Norte (Pilar y Vicente López).
+
+| ID | Municipio | Tema | Fuente primaria / secundaria | URL | Fecha de publicación o período | Estado | Observaciones |
+|---|---|---|---|---|---|---|---|
+| E14-01 | Escobar | Transformación territorial, uso del suelo, historia de localidades | Tesis FAUBA/UBA de Maribel A. Carrasco, repositorio INTA | https://repositorio.inta.gob.ar/bitstream/handle/20.500.12123/5960/INTA_DireccionNacional_EEAAMBA_Carrasco_MA_El_marco_normativo_del_ordenamiento_territorial.pdf?isAllowed=y&sequence=1 | Defensa 01/08/2018; datos hasta 2018 | Corroborado para el período estudiado | No actualizar cifras de 2018 como si fueran actuales. |
+| E14-02 | Escobar | Nombres de localidades y estaciones | Tesis Carrasco que cita bibliografía local 1995 y Beliera 2001 | Mismo PDF, notas históricas en pp. 19-20 del PDF | Bibliografía citada: 1995 y 2001 | Corroborado como tradición historiográfica citada | Falta plano ferroviario/expediente primario de nomenclatura. |
+| E14-03 | Escobar | Floricultura y horticultura | Tesis Carrasco, FAUBA/UBA | Mismo PDF, capítulo 3, pp. 72-76 | Datos históricos; algunos cortes 2017-2018 | Corroborado como reconstrucción académica | Cifras de explotaciones y puestos no son actuales. Decreto de Capital Nacional de la Flor pendiente de recuperar. |
+| E14-04 | Escobar | Urbanizaciones cerradas | Tesis Carrasco, FAUBA/UBA | Mismo PDF, cap. 4 | 1959-marzo 2018 | Corroborado como serie histórica académica | 74 urbanizaciones, 4.617 ha y 15,6% son datos a 2018, no inventario actual. |
+| E14-05 | Escobar | Barrios y delimitación oficial | Municipalidad de Escobar, nota sobre Ordenanza 6515 | https://www.escobar.gob.ar/noticias/identidad-memoria-y-futuro-con-la-firma-de-una-ordenanza-historica-esc/ | Publicado 25/09/2026; promulgación de 2026 | Confirmado como comunicación municipal | Obtener texto íntegro y anexo cartográfico. El artículo enumera siete localidades y 246 barrios. |
+| E14-06 | Escobar | Indicadores industriales y comerciales | Municipalidad de Escobar, “Escobar, tierra de inversiones” | https://www.escobar.gob.ar/municipio/escobar-tierra-de-inversiones/ | Indicadores rotulados 2026 | Confirmado como dato publicado por el Municipio | Definición de establecimiento y metodología no visibles en la página; conciliar con series previas. |
+| E14-07 | Escobar | Inversiones industriales anunciadas | Municipalidad de Escobar, acto por Día de la Industria | https://www.escobar.gob.ar/en-el-dia-de-la-industria-se-anunciaron-nuevas-inversiones-en-escobar/ | Publicado 03/09/2026 | Confirmado como anuncio institucional | No implica desembolso, obra finalizada ni puestos creados. |
+| E14-08 | Escobar | Agenda cultural y artistas | Municipalidad de Escobar, Cultura y eventos / RUAL | https://www.escobar.gob.ar/municipio/cultura/ | Consulta 23/11/2026; agenda dinámica | Confirmado como servicio municipal | No es un directorio exhaustivo de cultura independiente. |
+| N14-01 | Pilar | Historia institucional y Tratado de Pilar | Municipio de Pilar | https://pilar.gov.ar/historia/ | Hitos 1820, 1821, 1873, 1896 | Corroborado en fuente municipal | Adjuntar texto del Tratado y documentación de archivo para nota histórica. |
+| N14-02 | Pilar | Empleo privado registrado | OEDE, Secretaría de Trabajo; cálculo difundido por Pilar de Todos | https://www.argentina.gob.ar/trabajo/estadisticas/observatorio-de-empleo-y-dinamica-empresarial-oede-0 ; https://pilardetodos.com.ar/secciones/noticias/economia/en-dos-anos-el-empleo-privado-registrado-en-pilar-se-contrajo-un-532 | Dic. 2023-dic. 2025; nota 21/09/2026 | Corroborado, reproducción pendiente | -3.479 puestos (-5,32%); empleo registrado privado por domicilio de empresa, no tasa de desempleo local. |
+| N14-03 | Pilar | Pérdida de empleo industrial | Pilar de Todos, análisis de OEDE | https://pilardetodos.com.ar/secciones/noticias/economia/el-90-del-empleo-perdido-en-pilar-en-los-ultimos-anos-es-el-industrial | Nota 14/10/2026; período dic. 2023-dic. 2025 | Corroborado como cálculo periodístico basado en OEDE | Industria: -3.190 puestos; validar con tabla original antes de publicar cifras derivadas. |
+| N14-04 | Pilar | Estimación de pérdida de empleo en Parque Industrial | CEPIP citada por medios locales | https://www.pilaradiario.com/hubo-unos-7-mil-despidos-el-parque-industrial-pilar-septiembre-n5468538 | Sep. 2025-mar. 2026 | Pendiente | Universo y metodología distintos a OEDE; no sumar ni comparar directamente. |
+| N14-05 | Vicente López | Museo y memoria de nueve barrios | Municipalidad de Vicente López | https://www.vicentelopez.gov.ar/el-museo-de-la-ciudad-de-vicente-lopez | Museo inaugurado en 2023; consulta 23/11/2026 | Confirmado como información municipal | Horarios y exhibiciones pueden cambiar. |
+| N14-06 | Vicente López | Empleo y demanda laboral | Portal municipal de Formación y Empleo | https://formacion.mvl.edu.ar/empleo/ | Consulta 23/11/2026 | Confirmado como servicio institucional | Vacantes y requisitos cambian; no usar como stock de empleo. |
+
+## Discrepancias y controles abiertos
+1. Escobar: el estudio académico de 2018 trabaja con seis localidades; la comunicación municipal de 2026 desglosa siete, incluyendo 24 de Febrero. Usar la nomenclatura vigente municipal para el inventario actual y conservar la clasificación histórica al citar la tesis.
+2. Escobar: los indicadores 2026 del Municipio (382 establecimientos industriales y 6.438 comerciales) difieren de conteos anteriores utilizados en el proyecto. No empalmar series hasta conocer universos y criterios.
+3. Pilar: OEDE y CEPIP no miden el mismo fenómeno, período ni universo. Mantenerlos en tablas separadas.
+4. Urbanizaciones cerradas: los 74 emprendimientos/4.617 ha son corte marzo 2018. No presentar como cantidad actual.
+5. Floricultura: recuperar decreto nacional de 1964 y fuentes sectoriales recientes para evaluar continuidad productiva.
+
+## Restricciones editoriales
+No se recopilaron padrones nominativos, domicilios privados, ni testimonios nuevos. No se contactó a vecinos, dirigentes, empresas o medios. Ningún documento es una noticia publicada ni una confirmación de acuerdos comerciales.
