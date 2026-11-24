@@ -1,14 +1,87 @@
 {
   "schema_version": "1.0",
   "dataset": "Gaceta Norte — licitaciones y transparencia de Pilar y Vicente López",
-  "consulted_at": "2026-11-24T01:56:00-03:00",
+  "consulted_at": "2026-11-24T03:56:47-03:00",
   "editorial_status": "internal_research_not_for_publication",
   "municipalities": {
     "Pilar": {
       "currency": "ARS",
-      "official_budget_total": 10361151827.76,
-      "note": "Suma de dos presupuestos oficiales; no equivale a gasto ejecutado ni adjudicación.",
+      "official_budget_total": 46279409563.34,
+      "note": "Suma de doce llamados identificados en la muestra documental consultada. Presupuestos oficiales, no adjudicaciones, contratos firmados ni pagos; la muestra no es necesariamente exhaustiva.",
       "tenders": [
+        {
+          "id": "pilar-lp-34-2026",
+          "procedure": "Licitación Pública 34/2026",
+          "object": "Insumos para hemodiálisis y plasmaféresis para Hospital Central de Pilar, Hospital Presidente Derqui y Hospital Juan C. Sanguinetti, período enero-diciembre 2027",
+          "official_budget": 1768867920,
+          "publication_date": "2026-11-03",
+          "opening_datetime_local": "2026-12-01T09:00:00-03:00",
+          "decree": "1350/2026",
+          "expediente": "6793/2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14487/ver",
+          "verification_status": "confirmed_call",
+          "notes": "El aviso oficial contiene una inconsistencia tipográfica en el valor del pliego; no se utiliza ese dato. Presupuesto oficial transcripto."
+        },
+        {
+          "id": "pilar-lp-35-2026",
+          "procedure": "Licitación Pública 35/2026",
+          "object": "Seguro de mala praxis médica para todo el sistema municipal de salud, ejercicio 2027",
+          "official_budget": 107396000,
+          "publication_date": "2026-11-03",
+          "opening_datetime_local": "2026-12-01T10:00:00-03:00",
+          "decree": "1335/2026",
+          "expediente": "6807/26",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14487/ver",
+          "verification_status": "confirmed_call"
+        },
+        {
+          "id": "pilar-lp-36-2026",
+          "procedure": "Licitación Pública 36/2026",
+          "object": "Servicio integral de tomografía computada para el Hospital Pediátrico Federico Falcón, enero-diciembre 2027",
+          "official_budget": 238800000,
+          "publication_date": "2026-11-03",
+          "opening_datetime_local": "2026-12-02T09:00:00-03:00",
+          "decree": "1351/2026",
+          "expediente": "6820/2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14487/ver",
+          "verification_status": "confirmed_call"
+        },
+        {
+          "id": "pilar-lp-37-2026",
+          "procedure": "Licitación Pública 37/2026",
+          "object": "Mantenimiento preventivo y correctivo del equipamiento médico del Hospital Central de Pilar, enero-diciembre 2027",
+          "official_budget": 1026039611.52,
+          "publication_date": "2026-11-03",
+          "opening_datetime_local": "2026-12-02T10:00:00-03:00",
+          "decree": "1337/2026",
+          "expediente": "6811/26",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14487/ver",
+          "verification_status": "confirmed_call"
+        },
+        {
+          "id": "pilar-lp-38-2026",
+          "procedure": "Licitación Pública 38/2026",
+          "object": "Alquiler de equipos de rayos X, digitalizadores y mantenimiento, con integración PACS a historias clínicas para hospitales y centros de salud, enero-diciembre 2027",
+          "official_budget": 505163424,
+          "publication_date": "2026-11-03",
+          "opening_datetime_local": "2026-12-03T09:00:00-03:00",
+          "decree": "1336/2026",
+          "expediente": "6808/2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14487/ver",
+          "verification_status": "confirmed_call"
+        },
+        {
+          "id": "pilar-lp-39-2026",
+          "procedure": "Licitación Pública 39/2026",
+          "object": "Alimentación enteral y parenteral para todo el sistema municipal de salud, enero-diciembre 2027 o hasta agotar stock",
+          "official_budget": 3327587729.46,
+          "publication_date": "2026-11-03",
+          "opening_datetime_local": "2026-12-03T10:00:00-03:00",
+          "decree": "1352/2026",
+          "expediente": "6792/26",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14487/ver",
+          "verification_status": "confirmed_call"
+        },
         {
           "id": "pilar-lp-47-2026",
           "procedure": "Licitación Pública 47/2026",
@@ -41,6 +114,54 @@
             "Hospital Central de Pilar",
             "Centros de Salud y Centros de Atención Primaria"
           ]
+        },
+        {
+          "id": "pilar-lp-49-2026",
+          "procedure": "Licitación Pública 49/2026",
+          "object": "Equipamiento tecnológico para digitalización, escaneo, copiado, impresión y ploteo de documentos para distintas áreas técnicas y administrativas, enero-diciembre 2027",
+          "official_budget": 5892291581.4,
+          "publication_date": "2026-11-17",
+          "opening_datetime_local": "2026-12-18T10:00:00-03:00",
+          "decree": "1438/2026",
+          "expediente": "8091/26",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14514/ver",
+          "verification_status": "confirmed_call"
+        },
+        {
+          "id": "pilar-lp-50-2026",
+          "procedure": "Licitación Pública 50/2026",
+          "object": "Servicio de oxígeno hospitalario para hospitales Federico Falcón, Presidente Derqui, Juan Cirilo Sanguinetti, Central de Pilar y centros de salud, enero-diciembre 2027",
+          "official_budget": 786858013.2,
+          "publication_date": "2026-11-17",
+          "opening_datetime_local": "2026-12-14T10:00:00-03:00",
+          "decree": "1429/2026",
+          "expediente": "6818/26",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14514/ver",
+          "verification_status": "confirmed_call"
+        },
+        {
+          "id": "pilar-lp-51-2026",
+          "procedure": "Licitación Pública 51/2026",
+          "object": "Alquiler integral de equipos médicos para los hospitales municipales Presidente Derqui y Juan C. Sanguinetti, enero-diciembre 2027",
+          "official_budget": 846547656,
+          "publication_date": "2026-11-17",
+          "opening_datetime_local": "2026-12-14T11:00:00-03:00",
+          "decree": "1430/2026",
+          "expediente": "6794/26",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14514/ver",
+          "verification_status": "confirmed_call"
+        },
+        {
+          "id": "pilar-lp-55-2026",
+          "procedure": "Licitación Pública 55/2026",
+          "object": "Servicio de viandas listas para consumo para hospitales, UDIs, Centro de Rehabilitación Pilares de Esperanza, Hospital de Día Manantiales, Zoonosis, SAME, CAP Zelaya y APD, año 2027",
+          "official_budget": 21418705800,
+          "publication_date": "2026-11-18",
+          "opening_datetime_local": "2026-12-21T10:00:00-03:00",
+          "decree": "1439/2026",
+          "expediente": "6797/2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14517/ver",
+          "verification_status": "confirmed_call"
         }
       ],
       "financial_publications": [
@@ -72,19 +193,37 @@
           "source_url": "https://pilar.gov.ar/publicaciones/",
           "verification_status": "listed_not_analyzed"
         }
-      ]
+      ],
+      "tender_count": 12,
+      "sector_totals": {
+        "health_services": 40387117981.94,
+        "technology_and_document_management": 5892291581.4
+      }
     },
     "Vicente López": {
       "currency": "ARS",
-      "official_budget_total": 6615805161.31,
-      "tender_count": 11,
-      "note": "Suma de presupuestos oficiales de once llamados municipales 56/2026 a 66/2026; no equivale a adjudicaciones ni pagos.",
+      "official_budget_total": 9524170262.71,
+      "tender_count": 15,
+      "note": "Suma de quince llamados identificados en la muestra documental consultada, incluidos cuatro procedimientos 53 y 67–69/2026 publicados el 20/11. Presupuestos oficiales, no adjudicaciones ni pagos; la muestra no es necesariamente exhaustiva.",
       "sector_totals": {
         "food_and_education": 1383136730.36,
-        "health": 1707968430.95,
-        "roads_and_public_space": 3524700000
+        "health": 2166333532.35,
+        "roads_and_public_space": 5074700000,
+        "digital_and_technology": 900000000
       },
       "tenders": [
+        {
+          "id": "vicente-lopez-lp-53-2026",
+          "procedure": "Licitación Pública 53/2026 — segundo llamado",
+          "object": "Servicio de hemodiálisis para el Hospital Municipal Prof. Dr. Bernardo A. Houssay, ejercicio 2027",
+          "official_budget": 234031896,
+          "publication_date": "2026-11-20",
+          "opening_datetime_local": "2026-12-11T11:00:00-03:00",
+          "expediente": "EEMVL-4028-2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14523/ver",
+          "verification_status": "confirmed_second_call",
+          "notes": "El aviso no explica el motivo del segundo llamado."
+        },
         {
           "id": "vicente-lopez-lp-56-2026",
           "procedure": "Licitación Pública 56/2026",
@@ -205,6 +344,38 @@
           "expediente": "EEMVL-4326-2026",
           "source_url": "https://boletinoficial.gba.gob.ar/secciones/14512/ver",
           "verification_status": "confirmed_call_opening_pending"
+        },
+        {
+          "id": "vicente-lopez-lp-67-2026",
+          "procedure": "Licitación Pública 67/2026",
+          "object": "Puesta en valor del Natatorio Municipal Florida Oeste",
+          "official_budget": 1550000000,
+          "publication_date": "2026-11-20",
+          "opening_datetime_local": "2026-12-15T12:00:00-03:00",
+          "expediente": "EEMVL-5010-2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14523/ver",
+          "verification_status": "confirmed_call"
+        },
+        {
+          "id": "vicente-lopez-lp-68-2026",
+          "procedure": "Licitación Pública 68/2026",
+          "object": "Renovación de licencias Microsoft para la Secretaría de Transformación Digital",
+          "official_budget": 900000000,
+          "publication_date": "2026-11-20",
+          "opening_datetime_local": "2026-12-10T14:00:00-03:00",
+          "expediente": "EEMVL-4943-2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14523/ver",
+          "verification_status": "confirmed_call"
+        },
+        {
+          "id": "vicente-lopez-lp-69-2026",
+          "procedure": "Licitación Pública 69/2026",
+          "object": "Adquisición de antisépticos y desinfectantes para efectores de salud, ejercicio 2027",
+          "official_budget": 224333205.4,
+          "publication_date": "2026-11-20",
+          "opening_datetime_local": "2026-12-16T10:00:00-03:00",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14523/ver",
+          "verification_status": "confirmed_call"
         }
       ],
       "open_data_snapshot": {
