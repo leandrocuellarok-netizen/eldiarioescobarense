@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Gaceta Norte — matriz industrial inicial de Pilar",
+  "consulted_at": "2026-11-24T01:56:00-03:00",
+  "editorial_status": "internal_research_not_for_publication",
+  "sources": [
+    {
+      "source_name": "Cámara Empresaria del Parque Industrial de Pilar (CEPIP)",
+      "source_url": "https://cepip.org.ar/camara/",
+      "status": "institutional_self_description",
+      "period": "Datos institucionales publicados en la página consultada el 24/11/2026",
+      "indicators": {
+        "park_origin_year": 1976,
+        "chamber_formation_year": 2000,
+        "area_hectares": 920,
+        "companies": "más de 200",
+        "daily_people": "más de 20.000",
+        "board_period": "2025-2027",
+        "president": "Néstor Dolera"
+      },
+      "notes": "Son cifras y descripciones publicadas por la propia Cámara; registrar la metodología antes de compararlas con otros universos."
+    },
+    {
+      "source_name": "Pilar de Todos",
+      "source_url": "https://pilardetodos.com.ar/secciones/noticias/economia/advierten-que-unas-50-empresas-del-parque-industrial-de-pilar-podrian-cerrar",
+      "publication_date": "2026-09-01",
+      "status": "secondary_attributed_statement",
+      "indicators": {
+        "companies_reported": "210–220",
+        "companies_at_risk": "40–50"
+      },
+      "notes": "Cifras atribuidas al presidente de CEPIP; no equivalen a cierres confirmados."
+    },
+    {
+      "source_name": "InfoGremiales",
+      "source_url": "https://www.infogremiales.com.ar/crisis-en-el-parque-industrial-de-pilar-el-intendente-achaval-advirtio-por-7-000-empleos-perdidos-en-seis-meses-y-50-empresas-al-borde-de-la-quiebra/",
+      "publication_date": "2026-10-08",
+      "status": "secondary_attributed_statement",
+      "indicators": {
+        "employment_change_reported": "aproximadamente -7.000 en seis meses",
+        "companies_reported": 300,
+        "companies_at_risk": 50
+      },
+      "notes": "El artículo atribuye cifras al intendente y a la Cámara. El universo de 300 firmas difiere de la autodescripción institucional de CEPIP (>200) y de otra publicación local (210–220). No consolidar sin metodología."
+    }
+  ],
+  "research_gaps": [
+    "Obtener serie oficial de empleo industrial por trimestre y municipio.",
+    "Distinguir cierres, suspensiones, reducción de turnos, despidos y empresas en riesgo.",
+    "Identificar universo de establecimientos y fecha de corte de cada cifra.",
+    "Contrastar datos municipales, CEPIP, SIPA y estadísticas provinciales.",
+    "No presentar una cifra de empleo perdido como dato auditado sin base y metodología."
+  ]
+}
