@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Gaceta Norte — indicadores de seguridad municipal 2025",
+  "consulted_at": "2026-11-24T04:56:00-03:00",
+  "editorial_status": "internal_research_pending_primary_dataset_validation",
+  "primary_source": {
+    "name": "Sistema Nacional de Información Criminal (SNIC)",
+    "url": "https://www.argentina.gob.ar/seguridad/estadisticascriminales",
+    "downloads_url": "https://www.argentina.gob.ar/seguridad/estadisticascriminales/bases-de-datos",
+    "notes": "El portal nacional informa tasa de homicidios dolosos 2025 de 3,6 cada 100.000 habitantes y evaluación de calidad estadística A por UNODC. La base municipal original debe descargarse y reprocesarse antes de publicación."
+  },
+  "secondary_source": {
+    "name": "Diario Anticipos",
+    "url": "https://diarioanticipos.com/2026/09/29/cuantos-homicidios-hubo-en-2025-en-el-conurbano-de-la-provincia-de-buenos-aires/",
+    "notes": "Tabla municipal que atribuye sus datos al SNIC. Utilizada como transcripción secundaria preliminar."
+  },
+  "homicide_victims_2025": [
+    {
+      "municipality": "Escobar",
+      "victims": 9,
+      "rate_per_100k": 3.5,
+      "verification_status": "secondary_transcription_pending_raw_snic_validation"
+    },
+    {
+      "municipality": "Pilar",
+      "victims": 12,
+      "rate_per_100k": 3,
+      "verification_status": "secondary_transcription_pending_raw_snic_validation"
+    },
+    {
+      "municipality": "Vicente López",
+      "victims": 3,
+      "rate_per_100k": 1.1,
+      "verification_status": "secondary_transcription_pending_raw_snic_validation"
+    },
+    {
+      "municipality": "Conurbano (24 partidos)",
+      "victims": 597,
+      "rate_per_100k": 5.5,
+      "verification_status": "secondary_transcription_pending_raw_snic_validation"
+    }
+  ],
+  "methodology": {
+    "unit": "Víctimas de homicidio doloso",
+    "do_not_conflate": [
+      "víctimas",
+      "hechos",
+      "denuncias",
+      "causas judiciales",
+      "procedimientos policiales"
+    ],
+    "do_not_infer": [
+      "seguridad barrial",
+      "riesgo individual",
+      "tendencia futura"
+    ],
+    "publication_gate": "Validar conteos, códigos municipales y denominadores contra archivo SNIC oficial."
+  }
+}
