@@ -107,3 +107,15 @@ Escobar: se documentaron cuatro intervenciones comunicadas por el Municipio en G
 
 ## Identidad editorial y despliegue — decisión pendiente
 La investigación se mantiene separada por territorio (Escobar / Gaceta Norte), pero la denominación final de las webs está en evaluación dentro de la arquitectura de Comunicadores Libres (posibles ediciones CL Escobar, CL Conurbano, CL Provincia de Buenos Aires y CL CABA). No se renombró el proyecto, no se creó otro repositorio y no se desplegó ni modificó ninguna web. Mantener las carpetas de investigación neutrales hasta una decisión editorial y de marca.
+
+
+## Actualización 24/11/2026 — ejecución 21
+- [Investigación 21: memoria barrial, ordenamiento, BESS y licitaciones de Escobar](INVESTIGACION/ejecucion-21-memoria-barrial-bess-y-licitaciones-escobar-2026-11-24.md)
+- [Gaceta Norte 21: seguridad pública y comparabilidad municipal](GACETA_NORTE/ejecucion-21-indicadores-seguridad-regional-escobar-pilar-vicente-lopez-2026-11-24.md)
+- [Dataset Escobar: memoria barrial y BESS](DATA/ESCOBAR/memoria-barrial-y-proyectos-energeticos-2026-11-24.json)
+- [Dataset Gaceta Norte: homicidios municipales 2025](DATA/GACETA_NORTE/seguridad-homicidios-municipales-2025-2026-11-24.json)
+- [Registro de fuentes — ejecución 21](FUENTES/registro-2026-11-24-ejecucion-21.md)
+
+Escobar: se documentó la Ordenanza 6515 y la diferencia entre 245 y 246 barrios en publicaciones locales y municipales; se incorporaron testimonios institucionales sobre Phillips, La Victoria, Dacunto y Matheu; se registró el reclamo por las denominaciones Barrio Parque El Cazador y Tabares/Los Pájaros; se abrió una ficha de seguimiento del proyecto BESS Maschwitz con discrepancias sobre capacidad (160/200 MWh), fechas y jurisdicción de la participación pública ambiental; y se explicitó el seguimiento de las LP 71, 72 y 75, ya contenidas en el dataset de diez llamados por $7.285.205.420,60. Gaceta Norte: se agregó una comparación preliminar de víctimas de homicidio doloso 2025 para Escobar, Pilar y Vicente López, pendiente de validación contra la descarga original del SNIC. Los documentos distinguen anuncios, testimonios, fuentes secundarias y hechos pendientes de corroboración.
+
+La identidad y la separación de marcas siguen sin modificarse. Este repositorio continúa siendo el proyecto de Escobar con un dossier regional en carpeta GACETA_NORTE; no se creó un segundo repositorio ni se desplegó una web regional.
