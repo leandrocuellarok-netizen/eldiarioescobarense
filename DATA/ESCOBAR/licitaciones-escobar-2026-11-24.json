@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "dataset": "La Gaceta de Escobar — licitaciones municipales 2026",
   "municipality": "Escobar",
-  "consulted_at": "2026-11-24T02:56:00-03:00",
+  "consulted_at": "2026-11-24T03:56:47-03:00",
   "currency": "ARS",
   "editorial_status": "internal_research_not_for_publication",
   "aggregation": {
@@ -42,7 +42,7 @@
       "procedure": "Licitación Pública 66/2026",
       "object": "Obra de puesta en valor del Polideportivo de Ingeniero Maschwitz",
       "official_budget": 578102033.6,
-      "publication_date": "2026-11-12",
+      "publication_date": "2026-11-13",
       "opening_datetime_local": "2026-11-30T12:00:00-03:00",
       "expediente": "285599/26",
       "pliego_sale_dates": [
@@ -53,16 +53,20 @@
         "2026-11-16",
         "2026-11-17"
       ],
-      "source_url": "https://boletinoficial.gba.gob.ar/secciones/14505/ver",
+      "source_url": "https://boletinoficial.gba.gob.ar/secciones/14508/descargar",
       "verification_status": "confirmed_call_opening_pending",
-      "notes": "Presupuesto oficial con IVA incluido. Venta y consultas de pliego ya transcurrieron."
+      "notes": "Presupuesto oficial con IVA incluido. Venta y consultas de pliego ya transcurrieron. Fuente primaria corregida: Boletín Oficial PBA, edición del 13/11/2026, secciones oficiales pp. 70–71.",
+      "notice_dates": [
+        "2026-11-12",
+        "2026-11-13"
+      ]
     },
     {
       "id": "escobar-lp-69-2026",
       "procedure": "Licitación Pública 69/2026",
       "object": "Adquisición de mobiliario urbano",
       "official_budget": 2028843927,
-      "publication_date": "2026-11-12",
+      "publication_date": "2026-11-13",
       "opening_datetime_local": "2026-11-30T13:00:00-03:00",
       "expediente": "278805/26",
       "pliego_sale_dates": [
@@ -73,9 +77,13 @@
         "2026-11-16",
         "2026-11-17"
       ],
-      "source_url": "https://boletinoficial.gba.gob.ar/secciones/14505/ver",
+      "source_url": "https://boletinoficial.gba.gob.ar/secciones/14508/descargar",
       "verification_status": "confirmed_call_opening_pending",
-      "notes": "Presupuesto oficial con IVA incluido. El aviso no detalla cantidades ni distribución del mobiliario."
+      "notes": "Presupuesto oficial con IVA incluido. El aviso no detalla cantidades ni distribución del mobiliario. Fuente primaria corregida: Boletín Oficial PBA, edición del 13/11/2026, secciones oficiales pp. 70–71.",
+      "notice_dates": [
+        "2026-11-12",
+        "2026-11-13"
+      ]
     },
     {
       "id": "escobar-lp-71-2026",
