@@ -1,4 +1,4 @@
-# Gaceta Norte — ejecución 18: compras de salud, asistencia alimentaria, industria y transparencia
+# Gaceta Norte — ejecución 18: compras públicas, industria y transparencia en Pilar y Vicente López
 
 **Consulta:** 24 de noviembre de 2026, 01:56 (Argentina).  
 **Cobertura:** Pilar y Vicente López.  
@@ -71,22 +71,44 @@ Fuentes secundarias para seguimiento:
 - https://www.infogremiales.com.ar/crisis-en-el-parque-industrial-de-pilar-el-intendente-achaval-advirtio-por-7-000-empleos-perdidos-en-seis-meses-y-50-empresas-al-borde-de-la-quiebra/
 - https://www.pilaradiario.com/economia/multinacional-se-va-del-pais-y-cierra-su-planta-el-parque-industrial-pilar-n5442855
 
-## 4. Vicente López: dos licitaciones de asistencia alimentaria por $599.979.500
+## 4. Vicente López: once licitaciones por $6.615.805.161,31
 
-Los avisos del Boletín Oficial provincial registran dos procedimientos para reforzar la asistencia alimentaria de diciembre de 2026:
+Los boletines oficiales del 04/11 y 16/11/2026 permiten reconstruir once procedimientos municipales, numerados del 56 al 66, con presupuestos oficiales conjuntos de **$6.615.805.161,31**. La cifra es una suma de presupuestos de llamados, no gasto ejecutado, adjudicación ni pago.
 
-| Licitación | Objeto | Presupuesto oficial | Apertura | Estado al 24/11 |
-|---|---|---:|---|---|
-| 56/2026 | Víveres secos para cajas alimentarias destinadas a personas en situación de vulnerabilidad | $299.992.000 | 17/11/2026, 10:00 | Apertura pasada; falta localizar resultado y adjudicación |
-| 57/2026 | Víveres secos, carnes, productos avícolas y verduras para comedores municipales | $299.987.500 | 30/11/2026, 10:00 | Apertura futura |
+| Licitación | Objeto | Presupuesto oficial | Apertura |
+|---|---|---:|---|
+| 56/2026 | Víveres secos para cajas alimentarias de diciembre destinadas a personas en situación de vulnerabilidad | $299.992.000 | 17/11/2026, 10:00 |
+| 57/2026 | Víveres secos, carnes, productos avícolas y verduras para comedores municipales, refuerzo de diciembre | $299.987.500 | 30/11/2026, 10:00 |
+| 58/2026 | Repavimentación en distintos sectores del partido, etapa 3 | $1.237.500.000 | 01/12/2026, 10:00 |
+| 59/2026 | Bacheo en adoquines de calle Rawson | $340.000.000 | 02/12/2026, 10:00 |
+| 60/2026 | Bolsas de nutrición parenteral para la Maternidad Santa Rosa, ejercicio 2027 | $347.816.544 | 04/12/2026, 10:00 |
+| 61/2026 | Renovación de veredas de Av. Maipú entre Bermúdez y San Lorenzo | $860.000.000 | 04/12/2026, 12:00 |
+| 62/2026 | Nutriterápicos para diversos efectores de salud, ejercicio 2027 | $407.078.231,82 | 09/12/2026, 10:00 |
+| 63/2026 | Renovación de veredas de Laprida entre Av. Maipú y Chacabuco | $900.000.000 | 09/12/2026, 12:00 |
+| 64/2026 | Soluciones parenterales para diversos efectores de salud, ejercicio 2027 | $953.073.655,13 | 10/12/2026, 10:00 |
+| 65/2026 | Raciones para desayunos, meriendas y almuerzos de alumnos de establecimientos educativos | $783.157.230,36 | 11/12/2026, 10:00 |
+| 66/2026 | Bacheo de pavimento articulado en la bocacalle de Roca y Azcuénaga | $187.200.000 | 11/12/2026, 12:00 |
 
-Presupuestos oficiales conjuntos: **$599.979.500**. No son montos pagados ni adjudicados.
+### Lectura por sector
 
-Los avisos no indican la cantidad de cajas, familias, raciones, comedores alcanzados ni unidades de cada producto. Esos datos son centrales para evaluar cobertura y costo por prestación, pero deben obtenerse de los pliegos, actas, adjudicación y ejecución.
+- **Alimentación y educación:** licitaciones 56, 57 y 65; presupuestos oficiales conjuntos de $1.383.136.730,36.
+- **Salud:** licitaciones 60, 62 y 64; presupuestos oficiales conjuntos de $1.707.968.430,95.
+- **Calles y espacio público:** licitaciones 58, 59, 61, 63 y 66; presupuestos oficiales conjuntos de $3.524.700.000.
 
-Fuentes primarias:
-- Licitación 56/2026, Boletín Oficial del 04/11/2026: https://boletinoficial.gba.gob.ar/secciones/14490/descargar
-- Licitación 57/2026, Boletín Oficial del 16/11/2026: https://boletinoficial.gba.gob.ar/secciones/14512/ver
+Las categorías son una clasificación editorial por objeto del aviso, no una imputación presupuestaria auditada.
+
+### Preguntas periodísticas pendientes
+
+- Para alimentos y raciones: cantidades, gramajes, menús, cantidad de comedores y establecimientos, frecuencia de entrega y población cubierta.
+- Para salud: cantidades de insumos, efectores alcanzados, controles de calidad, continuidad del suministro y protocolos de trazabilidad.
+- Para obras: calles y tramos exactos, metros cuadrados, especificaciones técnicas, plazos, certificados y recepción.
+- Para los once procedimientos: oferentes, precios, adjudicatarios, contratos, modificaciones, devengado y pagos.
+
+Los avisos no informan por sí solos la cantidad de beneficiarios, unidades, proveedores ni el costo final. No presentar el presupuesto como dinero ya gastado.
+
+**Fuentes primarias:**
+- Boletín Oficial PBA del 04/11/2026, sección 14490: https://boletinoficial.gba.gob.ar/secciones/14490/descargar
+- Boletín Oficial PBA del 16/11/2026, sección 14512: https://boletinoficial.gba.gob.ar/secciones/14512/ver
 
 El Municipio dispone de un portal oficial de Compras y Licitaciones con consultas de pliegos y adjudicaciones: https://www.vicentelopez.gov.ar/compras/accesos.html
 
@@ -120,14 +142,15 @@ El portal municipal informa 25 boletines y 956 documentos para 2026. La propia p
 
 1. **Pilar y salud:** qué se compra, qué prestaciones se garantizan y cómo se controla el servicio de laboratorio e imágenes durante 2027.
 2. **Pilar e industria:** reconstruir la evolución del empleo y la cantidad de establecimientos con series oficiales y datos comparables de CEPIP.
-3. **Vicente López y asistencia alimentaria:** contrastar presupuesto, cantidades contratadas, proveedores, distribución y cobertura agregada.
+3. **Vicente López y compras públicas:** comparar asistencia alimentaria, raciones escolares, insumos médicos y obras viales con sus resultados y población cubierta.
 4. **Vicente López y datos abiertos:** evaluar la fecha de actualización, formatos descargables, trazabilidad y consistencia de los tableros fiscales.
 5. **Comparación regional:** construir una matriz homogénea de compras públicas, ejecución presupuestaria, empleo industrial y servicios, sin comparar montos nominales sin ajustar por período, escala y población.
 
 ## 7. Estado de verificación y límites
 
 - Llamados y presupuestos publicados en boletines oficiales: confirmados como actos de convocatoria.
-- Resultados y adjudicaciones de las licitaciones 56, 47 y 48: pendientes de localización.
+- Resultados y adjudicaciones de las licitaciones 56 y 47–48: pendientes de localización.
+- Aperturas futuras de las licitaciones 57–66: pendientes de actas y resultados.
 - Cifras de empleo industrial de Pilar: atribuidas y corroboradas por publicaciones, pero no auditadas mediante una base oficial abierta.
 - Datos de CEPIP: autodescripción institucional publicada por la Cámara.
 - Documentación financiera de Pilar: listada en fuente oficial; análisis numérico pendiente.
