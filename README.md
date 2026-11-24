@@ -132,3 +132,17 @@ La identidad y la separación de marcas siguen sin modificarse. Este repositorio
 Escobar: se documentó el RUAL (35 registros publicados: 23 música, 7 danza, 2 DJ y 3 espectáculos infantiles), la cartelera del Teatro Seminari/Cine Italia, el estado desactualizado de la agenda municipal, el perfil público de La Kalimba, cinco nodos municipales de ferias y mercados y una muestra reciente de Radio Cromo y Generación E. Se registró una discrepancia horaria de la Ronda de Negocios del 24/11 entre dos páginas oficiales (8:30 y 11:30); no se atribuyó resultado porque aún no había balance verificable al momento de consulta.
 Gaceta Norte: Pilar, se documentaron la XIII Semana del Emprendedor (16–22/11), sus media partners, la ronda multisectorial con 325 empresas inscriptas y más de 1.500 entrevistas informadas por Provincia, y cuatro espacios culturales. Vicente López: se incorporaron la reseña histórica municipal, la Biblioteca Municipal y la página de Prensa institucional.
 Los datasets distinguen información institucional confirmada, autodescripciones, observaciones pendientes y agenda dinámica. Los directorios no se consideran censos completos. No hubo contactos, mensajes, publicaciones, contrataciones ni modificaciones de sitios públicos.
+
+
+## Actualización 24/11/2026 — ejecución 23
+- [Investigación 23: actualidad, industria, movilidad y memoria de Escobar](INVESTIGACION/ejecucion-23-actualidad-industria-movilidad-y-memoria-escobar-2026-11-24.md)
+- [Gaceta Norte 23: transparencia de Pilar y salud de Vicente López](GACETA_NORTE/ejecucion-23-transparencia-pilar-salud-vicente-lopez-2026-11-24.md)
+- [Dataset Escobar: actualidad, servicios, industria y memoria](DATA/ESCOBAR/actualidad-servicios-industria-memoria-2026-11-24.json)
+- [Dataset Gaceta Norte: transparencia y salud](DATA/GACETA_NORTE/transparencia-salud-pilar-vicente-lopez-2026-11-24.json)
+- [Registro de fuentes — ejecución 23](FUENTES/registro-2026-11-24-ejecucion-23.md)
+
+Escobar: se documentó el traslado industrial proyectado de Grupo Addnice a Garín, la puesta en marcha reportada del ramal 506 B a Loma Verde y la falta de confirmación operativa del 503 H a Matheu; se abrió seguimiento documental de la obra de Ruta 25; se registraron estadísticas municipales atribuidas a la Patrulla Ambiental; se incorporó el Fondo de Fortalecimiento a Entidades de Bien Público con pendiente de localizar el texto de la ordenanza; se documentó el anuncio de capacitación municipal en IA; y se contrastó la Ley Provincial 6.068, separando la fecha conmemorativa de sanción (8/10/1959), la promulgación registrada (23/10/1959) y la publicación (30/10/1959). Se registraron además las discrepancias de períodos del Archivo Histórico y un siniestro en Garín pendiente de parte oficial.
+
+Gaceta Norte: Pilar, se confirmó que el portal municipal lista CAIF y balances del tercer trimestre 2026, sin analizarlos todavía; se mantuvo como indicador productivo la ronda con 325 empresas y más de 1.500 entrevistas informadas por Provincia. Vicente López: se documentaron obras informadas en el Hospital Houssay, el CAPS Barreiro Aguirre y la delegación de Munro. Se separaron anuncios, capacidad proyectada y actividad efectiva pendiente.
+
+No se realizaron contactos, publicaciones, contrataciones ni modificaciones de sitios públicos. Todo permanece como investigación interna para revisión humana.
