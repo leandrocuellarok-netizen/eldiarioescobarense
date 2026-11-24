@@ -46,6 +46,10 @@ La investigación contempla Belén de Escobar, Garín, Ingeniero Maschwitz, Maqu
 - [Investigación 16: nomenclatura vial, ronda empresarial y metodología de seguridad](INVESTIGACION/ejecucion-16-nomenclatura-ronda-y-seguridad-escobar-2026-11-23.md)
 - [Gaceta Norte 16: ecosistema emprendedor de Pilar y matriz regional](GACETA_NORTE/ejecucion-16-ecosistema-emprendedor-pilar-y-matriz-regional-2026-11-23.md)
 - [Registro de fuentes — ejecución 16](FUENTES/registro-2026-11-23-ejecucion-16.md)
+- [Investigación 17: ronda de negocios, presupuesto e industria de Escobar](INVESTIGACION/ejecucion-17-ronda-presupuesto-industria-escobar-2026-11-24.md)
+- [Gaceta Norte 17: finanzas públicas de Pilar y formación tecnológica en Vicente López](GACETA_NORTE/ejecucion-17-finanzas-pilar-formacion-vicente-lopez-2026-11-24.md)
+- [Registro de fuentes — ejecución 17](FUENTES/registro-2026-11-24-ejecucion-17.md)
+- [Dataset de oportunidades institucionales — 24/11/2026](DATA/oportunidades-institucionales-2026-11-24.json)
 
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
@@ -67,7 +71,7 @@ La investigación contempla Belén de Escobar, Garín, Ingeniero Maschwitz, Maqu
 Proyecto en fase de diseño, investigación y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes. Los datos comerciales requieren reconfirmación antes de su publicación.
 
 ## Última ejecución
-23/11/2026 — se documentó el proceso de ordenamiento de calles de Loma Verde Oeste a partir de siete ordenanzas citadas por Escobar Norte (pendiente cotejo con los originales del HCD), se incorporó el dataset municipal de ejes de calles y se registró una discrepancia de horario para la Ronda de Negocios Escobar del 24/11/2026: Provincia publica 8:30 y el portal de inscripción 11:30. Se separaron los indicadores municipales de capacidad operativa de seguridad de las estadísticas de delitos; la cifra de 4.586 hechos atribuida a Escobar en un tablero externo sigue pendiente de reproducción. Para Gaceta Norte se añadió el balance publicado de la XIII Semana del Emprendedor Pilarense (más de 500 inscriptos, no necesariamente asistentes efectivos) y se amplió la matriz comparativa de Pilar, Vicente López y Escobar.
+24/11/2026 — se amplió la investigación de Escobar con la Ronda de Negocios del 24/11 (discrepancia horaria oficial 8:30 vs 11:30), Red Sostenible, proyecto de traslado de Addnice a Garín, proyecto de Presupuesto 2027 y obras en Garín, Maquinista Savio, Ingeniero Maschwitz y Loma Verde. Se registró que las cifras presupuestarias son las anunciadas por el Ejecutivo y no ejecución, y que el estado final de la Fiscal y Tributaria requiere actas y textos normativos. Para Gaceta Norte se localizó documentación financiera de Pilar del tercer trimestre de 2026 y la oferta de la Tecnicatura Universitaria en Programación 2027 de Vicente López. Se agregaron cuatro archivos versionables: dos informes separados por proyecto, un registro de fuentes y un dataset JSON de oportunidades institucionales. No se realizaron contactos, publicaciones, contrataciones ni cambios en sitios públicos.
 
 ## Historial de trabajo
 Los lotes anteriores, borradores periodísticos, identidad, modelo comercial y documentación de investigación permanecen versionados en el repositorio. Consultar el historial de commits para el detalle de cada ejecución.
