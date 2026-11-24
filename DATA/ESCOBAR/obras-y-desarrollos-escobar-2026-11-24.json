@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Escobar — obras e infraestructura anunciadas por el Municipio",
+  "municipality": "Escobar",
+  "consulted_at": "2026-11-24T03:56:47-03:00",
+  "editorial_status": "internal_research_not_for_publication",
+  "records": [
+    {
+      "id": "escobar-obra-salta-garin-2026",
+      "locality": "Garín",
+      "project": "Pavimentación de calle Salta",
+      "reported_status": "etapa final según el Municipio al 16/11/2026",
+      "scope": {
+        "road_length_m": 350,
+        "sidewalks_m": 700,
+        "segment": "entre Colectora Oeste e Islas Malvinas"
+      },
+      "reported_investment_ars": 263000000,
+      "additional_works": [
+        "demarcación vial",
+        "mejoras de escurrimiento pluvial",
+        "luminarias LED"
+      ],
+      "primary_source": "Municipalidad de Escobar",
+      "primary_url": "https://www.escobar.gob.ar/noticias/sujarchuk-y-katopodis-visitaron-importantes-obras-de-infraestructura-e/",
+      "secondary_source": "Alternativa en Papel",
+      "secondary_url": "https://alternativaenpapel.com.ar/2026/11/13/sujarchuk-y-katopodis-recorrieron-obras-clave-en-escobar-pavimentacion-feria-de-la-familia-y-construccion-modular/",
+      "publication_date": "2026-11-16",
+      "period": "noviembre 2026",
+      "verification_status": "corroborated_as_public_announcement_execution_not_independently_verified",
+      "notes": "El Municipio vincula la obra con la circulación y acceso a la Escuela Secundaria N° 8 y al barrio Villa Angélica. Falta cotejar contrato, certificados, recepción y costo final."
+    },
+    {
+      "id": "escobar-obra-el-dorado-maschwitz-2026",
+      "locality": "Ingeniero Maschwitz",
+      "project": "Pavimentación integral de El Dorado",
+      "reported_status": "inicio informado por el Municipio",
+      "scope": {
+        "length_m": 2300,
+        "blocks": 23,
+        "works": [
+          "pavimento de hormigón",
+          "veredas",
+          "cordón cuneta"
+        ]
+      },
+      "reported_investment_ars": 7000000000,
+      "primary_source": "Municipalidad de Escobar",
+      "primary_url": "https://www.escobar.gob.ar/noticias/sujarchuk-y-katopodis-visitaron-importantes-obras-de-infraestructura-e/",
+      "secondary_source": "Alternativa en Papel",
+      "secondary_url": "https://alternativaenpapel.com.ar/2026/11/13/sujarchuk-y-katopodis-recorrieron-obras-clave-en-escobar-pavimentacion-feria-de-la-familia-y-construccion-modular/",
+      "publication_date": "2026-11-16",
+      "period": "noviembre 2026",
+      "verification_status": "corroborated_as_public_announcement_execution_not_independently_verified",
+      "notes": "La cifra se describe como inversión cercana a $7.000 millones. No se identificó en esta ejecución el expediente contractual específico ni certificaciones de avance."
+    },
+    {
+      "id": "escobar-feria-familia-savio-etapa2-2026",
+      "locality": "Maquinista Savio",
+      "project": "Segunda etapa de puesta en valor de la Feria de la Familia",
+      "reported_status": "inicio de etapa anunciado",
+      "scope": {
+        "stalls": 346,
+        "facilities": [
+          "módulo sanitario accesible",
+          "plaza blanda",
+          "espacios recreativos",
+          "accesos peatonales",
+          "iluminación",
+          "parquización"
+        ]
+      },
+      "reported_investment_ars": 4500000000,
+      "investment_qualifier": "superior a",
+      "reported_beneficiary_households": 700,
+      "primary_source": "Municipalidad de Escobar",
+      "primary_url": "https://www.escobar.gob.ar/noticias/sujarchuk-y-katopodis-visitaron-importantes-obras-de-infraestructura-e/",
+      "secondary_source": "Alternativa en Papel",
+      "secondary_url": "https://alternativaenpapel.com.ar/2026/11/13/sujarchuk-y-katopodis-recorrieron-obras-clave-en-escobar-pavimentacion-feria-de-la-familia-y-construccion-modular/",
+      "publication_date": "2026-11-16",
+      "period": "noviembre 2026",
+      "verification_status": "corroborated_as_public_announcement_execution_not_independently_verified",
+      "notes": "La comunicación municipal habla de casi 700 familias vinculadas a la actividad; no es un padrón de beneficiarios individualizado ni una medición independiente."
+    },
+    {
+      "id": "ecosan-loma-verde-industria-modular-2026",
+      "locality": "Loma Verde",
+      "entity": "Ecosan",
+      "sector": "construcción modular industrializada",
+      "reported_employment": 180,
+      "employment_qualifier": "más de",
+      "primary_source": "Municipalidad de Escobar",
+      "primary_url": "https://www.escobar.gob.ar/noticias/sujarchuk-y-katopodis-visitaron-importantes-obras-de-infraestructura-e/",
+      "secondary_source": "Alternativa en Papel",
+      "secondary_url": "https://alternativaenpapel.com.ar/2026/11/13/sujarchuk-y-katopodis-recorrieron-obras-clave-en-escobar-pavimentacion-feria-de-la-familia-y-construccion-modular/",
+      "publication_date": "2026-11-16",
+      "period": "noviembre 2026",
+      "verification_status": "corroborated_as_public_announcement_employment_not_independently_verified",
+      "notes": "El Municipio informa más de 180 personas empleadas y prioridad para contratación local; ambas cifras requieren confirmación empresarial o administrativa antes de presentarse como datos auditados."
+    }
+  ],
+  "methodology": "Las cifras son anuncios oficiales comunicados por el Municipio, contrastados con una nota secundaria que reproduce los mismos datos. No constituyen auditoría independiente ni prueba de ejecución física o financiera. No sumar estos montos con presupuestos licitatorios sin comprobar que corresponden a contratos distintos y períodos comparables."
+}
