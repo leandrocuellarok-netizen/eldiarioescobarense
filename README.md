@@ -32,6 +32,10 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu, Loma V
 - [Investigación 12: transporte, energía, memoria periodística e industria de Escobar](INVESTIGACION/ejecucion-12-servicios-memoria-industria-2026-11-23.md)
 - [Gaceta Norte: empleo industrial en Pilar y patrimonio de Vicente López](GACETA_NORTE/actualizacion-pilar-vicente-lopez-empleo-patrimonio-2026-11-23.md)
 - [Registro de fuentes — ejecución 12](FUENTES/registro-2026-11-23-ejecucion-12.md)
+- [Investigación 13: datos abiertos, salud, seguridad y movilidad](INVESTIGACION/ejecucion-13-datos-abiertos-salud-seguridad-movilidad-escobar-2026-11-23.md)
+- [Gaceta Norte: medios y participación en Pilar y Vicente López](GACETA_NORTE/actualizacion-medios-y-participacion-vicente-lopez-pilar-2026-11-23.md)
+- [Prospectos comerciales y nodos culturales — lote 13](PROSPECTOS/lote-13-mapa-comercial-cultural-escobar-2026-11-23.md)
+- [Registro de fuentes — ejecución 13](FUENTES/registro-2026-11-23-ejecucion-13.md)
 
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
@@ -53,7 +57,7 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu, Loma V
 Proyecto en fase de diseño, investigación y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes. Los datos comerciales requieren reconfirmación antes de su publicación.
 
 ## Última ejecución
-23/11/2026 — se incorporaron hallazgos sobre el ramal 506-B hacia Loma Verde y el anuncio del ramal 503-H hacia Matheu; el proyecto BESS Maschwitz (40 MW, todavía en etapa preliminar y sujeto a licencias locales); una discrepancia documental sobre la fecha inaugural de El Actual (18/11 frente a 03/11/1964); y el estado administrativo del proyecto de parque industrial de Loma Verde. Para Gaceta Norte se agregó la caída de empleo privado registrado en Pilar (OEDE, diciembre 2023-diciembre 2025) y se separó de la estimación de empleo del Parque Industrial; para Vicente López se documentaron el Museo de la Ciudad, el patrimonio audiovisual y el Presupuesto Participativo 2027.
+23/11/2026 — se relevó el portal municipal de datos abiertos (53 datasets y 15 categorías); se identificó que el único dataset de Seguridad es de instalaciones y no contiene hechos delictivos; se documentaron datasets de centros de salud, estadísticas vitales 2005–2022, transporte 2026 y ejes de calles; se distinguieron los indicadores operativos municipales de las estadísticas SNIC. Se incorporó el directorio municipal de 219 comercios y 13 rubros con muestras por seis localidades, y se detectó que no ofrece un filtro independiente para 24 de Febrero. Para Gaceta Norte se agregaron la ronda de negocios de Pilar (325 empresas y más de 1.500 entrevistas, 22/10/2026), la XIII Semana del Emprendedor y sus media partners, y el Presupuesto Participativo de Vicente López (67 proyectos para 2027), manteniendo separados los ciclos históricos 2025–2026.
 
 ## Historial de trabajo
 Los lotes anteriores, borradores periodísticos, identidad, modelo comercial y documentación de investigación permanecen versionados en el repositorio. Consultar el historial de commits para el detalle de cada ejecución.
