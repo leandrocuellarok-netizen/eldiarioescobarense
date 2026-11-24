@@ -146,3 +146,19 @@ Escobar: se documentó el traslado industrial proyectado de Grupo Addnice a Gar�
 Gaceta Norte: Pilar, se confirmó que el portal municipal lista CAIF y balances del tercer trimestre 2026, sin analizarlos todavía; se mantuvo como indicador productivo la ronda con 325 empresas y más de 1.500 entrevistas informadas por Provincia. Vicente López: se documentaron obras informadas en el Hospital Houssay, el CAPS Barreiro Aguirre y la delegación de Munro. Se separaron anuncios, capacidad proyectada y actividad efectiva pendiente.
 
 No se realizaron contactos, publicaciones, contrataciones ni modificaciones de sitios públicos. Todo permanece como investigación interna para revisión humana.
+
+
+## Actualización 24/11/2026 — ejecución 24
+
+- [Investigación 24: presupuesto, obras, seguridad, comercio y agenda de Escobar](INVESTIGACION/ejecucion-24-presupuesto-obras-seguridad-y-comercio-escobar-2026-11-24.md)
+- [Gaceta Norte 24: contrataciones, salud, seguridad y transparencia en Pilar y Vicente López](GACETA_NORTE/ejecucion-24-contrataciones-salud-seguridad-y-transparencia-pilar-vicente-lopez-2026-11-24.md)
+- [Oportunidades editoriales y comerciales — lote 24](PROSPECTOS/lote-24-oportunidades-editoriales-y-comerciales-escobar-pilar-vicente-lopez-2026-11-24.md)
+- [Dataset Escobar: presupuesto, obras, seguridad y mercados](DATA/ESCOBAR/presupuesto-obras-seguridad-mercados-2026-11-24.json)
+- [Dataset Gaceta Norte: contrataciones, salud y seguridad](DATA/GACETA_NORTE/contrataciones-salud-seguridad-pilar-vicente-lopez-2026-11-24.json)
+- [Registro de fuentes — ejecución 24](FUENTES/registro-2026-11-24-ejecucion-24.md)
+
+Escobar: se incorporaron las obras informadas en Garín, Ingeniero Maschwitz, Maquinista Savio y Loma Verde; el proyecto de Presupuesto 2027 por $410.000 millones con sus asignaciones anunciadas, todavía pendiente de aprobación y análisis de anexos; los indicadores institucionales de seguridad, expresamente diferenciados de tasas de delito; la Ordenanza 6515 y el reconocimiento municipal de 246 barrios, con cartografía pendiente; cinco mercados/ferias y el circuito comercial-turístico. La Ronda de Negocios del 24/11 conserva una discrepancia horaria entre dos canales oficiales (08:30 y 11:30). Se incorporó además la LP 74/2026 para obra deportiva en Ingeniero Maschwitz, con presupuesto oficial de $793 millones y apertura prevista el 4/12.
+
+Gaceta Norte: Pilar, se registraron tres procedimientos sanitarios 2027 por un presupuesto oficial conjunto de $23.052.111.469,20, además de la LP 49/2026 de equipamiento administrativo; se actualizó la referencia al Hospital Pediátrico Federico Falcón y al Boletín SIBOM 231º visible. Vicente López, se incorporaron cinco licitaciones por $3.192.394.775,82 en conjunto, separando infraestructura de insumos sanitarios, y se registró la información sobre cámaras y patrullas con cautela por diferencias de categoría y período.
+
+No hubo contactos, mensajes, publicaciones, contrataciones ni modificaciones de sitios públicos. Los seis documentos nuevos son investigación interna para revisión humana. Este repositorio continúa siendo el proyecto de Escobar con el dossier regional en GACETA_NORTE; no se creó un segundo repositorio ni se desplegó una web regional.
