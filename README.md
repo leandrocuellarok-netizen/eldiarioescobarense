@@ -162,3 +162,19 @@ Escobar: se incorporaron las obras informadas en Garín, Ingeniero Maschwitz, Ma
 Gaceta Norte: Pilar, se registraron tres procedimientos sanitarios 2027 por un presupuesto oficial conjunto de $23.052.111.469,20, además de la LP 49/2026 de equipamiento administrativo; se actualizó la referencia al Hospital Pediátrico Federico Falcón y al Boletín SIBOM 231º visible. Vicente López, se incorporaron cinco licitaciones por $3.192.394.775,82 en conjunto, separando infraestructura de insumos sanitarios, y se registró la información sobre cámaras y patrullas con cautela por diferencias de categoría y período.
 
 No hubo contactos, mensajes, publicaciones, contrataciones ni modificaciones de sitios públicos. Los seis documentos nuevos son investigación interna para revisión humana. Este repositorio continúa siendo el proyecto de Escobar con el dossier regional en GACETA_NORTE; no se creó un segundo repositorio ni se desplegó una web regional.
+
+
+## Actualización 24/11/2026 — ejecución 25
+
+- [Investigación 25: presupuesto, entidades, movilidad y memoria periodística de Escobar](INVESTIGACION/ejecucion-25-presupuesto-entidades-movilidad-y-memoria-escobar-2026-11-24.md)
+- [Gaceta Norte 25: presupuestos 2027 y participación en Pilar y Vicente López](GACETA_NORTE/ejecucion-25-presupuestos-y-participacion-pilar-vicente-lopez-2026-11-24.md)
+- [Oportunidades editoriales y comerciales — lote 25](PROSPECTOS/lote-25-oportunidades-institucionales-comerciales-escobar-pilar-vicente-lopez-2026-11-24.md)
+- [Dataset Escobar: presupuesto, entidades, movilidad y memoria](DATA/ESCOBAR/presupuesto-entidades-movilidad-memoria-2026-11-24.json)
+- [Dataset Gaceta Norte: presupuestos y participación](DATA/GACETA_NORTE/presupuestos-participacion-pilar-vicente-lopez-2026-11-24.json)
+- [Registro de fuentes — ejecución 25](FUENTES/registro-2026-11-24-ejecucion-25.md)
+
+Escobar: se incorporó el proyecto de Presupuesto 2027 por $410.000 millones y sus asignaciones anunciadas, manteniendo pendiente la verificación de sanción definitiva y anexos; se documentó la institucionalización por ordenanza del Fondo de Fortalecimiento para Entidades de Bien Público, con número y texto normativo aún pendientes; se registró el ramal 506 B hacia el Parque Industrial de Loma Verde con horarios sujetos a confirmación primaria; se incorporó la Jornada Solidaria reportada en cinco localidades y 12 espacios; y se abrió una línea de memoria sobre Tilo Wenner, El Actual y la declaración de interés para la EES N.º 18, sin confundirla con el acto formal de denominación.
+
+Gaceta Norte: Pilar, se confirmó mediante SIBOM la promulgación de la Ordenanza 152/26 por Decreto 1319/26 y el presupuesto 2027 de $654.193.389.440; las aperturas por área quedan pendientes de cotejo del anexo. Vicente López, se registró la aprobación preparatoria de las ordenanzas Fiscal e Impositiva 2027 por 17 votos a 7, pendiente de Asamblea de Mayores Contribuyentes, y los 67 proyectos ganadores del Presupuesto Participativo 2026 para ejecución en 2027 en nueve localidades.
+
+No se recopilaron datos personales de electores ni se contactó a vecinos, instituciones, funcionarios o empresas. No hubo mensajes, publicaciones, contrataciones ni modificaciones de sitios públicos. Todo permanece como investigación interna para revisión humana.
