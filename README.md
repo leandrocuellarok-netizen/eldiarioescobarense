@@ -178,3 +178,19 @@ Escobar: se incorporó el proyecto de Presupuesto 2027 por $410.000 millones y s
 Gaceta Norte: Pilar, se confirmó mediante SIBOM la promulgación de la Ordenanza 152/26 por Decreto 1319/26 y el presupuesto 2027 de $654.193.389.440; las aperturas por área quedan pendientes de cotejo del anexo. Vicente López, se registró la aprobación preparatoria de las ordenanzas Fiscal e Impositiva 2027 por 17 votos a 7, pendiente de Asamblea de Mayores Contribuyentes, y los 67 proyectos ganadores del Presupuesto Participativo 2026 para ejecución en 2027 en nueve localidades.
 
 No se recopilaron datos personales de electores ni se contactó a vecinos, instituciones, funcionarios o empresas. No hubo mensajes, publicaciones, contrataciones ni modificaciones de sitios públicos. Todo permanece como investigación interna para revisión humana.
+
+
+## Actualización 24/11/2026 — ejecución 26
+
+- [Investigación 26: red sanitaria, agenda local y contrataciones de Escobar](INVESTIGACION/ejecucion-26-red-sanitaria-agenda-y-licitaciones-escobar-2026-11-24.md)
+- [Gaceta Norte 26: contrataciones sanitarias y servicios públicos en Pilar y Vicente López](GACETA_NORTE/ejecucion-26-compras-sanitarias-pilar-vicente-lopez-2026-11-24.md)
+- [Prospectos por segmentos — lote 26](PROSPECTOS/lote-26-segmentos-comerciales-salud-gastronomia-y-servicios-escobar-norte-2026-11-24.md)
+- [Dataset Escobar: red sanitaria, agenda y licitaciones](DATA/ESCOBAR/red-sanitaria-agenda-licitaciones-2026-11-24.json)
+- [Dataset Gaceta Norte: compras de salud en Pilar y Vicente López](DATA/GACETA_NORTE/compras-salud-pilar-vicente-lopez-2026-11-24.json)
+- [Registro de fuentes — ejecución 26](FUENTES/registro-2026-11-24-ejecucion-26.md)
+
+Escobar: se documentó la cartilla municipal que informa 8 hospitales, 4 UDP y 18 CAPS; se advirtió que los filtros de localidad muestran seis unidades territoriales y que 24 de Febrero no aparece como filtro separado, sin inferir ausencia de cobertura. Se registraron horarios de vacunación y emergencias como información dinámica; un indicador municipal de demanda de internación con metodología pendiente; el Finde Gastronómico del 19 al 23/11 como evento ya finalizado y sin balance cuantitativo localizado; y las LP 67/26 y 68/26, cuyas aperturas del 20/11 ya pasaron y cuyas adjudicaciones no se localizaron. Se incorporó seguimiento de obras anunciadas el 16/11, separando anuncio de ejecución certificada.
+
+Gaceta Norte: Pilar, se documentaron las LP 55, 49, 50 y 51/2026 del Boletín Oficial del 18/11, además de las LP 34 y 37 del 02/11; se constató que el portal municipal publica CAIF del tercer trimestre 2026, aún sin análisis de anexos. Vicente López, se incorporaron las LP 53 (segundo llamado), 67, 68 y 69/2026 del Boletín Oficial del 20/11. Los importes son presupuestos oficiales de llamados, no adjudicaciones ni pagos.
+
+Se agregó un lote de segmentos comerciales por rubro, sin contactos ni prospección directa. No se recopilaron datos personales de electores; no hubo mensajes, publicaciones, contrataciones ni modificaciones de sitios públicos. La investigación de Escobar y el dossier regional permanecen separados; no se creó ni desplegó otra web.
