@@ -6,7 +6,7 @@ Medio digital comercial y empresarial con cobertura de todo el partido de Escoba
 **Promesa:** Información local para una comunidad que produce, trabaja y crece.
 
 ## Alcance territorial
-Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu, Loma Verde y 24 de Febrero. La comunicación institucional del programa “Escobar y sus Barrios” habla de siete localidades; los recortes y registros previos se habían organizado sobre seis localidades más 24 de Febrero. Mantener esa distinción visible hasta revisar la cartografía y la nomenclatura oficial completa.
+La investigación contempla Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu, Loma Verde y 24 de Febrero. Las páginas municipales de CONECTA y Mercado Popular incluyen siete unidades territoriales y tratan a 24 de Febrero como localidad operativa; otros contenidos lo denominan barrio o zona. Hasta obtener la cartografía y la nomenclatura catastral completa, conservar esa diferencia y no inferir categoría jurídica.
 
 ## Documentación principal
 - [Proyecto editorial](BORRADORES/01-proyecto-editorial.md)
@@ -36,11 +36,13 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu, Loma V
 - [Gaceta Norte: medios y participación en Pilar y Vicente López](GACETA_NORTE/actualizacion-medios-y-participacion-vicente-lopez-pilar-2026-11-23.md)
 - [Prospectos comerciales y nodos culturales — lote 13](PROSPECTOS/lote-13-mapa-comercial-cultural-escobar-2026-11-23.md)
 - [Registro de fuentes — ejecución 13](FUENTES/registro-2026-11-23-ejecucion-13.md)
-
-
 - [Investigación 14: transformación territorial, memoria y economía de Escobar](INVESTIGACION/ejecucion-14-transformacion-territorial-economia-y-memoria-escobar-2026-11-23.md)
 - [Gaceta Norte: matriz histórica y productiva de Pilar y Vicente López](GACETA_NORTE/ejecucion-14-matriz-historica-productiva-pilar-vicente-lopez-2026-11-23.md)
 - [Registro de fuentes — ejecución 14](FUENTES/registro-2026-11-23-ejecucion-14.md)
+- [Investigación 15: memoria barrial, industria y medios de Escobar](INVESTIGACION/ejecucion-15-memoria-barrial-industria-y-medios-escobar-2026-11-23.md)
+- [Gaceta Norte 15: empleo, cultura y medios regionales](GACETA_NORTE/ejecucion-15-observatorio-regional-empleo-cultura-y-medios-2026-11-23.md)
+- [Oportunidades editoriales y económicas — lote 15](PROSPECTOS/lote-15-oportunidades-editoriales-economicas-loma-verde-y-escobar-2026-11-23.md)
+- [Registro de fuentes — ejecución 15](FUENTES/registro-2026-11-23-ejecucion-15.md)
 
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
@@ -62,7 +64,7 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu, Loma V
 Proyecto en fase de diseño, investigación y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes. Los datos comerciales requieren reconfirmación antes de su publicación.
 
 ## Última ejecución
-23/11/2026 — se relevó el portal municipal de datos abiertos (53 datasets y 15 categorías); se identificó que el único dataset de Seguridad es de instalaciones y no contiene hechos delictivos; se documentaron datasets de centros de salud, estadísticas vitales 2005–2022, transporte 2026 y ejes de calles; se distinguieron los indicadores operativos municipales de las estadísticas SNIC. Se incorporó el directorio municipal de 219 comercios y 13 rubros con muestras por seis localidades, y se detectó que no ofrece un filtro independiente para 24 de Febrero. Para Gaceta Norte se agregaron la ronda de negocios de Pilar (325 empresas y más de 1.500 entrevistas, 22/10/2026), la XIII Semana del Emprendedor y sus media partners, y el Presupuesto Participativo de Vicente López (67 proyectos para 2027), manteniendo separados los ciclos históricos 2025–2026.
+23/11/2026 — se incorporaron fuentes municipales del programa Escobar y sus Barrios y la comunicación de la Ordenanza 6515; se documentaron memorias vecinales sobre Phillips, La Victoria y Dacunto con estado de testimonio o pendiente de contraste. Se sumó la revista institucional Escobar Norte (edición 143, noviembre 2026) como fuente local para la historia de la Cooperativa, electrificación, cultura, transformación rural de Loma Verde, Grupo MC/Sherwin-Williams, proyecto de CAPS y representación legislativa. Se registraron avances municipales de pavimentación, Feria de la Familia y Ecosan; se mantuvo la distinción entre anuncios y resultados ejecutados. Para seguridad se identificó el dataset SNIC y se dejó como pendiente de reproducción una cifra municipal difundida por un tablero de terceros. En Gaceta Norte se añadieron datos de empleo industrial de Pilar, empleo registrado de Vicente López y agendas culturales de ambos municipios, todos con sus límites metodológicos.
 
 ## Historial de trabajo
 Los lotes anteriores, borradores periodísticos, identidad, modelo comercial y documentación de investigación permanecen versionados en el repositorio. Consultar el historial de commits para el detalle de cada ejecución.
