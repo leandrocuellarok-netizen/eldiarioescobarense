@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "dataset": "La Gaceta de Escobar — nuevos candidatos comerciales del directorio municipal",
+  "dataset": "La Gaceta de Escobar — candidatos adicionales del directorio municipal, lote 18",
   "consulted_at": "2026-11-24T01:56:00-03:00",
   "source_name": "Directorio de Comercios Locales — Municipalidad de Escobar",
   "source_url": "https://www.escobar.gob.ar/municipio/comercios-locales/",
@@ -199,26 +199,6 @@
       "source_status": "listed_by_municipality",
       "verification_status": "activity_and_contact_pending",
       "commercial_status": "candidate_only_not_contacted"
-    },
-    {
-      "id": "matheu-tina-estudio-grafico",
-      "name": "Tina Estudio Gráfico",
-      "locality": "Matheu",
-      "category": "Diseño e impresión",
-      "address": "Córdoba 352",
-      "source_status": "listed_by_municipality",
-      "verification_status": "activity_and_contact_pending",
-      "commercial_status": "candidate_only_not_contacted"
-    },
-    {
-      "id": "matheu-cen-cop",
-      "name": "Cen Cop",
-      "locality": "Matheu",
-      "category": "Librería",
-      "address": "Av. Nazarre 126",
-      "source_status": "listed_by_municipality",
-      "verification_status": "activity_and_contact_pending",
-      "commercial_status": "candidate_only_not_contacted"
     }
   ],
   "discrepancies": [
@@ -257,5 +237,20 @@
     "No contactar a los candidatos sin autorización expresa.",
     "Verificar actividad y canales institucionales antes de cualquier uso público.",
     "Distinguir publicidad de cobertura periodística."
+  ],
+  "deduplication_scope": "Comparado con DATA/comercios-iniciales-v1.json y PROSPECTOS/lote-13-mapa-comercial-cultural-escobar-2026-11-23.md; deduplicación integral de todos los lotes históricos pendiente.",
+  "duplicates_excluded": [
+    {
+      "id": "matheu-tina-estudio-grafico",
+      "name": "Tina Estudio Gráfico",
+      "locality": "Matheu",
+      "existing_record": "PROSPECTOS/lote-13-mapa-comercial-cultural-escobar-2026-11-23.md"
+    },
+    {
+      "id": "matheu-cen-cop",
+      "name": "Cen Cop",
+      "locality": "Matheu",
+      "existing_record": "PROSPECTOS/lote-13-mapa-comercial-cultural-escobar-2026-11-23.md"
+    }
   ]
 }
