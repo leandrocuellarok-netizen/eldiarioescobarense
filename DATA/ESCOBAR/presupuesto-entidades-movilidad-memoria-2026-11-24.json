@@ -1,0 +1,121 @@
+{
+  "schema_version": "1.0",
+  "dataset": "La Gaceta de Escobar — presupuesto, entidades, movilidad y memoria periodística",
+  "consulted_at": "2026-11-24T08:56:15-03:00",
+  "editorial_status": "internal_research_not_for_publication",
+  "municipality": "Escobar",
+  "records": [
+    {
+      "id": "escobar-presupuesto-proyecto-2027",
+      "locality": "Partido de Escobar",
+      "topic": "Presupuesto municipal 2027 y distribución anunciada",
+      "period": "Ejercicio 2027; presentación del proyecto 02/11/2026",
+      "total_ars": 410000000000,
+      "announced_allocations_ars": {
+        "infrastructure_and_public_works": 126915000000,
+        "health": 105617000000,
+        "security": 49487000000,
+        "education": 13879000000,
+        "social_development": 8541000000,
+        "participatory_budget": 4200000000
+      },
+      "announced_resource_mix_percent": {
+        "municipal": 64.8,
+        "provincial": 35.2,
+        "national": "practically_zero_as_reported_by_municipality"
+      },
+      "primary_source": "https://www.escobar.gob.ar/noticias/presupuesto-2027-con-la-supresion-de-otros-52-tributos-ariel-sujarchuk/",
+      "secondary_sources": [
+        "https://eldiariodeescobar.com.ar/article/el-concejo-deliberante-de-escobar-aprobo-la-fiscal-y-tributaria-2027-y-creo-un-fondo-para-entidades-de-bien-publico",
+        "https://escobaradiario.com.ar/interes-general/comision-ampliada-de-hacienda-y-presupuesto-enel-hcd-de-escobar/"
+      ],
+      "consulted_at": "2026-11-24T08:56:15-03:00",
+      "verification_status": "corroborated_project_not_finally_verified",
+      "observations": "Montos y porcentajes son datos del proyecto comunicados por el Ejecutivo. La prensa informa tratamiento de expedientes fiscales y tributarios en HCD y paso posterior a Asamblea de Mayores Contribuyentes. No se verificó aquí ordenanza de presupuesto promulgada ni sanción definitiva del paquete fiscal. El portal de transparencia consultado muestra la documentación fiscal vigente 2026. No equivale a ejecución presupuestaria."
+    },
+    {
+      "id": "escobar-fondo-entidades",
+      "locality": "Partido de Escobar",
+      "topic": "Fondo de Fortalecimiento para Entidades de Bien Público",
+      "period": "Programa desde 2022; novedades legislativas noviembre 2026",
+      "indicators": {
+        "municipal_entities_estimate": 600,
+        "reported_fund_beneficiaries_since_2022": 135,
+        "reported_2026_subsidies_ars": 53000000,
+        "reported_2026_recipient_entities": 19,
+        "reported_2025_entities_regularized": 150,
+        "of_which_newly_formed": 40
+      },
+      "primary_sources": [
+        "https://www.escobar.gob.ar/tramites/guia/fondo-de-fortalecimiento-para-entidades-de-bien-publico/",
+        "https://www.escobar.gob.ar/noticias/mas-de-150-entidades-de-bien-publico-regularizaron-su-situacion-gracia/",
+        "https://www.escobar.gob.ar/noticias/entidades-de-bien-publico-sujarchuk-entrego-subsidios-y-anuncio-la-amp/"
+      ],
+      "secondary_sources": [
+        "https://alternativaenpapel.com.ar/2026/11/20/escobar-institucionalizo-por-ordenanza-el-fondo-de-fortalecimiento-para-entidades-de-bien-publico/",
+        "https://eldiariodeescobar.com.ar/article/escobar-aprobo-por-ordenanza-un-fondo-para-apoyar-a-clubes-bomberos-y-entidades-comunitarias"
+      ],
+      "consulted_at": "2026-11-24T08:56:15-03:00",
+      "verification_status": "corroborated_ordinance_number_pending",
+      "observations": "Los indicadores no son sumables ni equivalentes: universo municipal estimado, beneficiarios del fondo, subsidios de un ejercicio y entidades regularizadas son medidas diferentes. La cobertura local informa aprobación unánime de ordenanza, pero falta localizar número, texto y promulgación en fuente primaria."
+    },
+    {
+      "id": "escobar-linea-506-ramal-b",
+      "locality": "Belén de Escobar / Loma Verde",
+      "topic": "Transporte público y movilidad laboral",
+      "period": "Publicado 17/11/2026; operación informada desde noviembre 2026",
+      "route": "Línea 506, ramal B, terminal de Belén de Escobar — Parque Industrial de Loma Verde / zona de Mercado Libre",
+      "primary_source": null,
+      "secondary_sources": [
+        "https://escobaradiario.com.ar/gestion-publica/ya-funciona-un-nuevo-ramal-de-la-linea-506-hacia-mercado-libre-y-el-parque-industrial-de-loma-verde/"
+      ],
+      "consulted_at": "2026-11-24T08:56:15-03:00",
+      "verification_status": "pending_primary_operator_confirmation",
+      "observations": "La publicación local detalla recorrido y horarios por día. No se localizó en esta ejecución cuadro horario de la prestataria o autoridad competente. Confirmar frecuencia, días de servicio y vigencia antes de publicar información de servicio."
+    },
+    {
+      "id": "escobar-jornada-solidaria-nov-2026",
+      "locality": "Belén de Escobar, Garín, Ingeniero Maschwitz, Matheu y Maquinista Savio",
+      "topic": "Participación comunitaria y mantenimiento de instituciones",
+      "period": "Jornada de noviembre 2026; notas publicadas 23/11/2026",
+      "reported_participants": 350,
+      "reported_sites": 12,
+      "primary_source": null,
+      "secondary_sources": [
+        "https://noticiasgba.com.ar/escobar-mas-de-350-vecinos-renovaron-12-escuelas-clubes-y-centros-comunitarios-en-una-jornada-solidaria/",
+        "https://alternativaenpapel.com.ar/2026/11/23/mas-de-350-vecinos-pintaron-limpiaron-y-arreglaron-12-espacios-comunitarios-en-la-cuarta-jornada-solidaria-de-escobar/"
+      ],
+      "consulted_at": "2026-11-24T08:56:15-03:00",
+      "verification_status": "corroborated_limited_same_release_possible",
+      "observations": "Los medios parecen reproducir una misma comunicación institucional. No tratar cifra de participantes, cantidad de sedes ni resultados como auditoría independiente."
+    },
+    {
+      "id": "escobar-tilo-wenner-ees18",
+      "locality": "Belén de Escobar",
+      "topic": "Memoria periodística, terrorismo de Estado y denominación escolar",
+      "period": "El Actual desde 1964; secuestro de Tilo Wenner 26/03/1976; tratamiento HCD noviembre 2026",
+      "primary_source": "https://derechoshumanos.mjus.gba.gob.ar/victima/1316-wenner-tilo/",
+      "secondary_sources": [
+        "https://alternativaenpapel.com.ar/2026/11/14/sesion-del-hcd-de-escobar-reconocimiento-a-enfermeros-fondo-para-entidades-y-nombre-de-tilo-wenner-para-la-secundaria-18/",
+        "https://eldiariodeescobar.com.ar/article/de-el-eco-de-escobar-a-la-era-digital-ms-de-un-siglo-de-periodismo-local-en-escobar",
+        "https://www.clarin.com/zonales/proponen-homenaje-primer-medio-prensa-masivo-escobar-tulio-wenner-creador_0_MiGQcdgX0r.amp.html"
+      ],
+      "consulted_at": "2026-11-24T08:56:15-03:00",
+      "verification_status": "corroborated",
+      "observations": "La Subsecretaría de Derechos Humanos bonaerense registra a Wenner como víctima del terrorismo de Estado y director responsable de El Actual. La cobertura de la sesión dice que el HCD declaró de interés la imposición de su nombre a la EES 18; no confundir declaración de interés con cambio de denominación ya formalizado. Falta expediente escolar y acto administrativo final."
+    },
+    {
+      "id": "escobar-hcd-dia-educacion-jovenes-adultos",
+      "locality": "Partido de Escobar",
+      "topic": "Día de la Educación de Jóvenes y Adultos",
+      "period": "27/11/2026; instituido según cobertura de la 12.ª sesión ordinaria",
+      "primary_source": null,
+      "secondary_sources": [
+        "https://alternativaenpapel.com.ar/2026/11/14/sesion-del-hcd-de-escobar-reconocimiento-a-enfermeros-fondo-para-entidades-y-nombre-de-tilo-wenner-para-la-secundaria-18/"
+      ],
+      "consulted_at": "2026-11-24T08:56:15-03:00",
+      "verification_status": "corroborated_ordinance_text_pending",
+      "observations": "La cobertura local informa que el HCD instituyó el 27 de noviembre como fecha distrital. Falta localizar número y texto de ordenanza."
+    }
+  ]
+}
