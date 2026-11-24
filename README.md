@@ -50,6 +50,14 @@ La investigación contempla Belén de Escobar, Garín, Ingeniero Maschwitz, Maqu
 - [Gaceta Norte 17: finanzas públicas de Pilar y formación tecnológica en Vicente López](GACETA_NORTE/ejecucion-17-finanzas-pilar-formacion-vicente-lopez-2026-11-24.md)
 - [Registro de fuentes — ejecución 17](FUENTES/registro-2026-11-24-ejecucion-17.md)
 - [Dataset de oportunidades institucionales — 24/11/2026](DATA/oportunidades-institucionales-2026-11-24.json)
+- [Investigación 18: licitaciones, IA hospitalaria, logística y comercio de Escobar](INVESTIGACION/ejecucion-18-licitaciones-logistica-y-comercios-escobar-2026-11-24.md)
+- [Gaceta Norte 18: compras de salud, asistencia alimentaria, industria y transparencia](GACETA_NORTE/ejecucion-18-licitaciones-salud-industria-transparencia-pilar-vicente-lopez-2026-11-24.md)
+- [Prospectos comerciales y de servicios — lote 18](PROSPECTOS/lote-18-comercios-y-servicios-escobar-2026-11-24.md)
+- [Registro de fuentes — ejecución 18](FUENTES/registro-2026-11-24-ejecucion-18.md)
+- [Dataset Escobar: licitaciones 2026](DATA/ESCOBAR/licitaciones-escobar-2026-11-24.json)
+- [Dataset Escobar: prospectos comerciales](DATA/ESCOBAR/prospectos-comerciales-escobar-2026-11-24.json)
+- [Dataset Gaceta Norte: licitaciones y transparencia](DATA/GACETA_NORTE/licitaciones-y-transparencia-pilar-vicente-lopez-2026-11-24.json)
+- [Dataset Gaceta Norte: indicadores industriales de Pilar](DATA/GACETA_NORTE/indicadores-industriales-pilar-2026-11-24.json)
 
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
@@ -71,7 +79,7 @@ La investigación contempla Belén de Escobar, Garín, Ingeniero Maschwitz, Maqu
 Proyecto en fase de diseño, investigación y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes. Los datos comerciales requieren reconfirmación antes de su publicación.
 
 ## Última ejecución
-24/11/2026 — se amplió la investigación de Escobar con la Ronda de Negocios del 24/11 (discrepancia horaria oficial 8:30 vs 11:30), Red Sostenible, proyecto de traslado de Addnice a Garín, proyecto de Presupuesto 2027 y obras en Garín, Maquinista Savio, Ingeniero Maschwitz y Loma Verde. Se registró que las cifras presupuestarias son las anunciadas por el Ejecutivo y no ejecución, y que el estado final de la Fiscal y Tributaria requiere actas y textos normativos. Para Gaceta Norte se localizó documentación financiera de Pilar del tercer trimestre de 2026 y la oferta de la Tecnicatura Universitaria en Programación 2027 de Vicente López. Se agregaron cuatro archivos versionables: dos informes separados por proyecto, un registro de fuentes y un dataset JSON de oportunidades institucionales. No se realizaron contactos, publicaciones, contrataciones ni cambios en sitios públicos.
+24/11/2026 — Escobar: se documentaron siete llamados municipales de 2026 por presupuestos oficiales conjuntos de $5.916.652.460,60, incluidos un segundo llamado para módulos de IA hospitalaria y otro para un sistema LIS. Se registró la inauguración de la primera etapa logística de Mercado Libre en Loma Verde, la dotación inicial comunicada por el Municipio, las proyecciones de empleo y el antecedente de clausura preventiva por un accidente laboral, cuyo resultado judicial y de inspección sigue pendiente. Se incorporaron nuevos candidatos del directorio municipal y se dejó abierta la discrepancia de localización de Sanitarios Lamas. Gaceta Norte: se registraron dos licitaciones de salud de Pilar por $10.361.151.827,76, dos compras alimentarias de Vicente López por $599.979.500, documentación financiera del tercer trimestre de Pilar y una inconsistencia temporal en el tablero fiscal de Vicente López. Se documentaron cifras de CEPIP y discrepancias entre fuentes sobre empleo y cantidad de empresas. Se agregaron ocho archivos versionables en carpetas separadas de Escobar y Gaceta Norte y se actualizó este índice. Los presupuestos son importes oficiales de llamados, no adjudicaciones ni pagos. No se realizaron contactos, publicaciones, contrataciones ni cambios en sitios públicos. La Ronda de Negocios del 24/11 aún no tenía balance posterior al momento de esta consulta.
 
 ## Historial de trabajo
 Los lotes anteriores, borradores periodísticos, identidad, modelo comercial y documentación de investigación permanecen versionados en el repositorio. Consultar el historial de commits para el detalle de cada ejecución.
