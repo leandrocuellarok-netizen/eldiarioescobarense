@@ -55,6 +55,14 @@ La Cámara Empresaria del Parque Industrial de Pilar (CEPIP) publica en su sitio
 
 **Fuente institucional:** https://cepip.org.ar/camara/
 
+### Comunicación industrial: RedCEPIP y SINERGIAS
+
+CEPIP también presenta RedCEPIP como su comunidad empresarial y de trabajo. La entidad declara que edita la publicación digital mensual **SINERGIAS**, con llegada a más de 300 empresas de su base, y administra una Guía de Proveedores Recomendados. Es un canal relevante para mapear agenda empresarial, proveedores, comunicación sectorial y posibles alianzas editoriales.
+
+**Precaución metodológica:** las más de 300 empresas de la base de SINERGIAS no deben confundirse con la cantidad de firmas físicamente radicadas en el Parque Industrial. Es un universo de comunicación declarado por la propia Cámara, no un censo de establecimientos.
+
+Fuente institucional: https://www.cepip.org.ar/RedCEPIP/
+
 ### Discrepancias que deben preservarse
 
 Durante septiembre y octubre, medios locales y gremiales publicaron declaraciones atribuidas a autoridades municipales y empresariales sobre pérdida de aproximadamente 7.000 puestos de trabajo en seis meses y entre 40 y 50 empresas en situación crítica. Los artículos consultados no presentan una serie administrativa pública descargable que permita reproducir el cálculo. Además, las fuentes manejan diferentes universos de empresas: CEPIP habla de más de 200; un medio cita 210–220; otro artículo menciona 300.
