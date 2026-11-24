@@ -1,0 +1,110 @@
+{
+  "project": "Gaceta Norte",
+  "execution": 23,
+  "consulted_at": "2026-11-24T07:05:00-03:00",
+  "scope": "Pilar y Vicente López, Provincia de Buenos Aires",
+  "records": [
+    {
+      "id": "pilar-transparencia-financiera-2026-q3",
+      "municipality": "Pilar",
+      "topic": "Publicación de información económico-financiera",
+      "primary_sources": [
+        "https://pilar.gov.ar/publicaciones/"
+      ],
+      "secondary_sources": [],
+      "observed_values": {
+        "available_documents": [
+          "CAIF 3er trimestre 2026 - base devengado",
+          "CAIF 3er trimestre 2026 - base caja",
+          "Sumas y Saldos 3er trimestre 2026",
+          "Balance de Tesorería 3er trimestre 2026",
+          "Situación Económico-Financiera 1er semestre 2026",
+          "Estado Presupuestario, Financiero y Patrimonial 1er semestre 2026"
+        ]
+      },
+      "verification_status": "confirmed",
+      "period": "2026 Q1-Q3",
+      "observations": "Documentos listados en portal oficial; no descargados ni analizados en esta ejecución. No inferir deuda, recaudación o solvencia."
+    },
+    {
+      "id": "pilar-ronda-negocios-2026-10-22",
+      "municipality": "Pilar",
+      "topic": "Articulación productiva regional",
+      "primary_sources": [
+        "https://www.gba.gob.ar/node/55168"
+      ],
+      "secondary_sources": [],
+      "observed_values": {
+        "registered_companies": 325,
+        "reported_business_meetings": 1500,
+        "event_date": "2026-10-22"
+      },
+      "verification_status": "confirmed",
+      "period": "2026-10-22",
+      "observations": "Cifras informadas por el Ministerio de Producción; entrevistas no equivalen a ventas ni contratos cerrados."
+    },
+    {
+      "id": "vicente-lopez-hospital-houssay-cardiovascular",
+      "municipality": "Vicente López",
+      "topic": "Infraestructura sanitaria especializada",
+      "primary_sources": [
+        "https://www.vicentelopez.gov.ar/gestion/nuevo-instituto-cardiovascular-en-el-hospital-houssay"
+      ],
+      "secondary_sources": [],
+      "observed_values": {
+        "facility": "Hospital Municipal Houssay",
+        "project": "Instituto Cardiovascular",
+        "projected_monthly_surgeries": 150
+      },
+      "verification_status": "confirmed",
+      "period": "2026-11",
+      "observations": "La capacidad de más de 150 intervenciones mensuales es proyección municipal, no actividad efectiva medida."
+    },
+    {
+      "id": "vicente-lopez-caps-barreiro-aguirre",
+      "municipality": "Vicente López",
+      "topic": "Atención primaria de salud",
+      "primary_sources": [
+        "https://www.vicentelopez.gov.ar/gestion/vicente-lopez-renovo-la-caps-barreiro-aguirre"
+      ],
+      "secondary_sources": [],
+      "observed_values": {
+        "facility": "CAPS Barreiro Aguirre",
+        "locality": "Munro",
+        "reported_works": [
+          "consultorios",
+          "sala de espera",
+          "admisión",
+          "sanitarios",
+          "mobiliario",
+          "equipamiento médico e informático"
+        ]
+      },
+      "verification_status": "confirmed",
+      "period": "2026-11-03",
+      "observations": "Confirmado como información municipal; falta verificar capacidad de atención y actividad posterior a la renovación."
+    },
+    {
+      "id": "vicente-lopez-delegacion-munro",
+      "municipality": "Vicente López",
+      "topic": "Descentralización y atención municipal",
+      "primary_sources": [
+        "https://www.vicentelopez.gov.ar/gestion/la-delegacion-munro-renovada"
+      ],
+      "secondary_sources": [],
+      "observed_values": {
+        "locality": "Munro",
+        "reported_date": "2026-11-16",
+        "reported_population_served": 35000,
+        "additions": [
+          "sector de atención",
+          "terminales de autogestión",
+          "área back office"
+        ]
+      },
+      "verification_status": "confirmed",
+      "period": "2026-11-16",
+      "observations": "Población de más de 35.000 es dato informado por el Municipio; no representa cantidad de usuarios efectivos."
+    }
+  ]
+}
