@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Gaceta Norte — licitaciones y transparencia de Pilar y Vicente López",
+  "consulted_at": "2026-11-24T01:56:00-03:00",
+  "editorial_status": "internal_research_not_for_publication",
+  "municipalities": {
+    "Pilar": {
+      "currency": "ARS",
+      "official_budget_total": 10361151827.76,
+      "note": "Suma de dos presupuestos oficiales; no equivale a gasto ejecutado ni adjudicación.",
+      "tenders": [
+        {
+          "id": "pilar-lp-47-2026",
+          "procedure": "Licitación Pública 47/2026",
+          "object": "Servicio integral de imágenes para el Centro Cardiovascular del Hospital Central de Pilar",
+          "official_budget": 1438154484,
+          "publication_date": "2026-11-12",
+          "opening_datetime_local": "2026-12-11T09:00:00-03:00",
+          "pliego_value": 1438154,
+          "decree": "1427/2026",
+          "expediente": "6790/2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14505/ver",
+          "verification_status": "confirmed_call_opening_pending"
+        },
+        {
+          "id": "pilar-lp-48-2026",
+          "procedure": "Licitación Pública 48/2026",
+          "object": "Servicio integral de laboratorio, insumos, consumibles, reactivos y hemoterapia para hospitales municipales y centros de salud, período enero-diciembre 2027",
+          "official_budget": 8922997343.76,
+          "publication_date": "2026-11-12",
+          "opening_datetime_local": "2026-12-11T10:00:00-03:00",
+          "pliego_value": 8922997,
+          "decree": "1428/2026",
+          "expediente": "6796/2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14505/ver",
+          "verification_status": "confirmed_call_opening_pending",
+          "facilities_named_in_notice": [
+            "Hospital Juan C. Sanguinetti",
+            "Hospital Pediátrico Federico Falcón",
+            "Hospital Municipal Presidente Derqui",
+            "Hospital Central de Pilar",
+            "Centros de Salud y Centros de Atención Primaria"
+          ]
+        }
+      ],
+      "financial_publications": [
+        {
+          "id": "pilar-caif-q3-2026-devengado",
+          "title": "CAIF tercer trimestre 2026 — base devengado",
+          "period": "2026-Q3",
+          "source_url": "https://pilar.gov.ar/publicaciones/",
+          "verification_status": "listed_not_analyzed"
+        },
+        {
+          "id": "pilar-caif-q3-2026-caja",
+          "title": "CAIF tercer trimestre 2026 — base caja",
+          "period": "2026-Q3",
+          "source_url": "https://pilar.gov.ar/publicaciones/",
+          "verification_status": "listed_not_analyzed"
+        },
+        {
+          "id": "pilar-sumas-saldos-q3-2026",
+          "title": "Balance de Sumas y Saldos — tercer trimestre 2026",
+          "period": "2026-Q3",
+          "source_url": "https://pilar.gov.ar/publicaciones/",
+          "verification_status": "listed_not_analyzed"
+        },
+        {
+          "id": "pilar-tesoreria-q3-2026",
+          "title": "Balance de Tesorería — tercer trimestre 2026",
+          "period": "2026-Q3",
+          "source_url": "https://pilar.gov.ar/publicaciones/",
+          "verification_status": "listed_not_analyzed"
+        }
+      ]
+    },
+    "Vicente López": {
+      "currency": "ARS",
+      "official_budget_total": 599979500,
+      "note": "Suma de dos presupuestos oficiales de compras alimentarias para diciembre de 2026; no equivale a pagos.",
+      "tenders": [
+        {
+          "id": "vicente-lopez-lp-56-2026",
+          "procedure": "Licitación Pública 56/2026",
+          "object": "Víveres secos para cajas alimentarias de diciembre destinadas a personas en situación de vulnerabilidad",
+          "official_budget": 299992000,
+          "publication_date": "2026-11-04",
+          "opening_datetime_local": "2026-11-17T10:00:00-03:00",
+          "expediente": "EEMVL-4254-2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14490/descargar",
+          "verification_status": "confirmed_call_result_not_located"
+        },
+        {
+          "id": "vicente-lopez-lp-57-2026",
+          "procedure": "Licitación Pública 57/2026",
+          "object": "Víveres secos, carnes, productos avícolas y verduras para comedores municipales durante diciembre de 2026",
+          "official_budget": 299987500,
+          "publication_date": "2026-11-16",
+          "opening_datetime_local": "2026-11-30T10:00:00-03:00",
+          "expediente": "EEMVL-4253-2026",
+          "source_url": "https://boletinoficial.gba.gob.ar/secciones/14512/ver",
+          "verification_status": "confirmed_call_opening_pending"
+        }
+      ],
+      "open_data_snapshot": {
+        "source_url": "https://vicentelopez.opendata.junar.com/home/",
+        "consulted_at": "2026-11-24",
+        "categories": 15,
+        "data_origins": 582,
+        "views": 646,
+        "visualizations": 105,
+        "notes": "La portada muestra, entre otros recursos, Comercios con actualización 23/10/2026 y Atenciones de Pacientes Mujeres Trimestrales en Efectores con actualización 24/10/2026."
+      },
+      "fiscal_dashboard": {
+        "source_url": "https://vicentelopez.opendata.junar.com/dashboards/21681/transparencia-fiscal-municipal/",
+        "latest_update": "2026-10-15",
+        "header_period": "Información de presupuesto y gastos actualizada a agosto de 2026",
+        "indexed_documents_period": "2026-09-30",
+        "verification_status": "temporal_scope_needs_reconciliation",
+        "notes": "El índice de búsqueda muestra documentos del tercer trimestre con fecha de corte 30/09/2026; no asumir que todas las series del tablero tienen el mismo corte."
+      },
+      "official_bulletin": {
+        "source_url": "https://www.vicentelopez.gov.ar/boletin_oficial/",
+        "snapshot_2026": {
+          "bulletins": 25,
+          "documents": 956
+        },
+        "notes": "La página cita Decreto 3943/2024 sobre autenticidad y efectos jurídicos de la publicación digital y ofrece validador blockchain."
+      }
+    }
+  }
+}
