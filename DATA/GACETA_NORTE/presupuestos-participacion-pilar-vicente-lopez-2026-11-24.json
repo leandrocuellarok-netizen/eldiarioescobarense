@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "dataset": "Gaceta Norte — presupuestos 2027 y participación ciudadana de Pilar y Vicente López",
+  "consulted_at": "2026-11-24T08:56:15-03:00",
+  "editorial_status": "internal_research_not_for_publication",
+  "municipalities": {
+    "Pilar": {
+      "records": [
+        {
+          "id": "pilar-ord-152-2026-budget-2027",
+          "locality": "Partido de Pilar",
+          "topic": "Presupuesto General 2027",
+          "period": "Ejercicio 2027; Ordenanza 152/26; promulgación Decreto 1319/26 del 26/10/2026",
+          "official_budget_ars": 654193389440,
+          "primary_source": "https://sibom.slyt.gba.gob.ar/bulletins/16045/contents/2465538",
+          "primary_annex": "https://sibom.slyt.gba.gob.ar/bulletins/16045/contents/2465538/download_annex?annex_id=70355",
+          "secondary_sources": [
+            "https://www.pilaradiario.com/politica/se-aprobo-el-presupuesto-2027mas-654-mil-millones-coneje-lo-social-y-los-servicios-n5473045",
+            "https://tvpublicapilar.com.ar/achaval-afrontara-su-ultimo-ano-de-mandato-con-un-presupuesto-de-654-mil-millones/"
+          ],
+          "consulted_at": "2026-11-24T08:56:15-03:00",
+          "verification_status": "confirmed_promulgated_total; allocations_pending_annex_review",
+          "observations": "SIBOM confirma Decreto 1319/26, promulgación de Ordenanza 152/26 y monto total. Los porcentajes por secretaría y la composición de recursos propios/provinciales se tomaron de prensa local y deben cotejarse con Anexos I y II antes de publicación."
+        }
+      ]
+    },
+    "Vicente López": {
+      "records": [
+        {
+          "id": "vicente-lopez-fiscal-impositiva-2027-preparatory",
+          "locality": "Partido de Vicente López",
+          "topic": "Ordenanzas Fiscal e Impositiva 2027",
+          "period": "Sesión preparatoria informada el 17/11/2026; publicación 19/11/2026",
+          "vote": {
+            "affirmative": 17,
+            "negative": 7
+          },
+          "primary_source": null,
+          "secondary_sources": [
+            "https://elconurbano.com.ar/sesion-preparatoria-el-concejo-deliberante-de-vicente-lopez-aprobo-las-ordenanzas-fiscal-e-impositiva-para-el-2027/84488/",
+            "https://alternativaenpapel.com.ar/2026/11/17/el-hcd-de-vicente-lopez-aprobo-las-ordenanzas-fiscal-e-impositiva-hubo-cuestionamientos-de-la-oposicion-por-el-esquema-tributario-de-2027/"
+          ],
+          "consulted_at": "2026-11-24T08:56:15-03:00",
+          "verification_status": "corroborated_preliminary_approval_final_sanction_pending",
+          "observations": "La prensa informa aprobación en sesión preparatoria por 17 a 7 y posterior notificación a mayores contribuyentes antes de sanción definitiva. El índice corrector 1,2 y las exenciones descriptas son declaraciones de debate; no presentar como régimen vigente hasta obtener ordenanzas promulgadas y anexos."
+        },
+        {
+          "id": "vicente-lopez-presupuesto-participativo-2027",
+          "locality": "Carapachay, Florida Este, Florida Oeste, La Lucila, Munro, Olivos, Vicente López, Villa Adelina y Villa Martelli",
+          "topic": "Presupuesto Participativo: proyectos ganadores para ejecución 2027",
+          "period": "Votación del 01/10/2026 al 31/10/2026; resultados publicados en portal oficial",
+          "winning_projects": 67,
+          "localities": 9,
+          "program_since": 2012,
+          "primary_sources": [
+            "https://presupuestoparticipativo.vicentelopez.gov.ar/",
+            "https://presupuestoparticipativo.vicentelopez.gov.ar/acerca-de"
+          ],
+          "secondary_sources": [],
+          "consulted_at": "2026-11-24T08:56:15-03:00",
+          "verification_status": "confirmed_official_portal",
+          "observations": "El portal municipal informa 67 proyectos ganadores para 2027 y nueve localidades. Usar resultados agregados y estado de ejecución de proyectos; no recopilar ni reproducir datos personales de votantes. No se estimó el costo total agregado."
+        }
+      ]
+    }
+  }
+}
