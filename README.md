@@ -119,3 +119,16 @@ La investigación se mantiene separada por territorio (Escobar / Gaceta Norte), 
 Escobar: se documentó la Ordenanza 6515 y la diferencia entre 245 y 246 barrios en publicaciones locales y municipales; se incorporaron testimonios institucionales sobre Phillips, La Victoria, Dacunto y Matheu; se registró el reclamo por las denominaciones Barrio Parque El Cazador y Tabares/Los Pájaros; se abrió una ficha de seguimiento del proyecto BESS Maschwitz con discrepancias sobre capacidad (160/200 MWh), fechas y jurisdicción de la participación pública ambiental; y se explicitó el seguimiento de las LP 71, 72 y 75, ya contenidas en el dataset de diez llamados por $7.285.205.420,60. Gaceta Norte: se agregó una comparación preliminar de víctimas de homicidio doloso 2025 para Escobar, Pilar y Vicente López, pendiente de validación contra la descarga original del SNIC. Los documentos distinguen anuncios, testimonios, fuentes secundarias y hechos pendientes de corroboración.
 
 La identidad y la separación de marcas siguen sin modificarse. Este repositorio continúa siendo el proyecto de Escobar con un dossier regional en carpeta GACETA_NORTE; no se creó un segundo repositorio ni se desplegó una web regional.
+
+
+## Actualización 24/11/2026 — ejecución 22
+- [Investigación 22: cultura, agenda, mercados y medios de Escobar](INVESTIGACION/ejecucion-22-cultura-agenda-mercados-y-medios-escobar-2026-11-24.md)
+- [Gaceta Norte 22: cultura, emprendimiento y medios de Pilar y Vicente López](GACETA_NORTE/ejecucion-22-cultura-emprendimiento-y-medios-pilar-vicente-lopez-2026-11-24.md)
+- [Oportunidades editoriales y comerciales — lote 22](PROSPECTOS/lote-22-oportunidades-culturales-comerciales-escobar-y-gaceta-norte-2026-11-24.md)
+- [Dataset Escobar: cultura, agenda y medios](DATA/ESCOBAR/ecosistema-cultural-agenda-medios-2026-11-24.json)
+- [Dataset Gaceta Norte: cultura, emprendimiento y medios](DATA/GACETA_NORTE/cultura-emprendimiento-medios-pilar-vicente-lopez-2026-11-24.json)
+- [Registro de fuentes — ejecución 22](FUENTES/registro-2026-11-24-ejecucion-22.md)
+
+Escobar: se documentó el RUAL (35 registros publicados: 23 música, 7 danza, 2 DJ y 3 espectáculos infantiles), la cartelera del Teatro Seminari/Cine Italia, el estado desactualizado de la agenda municipal, el perfil público de La Kalimba, cinco nodos municipales de ferias y mercados y una muestra reciente de Radio Cromo y Generación E. Se registró una discrepancia horaria de la Ronda de Negocios del 24/11 entre dos páginas oficiales (8:30 y 11:30); no se atribuyó resultado porque aún no había balance verificable al momento de consulta.
+Gaceta Norte: Pilar, se documentaron la XIII Semana del Emprendedor (16–22/11), sus media partners, la ronda multisectorial con 325 empresas inscriptas y más de 1.500 entrevistas informadas por Provincia, y cuatro espacios culturales. Vicente López: se incorporaron la reseña histórica municipal, la Biblioteca Municipal y la página de Prensa institucional.
+Los datasets distinguen información institucional confirmada, autodescripciones, observaciones pendientes y agenda dinámica. Los directorios no se consideran censos completos. No hubo contactos, mensajes, publicaciones, contrataciones ni modificaciones de sitios públicos.
