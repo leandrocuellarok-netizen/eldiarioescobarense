@@ -1,0 +1,216 @@
+{
+  "project": "La Gaceta de Escobar",
+  "execution": 24,
+  "consulted_at": "2026-11-24T08:05:00-03:00",
+  "scope": "Partido de Escobar, Buenos Aires, Argentina",
+  "records": [
+    {
+      "id": "escobar-obras-garin-maschwitz-savio-lomaverde-2026-11",
+      "municipality": "Escobar",
+      "localities": [
+        "Garín",
+        "Ingeniero Maschwitz",
+        "Maquinista Savio",
+        "Loma Verde"
+      ],
+      "topic": "Obras e infraestructura",
+      "primary_sources": [
+        "https://www.escobar.gob.ar/noticias/sujarchuk-y-katopodis-visitaron-importantes-obras-de-infraestructura-e/"
+      ],
+      "secondary_sources": [],
+      "consulted_at": "2026-11-24",
+      "period": "Anuncios y recorrida del 2026-11-16",
+      "observed_values": {
+        "garin_salta_status": "municipio informa obra próxima a finalizar",
+        "maschwitz_el_dorado_blocks": 23,
+        "maschwitz_el_dorado_length_m": 2300,
+        "maschwitz_el_dorado_reported_investment_ars": 7000000000,
+        "maquinista_savio_feria_familia_reported_total_investment_ars": 4500000000,
+        "maquinista_savio_feria_familia_new_stalls": 346,
+        "maquinista_savio_families_reported": 700,
+        "loma_verde_ecosan_employees_reported": 180
+      },
+      "verification_status": "confirmed",
+      "observations": "Cifras y estado informados por el Municipio. Presupuesto, ejecución, certificaciones, contratistas y pagos pendientes; montos no equivalen a gasto ejecutado."
+    },
+    {
+      "id": "escobar-presupuesto-2027-proyecto",
+      "municipality": "Escobar",
+      "localities": [
+        "Todo el partido"
+      ],
+      "topic": "Presupuesto y ordenanza fiscal 2027",
+      "primary_sources": [
+        "https://www.escobar.gob.ar/noticias/presupuesto-2027-con-la-supresion-de-otros-52-tributos-ariel-sujarchuk/"
+      ],
+      "secondary_sources": [
+        "https://www.smnoticias.com/noticias/289910",
+        "https://www.zonanortediario.com.ar/02/11/2026/presupuesto-2027-sujarchuk-propone-eliminar-otras-52-tasas-en-escobar-y-destinar-mas-de-280-000-millones-a-obras-salud-y-seguridad/"
+      ],
+      "consulted_at": "2026-11-24",
+      "period": "Proyecto de presupuesto ejercicio 2027 presentado el 2026-11-02",
+      "observed_values": {
+        "total_budget_ars": 410000000000,
+        "infrastructure_ars": 126915000000,
+        "health_ars": 105617000000,
+        "security_ars": 49487000000,
+        "education_ars": 13879000000,
+        "social_development_ars": 8541000000,
+        "participatory_budget_ars": 4200000000,
+        "own_revenue_share_percent": 64.8,
+        "provincial_funds_share_percent": 35.2,
+        "proposed_additional_tax_eliminations": 52,
+        "executive_claim_total_eliminated_taxes": 230
+      },
+      "verification_status": "confirmed",
+      "observations": "Confirmado como proyecto y datos comunicados por el Ejecutivo; aprobación del HCD, texto definitivo, anexos y ejecución pendientes. No presentar beneficios propuestos como vigentes."
+    },
+    {
+      "id": "escobar-seguridad-indicadores-municipales-2026",
+      "municipality": "Escobar",
+      "localities": [
+        "Todo el partido"
+      ],
+      "topic": "Indicadores institucionales de seguridad",
+      "primary_sources": [
+        "https://www.escobar.gob.ar/municipio/seguridad/"
+      ],
+      "secondary_sources": [],
+      "consulted_at": "2026-11-24",
+      "period": "Cifras acumuladas con cortes no especificados en la página; Policía Municipal desde 2025-03-14",
+      "observed_values": {
+        "cameras": 2100,
+        "fiber_optic_km": 426,
+        "police_mobile_units": 182,
+        "ojos_oidos_connected_people": 58000,
+        "neighborhood_alarms": 1452,
+        "safe_stops": 86,
+        "municipal_police_actions": 107396,
+        "reported_average_response_minutes": 6,
+        "reported_response_time_reduction_percent": 40,
+        "traffic_control_operations": 1570,
+        "division_eva_interventions": 4487,
+        "raids": 297
+      },
+      "verification_status": "confirmed",
+      "observations": "Datos publicados por el Municipio. Fecha de corte y metodología incompletas. Actuaciones no equivalen a delitos; no inferir incidencia por barrio ni publicar rankings territoriales."
+    },
+    {
+      "id": "escobar-ordenanza-6515-barrios",
+      "municipality": "Escobar",
+      "localities": [
+        "Todo el partido"
+      ],
+      "topic": "Reconocimiento oficial de barrios",
+      "primary_sources": [
+        "https://www.escobar.gob.ar/noticias/identidad-memoria-y-futuro-con-la-firma-de-una-ordenanza-historica-esc/"
+      ],
+      "secondary_sources": [],
+      "consulted_at": "2026-11-24",
+      "period": "Promulgación informada 2026-09-25",
+      "observed_values": {
+        "ordinance": 6515,
+        "recognized_neighborhoods": 246,
+        "territorial_meetings": 21,
+        "participating_neighbors_and_institutions_reported": 1000,
+        "localities_reported": 7
+      },
+      "verification_status": "confirmed",
+      "observations": "Confirmado como publicación municipal; texto íntegro, anexos cartográficos y nomenclador pendientes. Distinguir localidad, barrio y zona operativa."
+    },
+    {
+      "id": "escobar-mercados-y-ferias",
+      "municipality": "Escobar",
+      "localities": [
+        "Belén de Escobar",
+        "Ingeniero Maschwitz"
+      ],
+      "topic": "Mercados, ferias y economía de cercanía",
+      "primary_sources": [
+        "https://www.escobar.gob.ar/municipio/ferias/"
+      ],
+      "secondary_sources": [],
+      "consulted_at": "2026-11-24",
+      "period": "Horarios publicados al 2026-11-24",
+      "observed_values": {
+        "spaces": [
+          {
+            "name": "Mercado Bonaerense",
+            "locality": "Belén de Escobar",
+            "address": "Mitre 791, Sociedad Cosmopolita",
+            "hours": "lunes a viernes 09:00-18:00"
+          },
+          {
+            "name": "Mercado del Paraná",
+            "locality": "Belén de Escobar",
+            "address": "Ruta 25 y Camino de los Pescadores",
+            "hours": "sábados, domingos y feriados 11:00-19:00"
+          },
+          {
+            "name": "Paseo de Emprendedoras y Emprendedores",
+            "locality": "Belén de Escobar",
+            "address": "Tapia de Cruz y Colón",
+            "hours": "todos los días 10:00-17:00"
+          },
+          {
+            "name": "Despensa Agroecológica",
+            "locality": "Ingeniero Maschwitz",
+            "address": "Av. El Dorado 2185",
+            "hours": "miércoles y sábados 09:00-18:00; jueves y viernes 09:00-14:00"
+          },
+          {
+            "name": "Mercado Circular",
+            "locality": "Ingeniero Maschwitz",
+            "address": "Mendoza y Entre Ríos",
+            "hours": "viernes 17:00-23:00; sábados 09:00-15:00; domingos 09:00-18:00"
+          }
+        ]
+      },
+      "verification_status": "confirmed",
+      "observations": "Horarios y operación son dinámicos; revisar antes de publicar. No constituye censo de comercios."
+    },
+    {
+      "id": "escobar-ronda-negocios-2026-11-24-horario",
+      "municipality": "Escobar",
+      "locality": "Ingeniero Maschwitz",
+      "topic": "Ronda de Negocios multisectorial",
+      "primary_sources": [
+        "https://gba.gob.ar/produccion/ronda_de_negocios",
+        "https://rondadenegocios.mp.gba.gob.ar/"
+      ],
+      "secondary_sources": [
+        "https://norteonline.com.ar/escobar-ronda-negocios-multisectorial-inscripcion/"
+      ],
+      "consulted_at": "2026-11-24T08:05:00-03:00",
+      "period": "Evento anunciado para 2026-11-24",
+      "observed_values": {
+        "venue": "Espacio Mendoza, Mendoza esquina Av. Independencia",
+        "ministry_page_time": "08:30",
+        "registration_platform_time": "11:30"
+      },
+      "verification_status": "pending",
+      "observations": "Fecha y sede coinciden; dos canales oficiales muestran horarios distintos. No publicar un horario definitivo ni resultados sin actualización verificable."
+    },
+    {
+      "id": "escobar-licitacion-74-2026-polideportivo-maschwitz",
+      "municipality": "Escobar",
+      "locality": "Ingeniero Maschwitz",
+      "topic": "Contratación pública de obra deportiva",
+      "primary_sources": [
+        "https://boletinoficial.gba.gob.ar/secciones/14514/descargar"
+      ],
+      "secondary_sources": [],
+      "consulted_at": "2026-11-24",
+      "period": "Boletín Oficial provincial del 2026-11-17; apertura prevista 2026-12-04",
+      "observed_values": {
+        "procedure": "Licitación Pública 74/2026",
+        "object": "Cancha de fútbol y pista de atletismo del Polideportivo Ingeniero Maschwitz",
+        "official_budget_ars": 793000000,
+        "opening_date": "2026-12-04",
+        "opening_time": "10:00"
+      },
+      "verification_status": "confirmed",
+      "observations": "Llamado y presupuesto publicados oficialmente. No es adjudicación ni pago; seguir apertura, ofertas, adjudicación y contrato."
+    }
+  ]
+}
