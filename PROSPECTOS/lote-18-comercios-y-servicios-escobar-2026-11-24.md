@@ -10,7 +10,7 @@ El directorio municipal informa 219 comercios, 13 rubros y seis filtros de local
 
 Fuente: https://www.escobar.gob.ar/municipio/comercios-locales/
 
-## Nuevos candidatos identificados
+## Candidatos adicionales identificados (18)
 
 ### Belén de Escobar
 - El Punto del Sabor — alimentos, pastas, viandas y almacén; Colectora Oeste 940.
@@ -39,8 +39,13 @@ Fuente: https://www.escobar.gob.ar/municipio/comercios-locales/
 - Aloha — indumentaria; Boulevard 5 de Junio 934.
 
 ### Matheu
-- Tina Estudio Gráfico — diseño e impresión; Córdoba 352.
-- Cen Cop — librería; Av. Nazarre 126.
+
+## Duplicados excluidos
+
+- Tina Estudio Gráfico — ya figura en el lote 13.
+- Cen Cop — ya figura en el lote 13.
+
+La deduplicación de esta tanda se contrastó con el dataset inicial y el lote 13. Queda pendiente revisar de forma automática todos los lotes históricos antes de consolidar un directorio maestro; por eso los 18 registros son candidatos adicionales identificados, no una garantía de unicidad absoluta.
 
 ### Loma Verde
 No se agregaron nuevos registros en esta tanda. Se mantienen los prospectos previos del directorio municipal y los nodos industriales ya documentados. La ausencia de nuevas altas no implica falta de actividad comercial.
