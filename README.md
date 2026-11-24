@@ -83,3 +83,13 @@ Proyecto en fase de diseño, investigación y prospección. Los documentos son b
 
 ## Historial de trabajo
 Los lotes anteriores, borradores periodísticos, identidad, modelo comercial y documentación de investigación permanecen versionados en el repositorio. Consultar el historial de commits para el detalle de cada ejecución.
+
+
+## Actualización 24/11/2026 — ejecución 19
+- [Investigación 19: licitaciones y agenda productiva de Escobar](INVESTIGACION/ejecucion-19-licitaciones-y-agenda-productiva-escobar-2026-11-24.md)
+- [Gaceta Norte 19: rondas pyme en Pilar y Escobar](GACETA_NORTE/ejecucion-19-rondas-pymes-pilar-escobar-2026-11-24.md)
+- [Registro de fuentes — ejecución 19](FUENTES/registro-2026-11-24-ejecucion-19.md)
+- [Dataset Escobar: Ronda de Negocios 24/11](DATA/ESCOBAR/ronda-negocios-escobar-2026-11-24.json)
+- [Dataset Gaceta Norte: rondas multisectoriales Pilar–Escobar](DATA/GACETA_NORTE/rondas-pymes-pilar-escobar-2026-11-24.json)
+
+La muestra de licitaciones municipales identificadas pasó de siete a diez llamados y suma $7.285.205.420,60 en presupuestos oficiales. Se incorporaron las LP 67, 68 y 74/2026. La suma no equivale a adjudicaciones ni pagos y la muestra no se considera exhaustiva. La Ronda de Escobar conserva una discrepancia horaria entre dos páginas oficiales (8:30 y 11:30).
