@@ -48,3 +48,12 @@ Para el entramado productivo local, el encuentro también plantea una oportunida
 
 ## Condición de publicación
 Borrador interno. No publicar sin confirmar horario, inscripción vigente y datos de la organización. No contactar participantes ni enviar mensajes en nombre del medio sin autorización expresa.
+
+
+## Revalidación del 24/11/2026 — horario todavía contradictorio
+
+A las 02:56 del 24/11 se volvieron a consultar las dos páginas oficiales:
+- La página informativa del Ministerio de Producción mantiene **8:30 hs**: https://gba.gob.ar/produccion/ronda_de_negocios
+- El portal provincial de inscripción muestra **11:30 hs**: https://rondadenegocios.mp.gba.gob.ar/
+
+La discrepancia sigue abierta. Para la ficha interna, conservar ambas referencias y no presentar un horario único como definitivamente confirmado. La página informativa general del Ministerio es la fuente institucional de agenda; el portal de inscripción es la fuente operativa del evento. No se contactó a la organización para resolverla.
