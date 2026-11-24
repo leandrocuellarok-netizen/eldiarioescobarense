@@ -93,3 +93,17 @@ Los lotes anteriores, borradores periodísticos, identidad, modelo comercial y d
 - [Dataset Gaceta Norte: rondas multisectoriales Pilar–Escobar](DATA/GACETA_NORTE/rondas-pymes-pilar-escobar-2026-11-24.json)
 
 La muestra de licitaciones municipales identificadas pasó de siete a diez llamados y suma $7.285.205.420,60 en presupuestos oficiales. Se incorporaron las LP 67, 68 y 74/2026. La suma no equivale a adjudicaciones ni pagos y la muestra no se considera exhaustiva. La Ronda de Escobar conserva una discrepancia horaria entre dos páginas oficiales (8:30 y 11:30).
+
+
+## Actualización 24/11/2026 — ejecución 20
+- [Investigación 20: obras y contrataciones de Escobar](INVESTIGACION/ejecucion-20-obras-y-contrataciones-escobar-2026-11-24.md)
+- [Gaceta Norte 20: licitaciones de Pilar y Vicente López](GACETA_NORTE/ejecucion-20-licitaciones-salud-y-servicios-pilar-vicente-lopez-2026-11-24.md)
+- [Registro de fuentes — ejecución 20](FUENTES/registro-2026-11-24-ejecucion-20.md)
+- [Dataset Escobar: obras e infraestructura](DATA/ESCOBAR/obras-y-desarrollos-escobar-2026-11-24.json)
+- [Dataset Escobar: licitaciones 2026, trazabilidad corregida](DATA/ESCOBAR/licitaciones-escobar-2026-11-24.json)
+- [Dataset Gaceta Norte: licitaciones y transparencia](DATA/GACETA_NORTE/licitaciones-y-transparencia-pilar-vicente-lopez-2026-11-24.json)
+
+Escobar: se documentaron cuatro intervenciones comunicadas por el Municipio en Garín, Ingeniero Maschwitz, Maquinista Savio y Loma Verde. Se corrigió la referencia primaria de las LP 66 y 69 al Boletín Oficial del 13/11. Gaceta Norte: Pilar pasó a 12 llamados identificados y $46.279.409.563,34 en presupuestos oficiales; Vicente López pasó a 15 llamados y $9.524.170.262,71. Son muestras documentales, no universos completos ni gasto ejecutado.
+
+## Identidad editorial y despliegue — decisión pendiente
+La investigación se mantiene separada por territorio (Escobar / Gaceta Norte), pero la denominación final de las webs está en evaluación dentro de la arquitectura de Comunicadores Libres (posibles ediciones CL Escobar, CL Conurbano, CL Provincia de Buenos Aires y CL CABA). No se renombró el proyecto, no se creó otro repositorio y no se desplegó ni modificó ninguna web. Mantener las carpetas de investigación neutrales hasta una decisión editorial y de marca.
