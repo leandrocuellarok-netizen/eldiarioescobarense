@@ -50,5 +50,16 @@
     "Identificar universo de establecimientos y fecha de corte de cada cifra.",
     "Contrastar datos municipales, CEPIP, SIPA y estadísticas provinciales.",
     "No presentar una cifra de empleo perdido como dato auditado sin base y metodología."
+  ],
+  "communication_channels": [
+    {
+      "source_name": "RedCEPIP / SINERGIAS",
+      "source_url": "https://www.cepip.org.ar/RedCEPIP/",
+      "status": "institutional_self_description",
+      "publication": "SINERGIAS",
+      "frequency": "monthly",
+      "reported_audience": "más de 300 empresas de la base de CEPIP",
+      "notes": "Es un universo de distribución/comunicación declarado por CEPIP; no debe confundirse con la cantidad de empresas radicadas físicamente en el Parque Industrial."
+    }
   ]
 }
