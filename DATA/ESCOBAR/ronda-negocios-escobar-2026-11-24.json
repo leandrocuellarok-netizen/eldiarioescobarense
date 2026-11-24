@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "dataset": "La Gaceta de Escobar — agenda productiva",
+  "municipality": "Escobar",
+  "consulted_at": "2026-11-24T02:56:00-03:00",
+  "editorial_status": "internal_research_not_for_publication",
+  "records": [
+    {
+      "id": "escobar-ronda-negocios-2026-11-24",
+      "event": "Ronda de Negocios Escobar 2026",
+      "locality": "Ingeniero Maschwitz",
+      "venue": "Espacio Mendoza, Mendoza esquina avenida Independencia",
+      "event_date": "2026-11-24",
+      "participation_cost": "sin costo según el Ministerio de Producción PBA",
+      "schedule_candidates": [
+        {
+          "time": "08:30",
+          "source_url": "https://gba.gob.ar/produccion/ronda_de_negocios",
+          "source_type": "página informativa del Ministerio de Producción PBA"
+        },
+        {
+          "time": "11:30",
+          "source_url": "https://rondadenegocios.mp.gba.gob.ar/",
+          "source_type": "portal provincial de inscripción"
+        }
+      ],
+      "primary_sources": [
+        "https://gba.gob.ar/produccion/ronda_de_negocios",
+        "https://rondadenegocios.mp.gba.gob.ar/"
+      ],
+      "secondary_sources": [
+        "https://escobaradiario.com.ar/gestion-publica/ultimos-cupos-para-la-inscripcion-a-la-ronda-de-negocios-multisectorial-de-escobar/",
+        "https://norteonline.com.ar/escobar-ronda-negocios-multisectorial-inscripcion/"
+      ],
+      "verification_status": "confirmed_event_details_schedule_conflict",
+      "notes": "Fecha, sede y gratuidad verificadas. Las dos fuentes oficiales discrepan sobre el horario. No contactar organización ni publicar hora única sin nueva evidencia."
+    }
+  ]
+}
