@@ -1,0 +1,261 @@
+{
+  "schema_version": "1.0",
+  "dataset": "La Gaceta de Escobar — nuevos candidatos comerciales del directorio municipal",
+  "consulted_at": "2026-11-24T01:56:00-03:00",
+  "source_name": "Directorio de Comercios Locales — Municipalidad de Escobar",
+  "source_url": "https://www.escobar.gob.ar/municipio/comercios-locales/",
+  "directory_snapshot": {
+    "listed_commerces": 219,
+    "categories": 13,
+    "locality_filters": [
+      "Belén de Escobar",
+      "Garín",
+      "Ingeniero Maschwitz",
+      "Maquinista Savio",
+      "Matheu",
+      "Loma Verde"
+    ]
+  },
+  "editorial_status": "internal_prospects_not_for_publication",
+  "records": [
+    {
+      "id": "belen-el-punto-del-sabor",
+      "name": "El Punto del Sabor",
+      "locality": "Belén de Escobar",
+      "category": "Pastas, viandas y almacén",
+      "address": "Colectora Oeste 940",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "belen-helados-daniel",
+      "name": "Helados Daniel",
+      "locality": "Belén de Escobar",
+      "category": "Heladería",
+      "address": "Av. 25 de Mayo 1021",
+      "website": "https://heladosdaniel.com",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "belen-beverly-hills",
+      "name": "Beverly Hills",
+      "locality": "Belén de Escobar",
+      "category": "Gastronomía",
+      "address": "Av. Tapia de Cruz 805",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "belen-sugar-love",
+      "name": "Sugar Love",
+      "locality": "Belén de Escobar",
+      "category": "Pastelería y desayunos",
+      "address": "César Díaz 1118",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "belen-licores-lp",
+      "name": "Licores LP",
+      "locality": "Belén de Escobar",
+      "category": "Licores artesanales",
+      "address": "Libertad 871",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "belen-racs",
+      "name": "RACS Computadoras y Servicios",
+      "locality": "Belén de Escobar",
+      "category": "Computación y servicios",
+      "address": "Tapia de Cruz 1183",
+      "website": "https://racs.com.ar",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "belen-centro-tecnologico",
+      "name": "Centro Tecnológico Escobar",
+      "locality": "Belén de Escobar",
+      "category": "Electrónica, herramientas e informática",
+      "address": "Spadaccini 1030",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "belen-rosas-tintas",
+      "name": "Rosas Tintas",
+      "locality": "Belén de Escobar",
+      "category": "Vinoteca",
+      "address": "Spadaccini 1195",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "garin-todahla-el",
+      "name": "Todah'la El",
+      "locality": "Garín",
+      "category": "Conservas y mermeladas",
+      "address": "Falco 1768",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "garin-colores-infinitos",
+      "name": "Colores Infinitos",
+      "locality": "Garín",
+      "category": "Sublimados",
+      "address": "General Paz 694",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "garin-fibrofacil-pino",
+      "name": "Fibrofácil y Pino Garín",
+      "locality": "Garín",
+      "category": "Muebles infantiles",
+      "address": "Piedrabuena 1583",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "maschwitz-mi-picada",
+      "name": "Mi Picada",
+      "locality": "Ingeniero Maschwitz",
+      "category": "Gastronomía",
+      "address": "QUO Container Center, Mendoza 1667, local 3",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "maschwitz-panaderia-ingeniero",
+      "name": "La Panadería del Ingeniero",
+      "locality": "Ingeniero Maschwitz",
+      "category": "Panadería",
+      "address": "Colectora Este 2253",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "maschwitz-fifi",
+      "name": "Fifi",
+      "locality": "Ingeniero Maschwitz",
+      "category": "Aromas y decoración",
+      "address": "Colectora Oeste km 41,5",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "maschwitz-sauber",
+      "name": "Sauber",
+      "locality": "Ingeniero Maschwitz",
+      "category": "Productos de limpieza",
+      "address": "Garibaldi 1636",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "maschwitz-muluk",
+      "name": "Muluk",
+      "locality": "Ingeniero Maschwitz",
+      "category": "Productos textiles para gestión menstrual y cuidado personal",
+      "address": "Espora 161",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "savio-dkn",
+      "name": "Vidriería y Cerramientos de Aluminio DKN",
+      "locality": "Maquinista Savio",
+      "category": "Vidriería y cerramientos",
+      "address": "Juan XXIII 1053",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "savio-aloha",
+      "name": "Aloha",
+      "locality": "Maquinista Savio",
+      "category": "Indumentaria",
+      "address": "Boulevard 5 de Junio 934",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "matheu-tina-estudio-grafico",
+      "name": "Tina Estudio Gráfico",
+      "locality": "Matheu",
+      "category": "Diseño e impresión",
+      "address": "Córdoba 352",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    },
+    {
+      "id": "matheu-cen-cop",
+      "name": "Cen Cop",
+      "locality": "Matheu",
+      "category": "Librería",
+      "address": "Av. Nazarre 126",
+      "source_status": "listed_by_municipality",
+      "verification_status": "activity_and_contact_pending",
+      "commercial_status": "candidate_only_not_contacted"
+    }
+  ],
+  "discrepancies": [
+    {
+      "id": "sanitarios-lamas-location-conflict",
+      "entity": "Sanitarios Lamas",
+      "official_directory_entry": "Ugarte 2470, Garín",
+      "official_directory_url": "https://www.escobar.gob.ar/municipio/comercios-locales/",
+      "internal_project_note": "En antecedentes del proyecto se indicó que el comercio estaría en Olivos.",
+      "status": "unresolved_do_not_use_as_sales_lead",
+      "action": "No contactar ni incluir en una propuesta hasta resolver con evidencia independiente."
+    }
+  ],
+  "industrial_nodes": [
+    {
+      "id": "plaza-industrial-escobar",
+      "name": "Plaza Industrial Escobar",
+      "locality": "Loma Verde / corredor Escobar",
+      "category": "Parque industrial privado",
+      "source_url": "https://plazaindustrial.com.ar/",
+      "source_status": "company_self_description",
+      "notes": "El sitio declara 106 hectáreas y acceso desde Panamericana km 57,5; no equivale a un padrón oficial de empresas radicadas."
+    },
+    {
+      "id": "bsm-transportes",
+      "name": "BSM Transportes S.A.",
+      "locality": "Loma Verde",
+      "category": "Transporte y manejo de stock de vehículos",
+      "source_url": "https://bsmtransportes.com.ar/mail.html",
+      "source_status": "company_self_description",
+      "notes": "La web publica instalación en Colectora Este, km 57 y 1/2."
+    }
+  ],
+  "rules": [
+    "No inferir capacidad de pago ni interés publicitario.",
+    "No contactar a los candidatos sin autorización expresa.",
+    "Verificar actividad y canales institucionales antes de cualquier uso público.",
+    "Distinguir publicidad de cobertura periodística."
+  ]
+}
