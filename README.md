@@ -43,6 +43,9 @@ La investigación contempla Belén de Escobar, Garín, Ingeniero Maschwitz, Maqu
 - [Gaceta Norte 15: empleo, cultura y medios regionales](GACETA_NORTE/ejecucion-15-observatorio-regional-empleo-cultura-y-medios-2026-11-23.md)
 - [Oportunidades editoriales y económicas — lote 15](PROSPECTOS/lote-15-oportunidades-editoriales-economicas-loma-verde-y-escobar-2026-11-23.md)
 - [Registro de fuentes — ejecución 15](FUENTES/registro-2026-11-23-ejecucion-15.md)
+- [Investigación 16: nomenclatura vial, ronda empresarial y metodología de seguridad](INVESTIGACION/ejecucion-16-nomenclatura-ronda-y-seguridad-escobar-2026-11-23.md)
+- [Gaceta Norte 16: ecosistema emprendedor de Pilar y matriz regional](GACETA_NORTE/ejecucion-16-ecosistema-emprendedor-pilar-y-matriz-regional-2026-11-23.md)
+- [Registro de fuentes — ejecución 16](FUENTES/registro-2026-11-23-ejecucion-16.md)
 
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
@@ -64,7 +67,7 @@ La investigación contempla Belén de Escobar, Garín, Ingeniero Maschwitz, Maqu
 Proyecto en fase de diseño, investigación y prospección. Los documentos son borradores internos; no equivalen a una web publicada ni a acuerdos comerciales vigentes. Los datos comerciales requieren reconfirmación antes de su publicación.
 
 ## Última ejecución
-23/11/2026 — se incorporaron fuentes municipales del programa Escobar y sus Barrios y la comunicación de la Ordenanza 6515; se documentaron memorias vecinales sobre Phillips, La Victoria y Dacunto con estado de testimonio o pendiente de contraste. Se sumó la revista institucional Escobar Norte (edición 143, noviembre 2026) como fuente local para la historia de la Cooperativa, electrificación, cultura, transformación rural de Loma Verde, Grupo MC/Sherwin-Williams, proyecto de CAPS y representación legislativa. Se registraron avances municipales de pavimentación, Feria de la Familia y Ecosan; se mantuvo la distinción entre anuncios y resultados ejecutados. Para seguridad se identificó el dataset SNIC y se dejó como pendiente de reproducción una cifra municipal difundida por un tablero de terceros. En Gaceta Norte se añadieron datos de empleo industrial de Pilar, empleo registrado de Vicente López y agendas culturales de ambos municipios, todos con sus límites metodológicos.
+23/11/2026 — se documentó el proceso de ordenamiento de calles de Loma Verde Oeste a partir de siete ordenanzas citadas por Escobar Norte (pendiente cotejo con los originales del HCD), se incorporó el dataset municipal de ejes de calles y se registró una discrepancia de horario para la Ronda de Negocios Escobar del 24/11/2026: Provincia publica 8:30 y el portal de inscripción 11:30. Se separaron los indicadores municipales de capacidad operativa de seguridad de las estadísticas de delitos; la cifra de 4.586 hechos atribuida a Escobar en un tablero externo sigue pendiente de reproducción. Para Gaceta Norte se añadió el balance publicado de la XIII Semana del Emprendedor Pilarense (más de 500 inscriptos, no necesariamente asistentes efectivos) y se amplió la matriz comparativa de Pilar, Vicente López y Escobar.
 
 ## Historial de trabajo
 Los lotes anteriores, borradores periodísticos, identidad, modelo comercial y documentación de investigación permanecen versionados en el repositorio. Consultar el historial de commits para el detalle de cada ejecución.
