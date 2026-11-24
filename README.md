@@ -37,6 +37,11 @@ Belén de Escobar, Garín, Ingeniero Maschwitz, Maquinista Savio, Matheu, Loma V
 - [Prospectos comerciales y nodos culturales — lote 13](PROSPECTOS/lote-13-mapa-comercial-cultural-escobar-2026-11-23.md)
 - [Registro de fuentes — ejecución 13](FUENTES/registro-2026-11-23-ejecucion-13.md)
 
+
+- [Investigación 14: transformación territorial, memoria y economía de Escobar](INVESTIGACION/ejecucion-14-transformacion-territorial-economia-y-memoria-escobar-2026-11-23.md)
+- [Gaceta Norte: matriz histórica y productiva de Pilar y Vicente López](GACETA_NORTE/ejecucion-14-matriz-historica-productiva-pilar-vicente-lopez-2026-11-23.md)
+- [Registro de fuentes — ejecución 14](FUENTES/registro-2026-11-23-ejecucion-14.md)
+
 ## Principios editoriales
 - Verificar antes de publicar: toda noticia debe tener fuente identificable y fecha.
 - Separar información periodística, opinión y contenido patrocinado.
