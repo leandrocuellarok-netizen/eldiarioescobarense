@@ -1,0 +1,245 @@
+{
+  "project": "La Gaceta de Escobar",
+  "execution": 23,
+  "consulted_at": "2026-11-24T07:05:00-03:00",
+  "scope": "Partido de Escobar, Buenos Aires, Argentina",
+  "records": [
+    {
+      "id": "escobar-ronda-negocios-2026-11-24",
+      "locality": "Ingeniero Maschwitz",
+      "municipality": "Escobar",
+      "topic": "Ronda de Negocios multisectorial",
+      "event_date": "2026-11-24",
+      "venue": "Espacio Mendoza",
+      "primary_sources": [
+        "https://gba.gob.ar/produccion/ronda_de_negocios",
+        "https://rondadenegocios.mp.gba.gob.ar/"
+      ],
+      "secondary_sources": [],
+      "observed_values": {
+        "time_ministry_page": "08:30",
+        "time_registration_platform": "11:30"
+      },
+      "verification_status": "pending",
+      "period": "2026-11-24",
+      "observations": "Dos canales oficiales muestran horarios distintos. No publicar un horario único hasta que exista rectificación."
+    },
+    {
+      "id": "escobar-addnice-garin-2027",
+      "locality": "Garín",
+      "municipality": "Escobar",
+      "topic": "Traslado proyectado de planta industrial",
+      "primary_sources": [
+        "https://www.escobar.gob.ar/noticias/garin-sumara-una-nueva-planta-industrial-y-fortalecera-su-perfil-produ/"
+      ],
+      "secondary_sources": [],
+      "observed_values": {
+        "company": "Grupo Addnice",
+        "planned_year": 2027,
+        "previous_site_company": "Rosen",
+        "sector": "calzado e indumentaria deportiva"
+      },
+      "verification_status": "confirmed",
+      "period": "proyección 2027",
+      "observations": "Confirmado como anuncio municipal, no como traslado ya ejecutado. Empleo, inversión, habilitación y cronograma pendientes."
+    },
+    {
+      "id": "escobar-linea-506-ramal-b-loma-verde",
+      "locality": "Loma Verde",
+      "municipality": "Escobar",
+      "topic": "Transporte público y acceso al empleo industrial",
+      "primary_sources": [
+        "https://www.escobar.gob.ar/noticias/transporte-publico-escobar-suma-dos-nuevos-ramales-y-mas-colectivos-0-/"
+      ],
+      "secondary_sources": [
+        "https://eldiariodeescobar.com.ar/article/ya-funciona-el-ramal-de-la-506-que-conecta-escobar-con-mercado-libre-y-el-parque-industrial-de-loma-verde",
+        "https://lapalabradematheu.com.ar/ya-funciona-un-nuevo-ramal-de-la-linea-506-hacia-mercado-libre-y-el-parque-industrial-de-loma-verde/"
+      ],
+      "observed_values": {
+        "line": "506",
+        "branch": "B",
+        "destination": "Parque Industrial de Loma Verde / centro logístico Mercado Libre",
+        "service_start_reported": "2026-11-18",
+        "saturday_service": false
+      },
+      "verification_status": "corroborated",
+      "period": "2026-11",
+      "observations": "Anuncio oficial y puesta en marcha reportada por medios. Horarios requieren reconfirmación con prestador."
+    },
+    {
+      "id": "escobar-linea-503-ramal-h-matheu",
+      "locality": "Matheu",
+      "municipality": "Escobar",
+      "topic": "Transporte público",
+      "primary_sources": [
+        "https://www.escobar.gob.ar/noticias/transporte-publico-escobar-suma-dos-nuevos-ramales-y-mas-colectivos-0-/"
+      ],
+      "secondary_sources": [
+        "https://eldiadeescobar.com.ar/transporte-urbano-lanzan-nuevos-servicios-desde-escobar-a-matheu-y-loma-verde/"
+      ],
+      "observed_values": {
+        "line": "503",
+        "branch": "H",
+        "planned_connection": "Terminal de Belén de Escobar - estación Matheu"
+      },
+      "verification_status": "pending",
+      "period": "2026-11",
+      "observations": "Anunciado para comenzar la semana posterior al 3/11; falta confirmar operación efectiva y horarios."
+    },
+    {
+      "id": "escobar-ruta25-distribuidor-2026",
+      "locality": "Belén de Escobar",
+      "municipality": "Escobar",
+      "topic": "Infraestructura vial y desarrollo urbano",
+      "primary_sources": [],
+      "secondary_sources": [
+        "https://escobaradiario.com.ar/gestion-publica/nuevo-distribuidor-vial-y-veredas-sobre-la-ruta-25/",
+        "https://alternativaenpapel.com.ar/2026/11/19/escobar-construye-un-nuevo-distribuidor-vial-y-veredas-sobre-la-ruta-25-con-fondos-privados/",
+        "https://www.infoban.com.ar/20/11/2026/escobar-avanza-con-la-construccion-de-un-nuevo-distribuidor-vial-y-veredas-sobre-la-ruta-25/"
+      ],
+      "observed_values": {
+        "reported_investment_ars": 2000000000,
+        "reported_progress_percent": 30,
+        "reported_sidewalk_length_m": 1000,
+        "reported_financier": "Consultatio S.A."
+      },
+      "verification_status": "corroborated",
+      "period": "2026-11",
+      "observations": "Datos reproducidos por prensa local, aparentemente derivados de comunicación municipal. Contrato, convenio, permisos y certificación de avance pendientes."
+    },
+    {
+      "id": "escobar-patrulla-ambiental-2026",
+      "locality": "Todo el partido",
+      "municipality": "Escobar",
+      "topic": "Ambiente e higiene urbana",
+      "primary_sources": [
+        "https://www.escobar.gob.ar/noticias/escobar-suma-la-nueva-patrulla-ambiental-para-el-control-y-prevencion-/"
+      ],
+      "secondary_sources": [
+        "https://www.eldiariodeescobar.com.ar/article/basura-y-quemas-la-patrulla-ambiental-realizo-mas-de-2700-intervenciones-en-escobar",
+        "https://www.infoban.com.ar/18/11/2026/la-patrulla-ambiental-de-escobar-ya-realizo-mas-de-2-700-intervenciones-para-combatir-la-contaminacion-urbana/"
+      ],
+      "observed_values": {
+        "interventions_total": 2712,
+        "illegal_dumping": 1548,
+        "waste_burning": 1164,
+        "contraventions_dumping": 133,
+        "microdumps_detected": 286,
+        "wastewater_actions": 6
+      },
+      "verification_status": "corroborated",
+      "period": "2026-08 a 2026-11, según comunicación municipal",
+      "observations": "Cifras atribuidas al Municipio. Falta metodología, fecha de corte precisa y distribución territorial agregada; no usar para etiquetar barrios."
+    },
+    {
+      "id": "escobar-fondo-entidades-bien-publico-2026",
+      "locality": "Todo el partido",
+      "municipality": "Escobar",
+      "topic": "Política pública y organizaciones comunitarias",
+      "primary_sources": [
+        "https://www.escobar.gob.ar/tramites/guia/fondo-de-fortalecimiento-para-entidades-de-bien-publico/"
+      ],
+      "secondary_sources": [
+        "https://www.eldiariodeescobar.com.ar/article/escobar-aprobo-por-ordenanza-un-fondo-para-apoyar-a-clubes-bomberos-y-entidades-comunitarias",
+        "https://www.zonanortediario.com.ar/20/11/2026/el-hcd-de-escobar-aprobo-una-ordenanza-para-garantizar-la-continuidad-del-fondo-de-fortalecimiento-a-entidades-de-bien-publico/"
+      ],
+      "observed_values": {
+        "institutions_reported_assisted": 135,
+        "total_entities_reported_by_municipality": 600,
+        "approval": "unanimous, as reported"
+      },
+      "verification_status": "corroborated",
+      "period": "programa desde 2022; ordenanza informada en noviembre 2026",
+      "observations": "Falta texto íntegro, número, promulgación, reglamentación y partida presupuestaria. No equiparar 135 beneficiarias con 600 entidades totales."
+    },
+    {
+      "id": "escobar-inteligencia-publica-2026",
+      "locality": "Todo el partido",
+      "municipality": "Escobar",
+      "topic": "Capacitación en IA para personal municipal",
+      "primary_sources": [],
+      "secondary_sources": [
+        "https://www.ciudadanianoticias.ar/noticias/escobar-es-el-primer-municipio-en-sumarse-a--inteligencia-publica-_a6b03fa23fde8ae76f85dbbc5",
+        "https://eldiariodeescobar.com.ar/article/empleados-municipales-de-escobar-se-capacitaran-en-inteligencia-artificial-para-mejorar-la-atencion-y-los-tramites",
+        "https://alternativaenpapel.com.ar/2026/11/20/escobar-el-primer-municipio-del-pais-en-incorporarse-a-inteligencia-publica-el-programa-de-capacitacion-en-ia-para-empleados-estatales/"
+      ],
+      "observed_values": {
+        "program": "Inteligencia Pública",
+        "partner": "Wingu",
+        "support": "Google.org",
+        "reported_start": "2026-11-25",
+        "reported_modules": 6,
+        "reported_scope": "personal municipal"
+      },
+      "verification_status": "corroborated",
+      "period": "2026-11 a 2027",
+      "observations": "No se localizó convenio completo ni documento municipal con alcance, evaluación o política de tratamiento de datos."
+    },
+    {
+      "id": "escobar-ley-6068-historia",
+      "locality": "Partido de Escobar",
+      "municipality": "Escobar",
+      "topic": "Creación institucional del partido",
+      "primary_sources": [
+        "https://normas.gba.gob.ar/ar-b/ley/1959/6068/9190",
+        "https://normas.gba.gob.ar/documentos/0ZdPKcqB.pdf"
+      ],
+      "secondary_sources": [
+        "https://www.escobar.gob.ar/escobar-conmemoro-su-67-aniversario-con-un-acto-institucional-y-un-llamado-a-seguir-construyendo-el-distrito-en-comunidad/",
+        "https://eldiariodeescobar.com.ar/article/de-la-canada-de-escobar-a-la-capital-de-la-flor-la-historia-detras-de-la-creacion-del-partido"
+      ],
+      "observed_values": {
+        "law": "6068",
+        "local_commemorative_date": "1959-10-08",
+        "promulgation": "1959-10-23",
+        "official_publication": "1959-10-30",
+        "official_bulletin": "14048"
+      },
+      "verification_status": "confirmed",
+      "period": "1959",
+      "observations": "Separar sanción, promulgación y publicación. La base provincial registra promulgación el 23/10 y publicación el 30/10; la fecha conmemorativa municipal es 8/10."
+    },
+    {
+      "id": "escobar-archivo-historico-pedro-de-angelis",
+      "locality": "Belén de Escobar",
+      "municipality": "Escobar",
+      "topic": "Archivo histórico y memoria documental",
+      "primary_sources": [],
+      "secondary_sources": [
+        "https://escobaradiario.com.ar/cultura-y-espectaculos/reapertura-oficial-y-puesta-en-valor-del-archivo-historico-municipal-dr-pedro-de-angelis/",
+        "https://escobaradiario.com.ar/gestion-publica/la-historia-de-escobar-al-alcance-de-todos/",
+        "https://archivohistoricodescobar.blogspot.com/2009/12/historia-del-archivo-historico-del.html"
+      ],
+      "observed_values": {
+        "creation_ordinance_reported": "2630/97",
+        "public_opening_reported": "1999-05",
+        "files_digitized_reported": 4000,
+        "chronology_variants": [
+          "1895-1975",
+          "1909-1979"
+        ]
+      },
+      "verification_status": "corroborated",
+      "period": "1895-1979, according to differing descriptions",
+      "observations": "Discrepancia de períodos documentales; consultar inventario y catálogo antes de precisar."
+    },
+    {
+      "id": "escobar-incendio-garin-2026-11",
+      "locality": "Garín",
+      "municipality": "Escobar",
+      "topic": "Incendio en predio de almacenamiento de madera y pallets",
+      "primary_sources": [],
+      "secondary_sources": [
+        "https://eldiadeescobar.com.ar/impresionante-incendio-en-un-deposito-de-maderas-y-pallets-de-garin/",
+        "https://realidadesdeescobar.com.ar/garin-impresionante-incendio-en-un-deposito-de-maderas-y-pallets/"
+      ],
+      "observed_values": {
+        "reported_date": "2026-11-23",
+        "cause": "unknown in reports"
+      },
+      "verification_status": "pending",
+      "period": "2026-11-23",
+      "observations": "No parte oficial localizado. No inferir causa, responsabilidad o habilitación. Evitar detalles innecesarios de ubicación."
+    }
+  ]
+}
