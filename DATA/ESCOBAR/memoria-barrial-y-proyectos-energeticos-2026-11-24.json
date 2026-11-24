@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0",
+  "dataset": "La Gaceta de Escobar — memoria barrial, ordenamiento territorial y BESS",
+  "municipality": "Escobar",
+  "consulted_at": "2026-11-24T04:56:00-03:00",
+  "editorial_status": "internal_research_not_for_publication",
+  "records": [
+    {
+      "id": "escobar-ordenanza-6515-barrios-2026",
+      "topic": "Registro Municipal de Barrios",
+      "date_published": "2026-09-25",
+      "source_primary": "Municipalidad de Escobar",
+      "source_primary_url": "https://www.escobar.gob.ar/noticias/identidad-memoria-y-futuro-con-la-firma-de-una-ordenanza-historica-escobar-reconocio-oficialmente-sus-246-barrios/",
+      "source_secondary": "El Día de Escobar",
+      "source_secondary_url": "https://eldiadeescobar.com.ar/identidad-y-futuro-el-municipio-reconocio-a-los-246-barrios-que-conforman-el-partido-el-escobar/",
+      "official_ordinance": "6515",
+      "neighborhood_count_official_release": 246,
+      "breakdown": {
+        "Belén de Escobar": 108,
+        "Garín": 34,
+        "Ingeniero Maschwitz": 33,
+        "Loma Verde": 22,
+        "Matheu": 21,
+        "Maquinista Savio": 19,
+        "24 de Febrero": 9
+      },
+      "verification_status": "corroborated_with_discrepancy",
+      "notes": "La comunicación municipal del 25/09 informa 246 barrios y 21 en Matheu. Una nota de El Día de Escobar del 22/09 informó 245 y 20 en Matheu. Obtener texto completo y anexos de la Ordenanza 6515 para reconciliar versiones. La categoría territorial de 24 de Febrero debe conservarse tal como la denomina cada fuente."
+    },
+    {
+      "id": "escobar-memory-phillips",
+      "topic": "Memoria barrial — Barrio Phillips",
+      "locality": "Belén de Escobar",
+      "source_primary": "Municipalidad de Escobar, programa Escobar y sus Barrios",
+      "source_primary_url": "https://www.escobar.gob.ar/municipio/escobarparticipa/escobarysusbarrios/",
+      "source_secondary": null,
+      "verification_status": "testimony_published",
+      "notes": "Relato vecinal publicado por el Municipio: las señoritas Phillips habrían sido propietarias de lotes, ayudado a niños y donado terrenos para capilla, escuelas y plaza. Identidad, propiedad y donaciones requieren corroboración documental independiente."
+    },
+    {
+      "id": "escobar-memory-la-victoria",
+      "topic": "Memoria barrial — posible fábrica de sidra",
+      "locality": "Belén de Escobar",
+      "source_primary": "Municipalidad de Escobar, programa Escobar y sus Barrios",
+      "source_primary_url": "https://www.escobar.gob.ar/municipio/escobarparticipa/escobarysusbarrios/",
+      "source_secondary": null,
+      "verification_status": "testimony",
+      "notes": "Vecinos relacionan la presencia histórica de perales con una fábrica de sidra. No hay corroboración documental localizada sobre razón social, fechas o ubicación."
+    },
+    {
+      "id": "escobar-memory-dacunto",
+      "topic": "Memoria industrial — fábrica de ladrillos Dacunto",
+      "locality": "Belén de Escobar",
+      "period": "1911-1976 (fechas consignadas por el Municipio)",
+      "source_primary": "Municipalidad de Escobar, programa Escobar y sus Barrios",
+      "source_primary_url": "https://www.escobar.gob.ar/municipio/escobarparticipa/escobarysusbarrios/",
+      "source_secondary": null,
+      "verification_status": "pending_documentary_corroboration",
+      "notes": "El Municipio vincula el nombre del barrio con una fábrica de ladrillos y una chimenea recordada por vecinos. Buscar habilitaciones, padrones industriales, fotografías y prensa histórica."
+    },
+    {
+      "id": "escobar-memory-matheu-railway",
+      "topic": "Origen del nombre y memoria ferroviaria",
+      "locality": "Matheu",
+      "source_primary": "Municipalidad de Escobar, programa Escobar y sus Barrios",
+      "source_primary_url": "https://www.escobar.gob.ar/municipio/escobarparticipa/escobarysusbarrios/",
+      "source_secondary": "Municipalidad de Escobar, aniversario del partido",
+      "source_secondary_url": "https://www.escobar.gob.ar/escobar-conmemoro-su-67-aniversario-con-un-acto-institucional-y-un-llamado-a-seguir-construyendo-el-distrito-en-comunidad/",
+      "verification_status": "corroborated_as_municipal_account",
+      "notes": "La fuente municipal vincula el nombre con Domingo Matheu y con la parada ferroviaria Kilómetro 54 del ramal Victoria-Zelaya, luego Estación Matheu. Falta archivo ferroviario primario."
+    },
+    {
+      "id": "escobar-bess-maschwitz-2026",
+      "topic": "Almacenamiento eléctrico BESS Maschwitz",
+      "locality": "Ingeniero Maschwitz",
+      "company": "Genneia",
+      "technical_power_mw": 40,
+      "storage_capacity_mwh_claims": [
+        160,
+        200
+      ],
+      "container_count_claimed": 44,
+      "source_primary": "Municipalidad de Escobar",
+      "source_primary_url": "https://www.escobar.gob.ar/noticias/ingeniero-maschwitz-suma-una-nueva-planta-de-almacenamiento-electrico-/",
+      "source_corporate": "Genneia",
+      "source_corporate_url": "https://www.genneia.com.ar/baterias-maschwitz",
+      "source_secondary": "El Día de Escobar",
+      "source_secondary_url": "https://eldiadeescobar.com.ar/instalaran-en-maschwitz-una-planta-de-almacenamiento-de-energia-con-baterias-de-litio/",
+      "environmental_public_participation_url": "https://participacionpublica.ambiente.gba.gob.ar/participacion/resumen/Planta-almacenamiento-BESS-MASCHWITZ-33-kV-y-LMT-de-vinculaci%C3%B3n",
+      "environmental_eia_attachment_url": "https://participacionpublica.ambiente.gba.gob.ar/adjunto/descargar/445",
+      "verification_status": "corroborated_with_material_discrepancies",
+      "notes": "Potencia de 40 MW. Capacidad de 200 MWh en prensa local, mientras el reporte corporativo de financiamiento verde 2025 consigna 160 MWh comprometidos. El portal provincial de participación pública titula el proyecto BESS Maschwitz pero identifica Partido: Tigre y fechas 02/10/2025-01/11/2025; Genneia informa exposición del EIA 21/07/2026-11/08/2026. No asumir que se trata del mismo expediente: verificar parcela, jurisdicción, expediente y versión de EIA. Según el Municipio, hay autorización para trabajos preliminares, prefactibilidad hídrica y aval técnico de Bomberos; DIA final, licencia municipal de construcción y habilitación de funcionamiento deben distinguirse como trámites pendientes en la información publicada."
+    },
+    {
+      "id": "escobar-bess-maschwitz-protest-2026-11-21",
+      "topic": "Movilización vecinal por ubicación y seguridad de BESS Maschwitz",
+      "locality": "Ingeniero Maschwitz",
+      "date": "2026-11-21",
+      "source_secondary": "Que Pasa Web",
+      "source_secondary_url": "https://www.quepasaweb.com.ar/ingeniero-maschwitz-manefestaciona-marcha-no-litio-baterias-szn2/",
+      "verification_status": "reported_event_testimonial_details",
+      "notes": "El medio informa movilización el 21/11 y reunión informativa de Genneia el 20/11. La cifra de aproximadamente 500 participantes es una estimación atribuida a un vecino entrevistado, no un conteo independiente. Las preocupaciones vecinales deben presentarse como reclamos y preguntas, no como prueba de daño o riesgo materializado."
+    },
+    {
+      "id": "escobar-licitaciones-bo-14523-2026",
+      "topic": "Licitaciones Públicas 71, 72 y 75/2026",
+      "publication_date": "2026-11-20",
+      "source_primary": "Boletín Oficial de la Provincia de Buenos Aires",
+      "source_primary_url": "https://boletinoficial.gba.gob.ar/secciones/14523/descargar",
+      "verification_status": "confirmed_calls",
+      "records": [
+        {
+          "procedure": "LP 71/2026",
+          "object": "Provisión de piedra partida",
+          "official_budget_ars": 644206500,
+          "opening_local": "2026-12-11T11:00:00-03:00"
+        },
+        {
+          "procedure": "LP 72/2026",
+          "object": "Provisión de cascote",
+          "official_budget_ars": 700500000,
+          "opening_local": "2026-12-11T10:00:00-03:00"
+        },
+        {
+          "procedure": "LP 75/2026",
+          "object": "Fumigación y control de mosquitos transmisores de dengue, zika y chikungunya",
+          "official_budget_ars": 1400000000,
+          "opening_local": "2026-12-09T12:00:00-03:00"
+        }
+      ],
+      "notes": "Los importes son presupuestos oficiales de convocatoria, no adjudicaciones ni pagos. Las tres licitaciones ya estaban incluidas en el dataset general de diez llamados; esta entrada documenta la auditoría narrativa y evita duplicarlas."
+    }
+  ]
+}
